@@ -9,7 +9,7 @@ import { useProgressStore } from '@/store/progressStore';
 import { Card } from '@/components/ui/Card';
 import { Button } from '@/components/ui/Button';
 import { XPBar } from '@/components/gamification/XPBar';
-import { Byte } from '@/components/mascot/Byte';
+import { Tuca } from '@/components/mascot/Tuca';
 import { LangBadge } from '@/components/ui/LangBadge';
 import { Confetti } from '@/components/gamification/Confetti';
 import { useSounds } from '@/hooks/useSounds';
@@ -52,7 +52,7 @@ export function Dashboard() {
   const goalXp = xp?.daily_goal ?? 50;
   const goalMet = xp?.daily_goal_met ?? false;
 
-  // Byte reage: comemora ao bater a meta, feliz com ofensiva, ocioso caso contrário.
+  // Tuca reage: comemora ao bater a meta, feliz com ofensiva, ocioso caso contrário.
   const byteState = goalMet ? 'cheer' : streak > 0 ? 'happy' : 'idle';
 
   // Dispara celebração (confete + som) uma única vez quando a meta é detectada.
@@ -83,7 +83,7 @@ export function Dashboard() {
             whileHover={{ scale: 1.06, rotate: 3 }}
             className="shrink-0 drop-shadow-[0_8px_18px_rgba(88,204,2,0.25)]"
           >
-            <Byte state={byteState} size={64} />
+            <Tuca state={byteState} size={64} />
           </motion.div>
           <div>
             <h1 className="font-display text-2xl font-extrabold">

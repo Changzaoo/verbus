@@ -11,7 +11,7 @@ import { themeColor } from '@/lib/themeColor';
 import { api } from '@/lib/api';
 import { Button } from '@/components/ui/Button';
 import { FullPageSpinner } from '@/components/ui/Spinner';
-import { Byte } from '@/components/mascot/Byte';
+import { Tuca } from '@/components/mascot/Tuca';
 import { DialogueStage } from '@/components/scene/DialogueStage';
 import { Confetti } from '@/components/gamification/Confetti';
 import { SpeakerButton } from '@/components/exercises/SpeakerButton';
@@ -34,7 +34,7 @@ export function Stories() {
   if (!stories.length) {
     return (
       <div className="flex flex-col items-center gap-4 py-16 text-center">
-        <Byte state="sleep" size={120} />
+        <Tuca state="sleep" size={120} />
         <p className="text-muted">As histórias de {pack.language.name} ainda estão sendo preparadas.</p>
         <Button onClick={() => navigate('/app/practice')}>Voltar ao hub</Button>
       </div>
@@ -140,7 +140,7 @@ function Reader({ pack, story, onBack }: { pack: DialoguePack; story: Dialogue; 
       <>
         <Confetti burstKey={1} pieces={80} originX={50} originY={30} />
         <div className="flex flex-col items-center gap-4 py-10 text-center">
-          <Byte state="levelup" size={150} />
+          <Tuca state="levelup" size={150} />
           <h1 className="font-display text-2xl font-extrabold">Fim da história!</h1>
           <p className="text-muted">Compreensão: <b className="text-correct">{score}</b> acertos · <b className="text-xp">+{score * 4 + 6} XP</b></p>
           <div className="mt-2 flex w-full max-w-xs flex-col gap-2">
@@ -188,7 +188,7 @@ function Reader({ pack, story, onBack }: { pack: DialoguePack; story: Dialogue; 
       <div ref={scrollRef} className="flex max-h-[22vh] flex-col gap-2 overflow-y-auto py-1">
         {transcript.map((t, i) => (
           <div key={i} className={cn('flex items-center gap-2 text-sm', t.sp === 'A' ? '' : 'flex-row-reverse text-right')}>
-            <span className="rounded-full bg-edge/60 px-2 py-0.5 text-[10px] font-bold uppercase">{t.sp === 'A' ? 'Byte' : 'Lia'}</span>
+            <span className="rounded-full bg-edge/60 px-2 py-0.5 text-[10px] font-bold uppercase">{t.sp === 'A' ? 'Tuca' : 'Lia'}</span>
             <div className={cn('rounded-xl px-2 py-1', t.sp === 'A' ? 'bg-surface ring-1 ring-edge' : 'bg-brand/10')}>
               <span className="font-bold text-ink">{prettyTerm(t.term)}</span>
               <span className="ml-1 text-xs text-muted">— {t.pt}</span>

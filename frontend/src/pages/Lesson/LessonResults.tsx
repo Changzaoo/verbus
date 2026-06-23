@@ -1,7 +1,7 @@
 import { useEffect, useState } from 'react';
 import { motion } from 'framer-motion';
 import { Star, Zap, Gem, Target, Clock, Flame, Trophy } from 'lucide-react';
-import { Byte } from '@/components/mascot/Byte';
+import { Tuca } from '@/components/mascot/Tuca';
 import { Button } from '@/components/ui/Button';
 import { Confetti } from '@/components/gamification/Confetti';
 import { useSounds } from '@/hooks/useSounds';
@@ -61,7 +61,7 @@ export function LessonResults({ result, stars, accuracy, seconds, maxCombo = 0, 
       <Confetti burstKey={burst} pieces={120} power={1.5} originY={30} />
 
       <motion.div initial={{ scale: 0.5, opacity: 0, rotate: -10 }} animate={{ scale: 1, opacity: 1, rotate: 0 }} transition={{ type: 'spring', stiffness: 260, damping: 14 }}>
-        <Byte state="celebrate" size={170} />
+        <Tuca state="celebrate" size={170} />
       </motion.div>
 
       <motion.h1

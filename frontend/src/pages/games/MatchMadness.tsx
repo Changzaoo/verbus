@@ -9,7 +9,7 @@ import { useProgressStore } from '@/store/progressStore';
 import { api } from '@/lib/api';
 import { Button } from '@/components/ui/Button';
 import { FullPageSpinner } from '@/components/ui/Spinner';
-import { Byte, type ByteState } from '@/components/mascot/Byte';
+import { Tuca, type ByteState } from '@/components/mascot/Tuca';
 import { Confetti } from '@/components/gamification/Confetti';
 import { cn } from '@/lib/cn';
 import type { UserProfile } from '@/types';
@@ -174,7 +174,7 @@ function Game({ mat }: { mat: Material }) {
       <>
         <Confetti burstKey={1} pieces={matched >= 12 ? 100 : 60} power={matched >= 12 ? 1.3 : 1} originX={50} originY={30} />
         <div className="flex flex-col items-center gap-4 py-10 text-center">
-          <Byte state={byteState} size={150} />
+          <Tuca state={byteState} size={150} />
           <h1 className="font-display text-2xl font-extrabold">Tempo!</h1>
           <div className="flex flex-wrap items-center justify-center gap-3">
             <Stat icon={<Swords size={16} />} label="Pares" value={String(matched)} tone="text-correct" />

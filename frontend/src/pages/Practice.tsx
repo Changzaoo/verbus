@@ -7,7 +7,7 @@ import { api } from '@/lib/api';
 import { cn } from '@/lib/cn';
 import { FullPageSpinner } from '@/components/ui/Spinner';
 import { LangBadge } from '@/components/ui/LangBadge';
-import { Byte } from '@/components/mascot/Byte';
+import { Tuca } from '@/components/mascot/Tuca';
 import type { Language } from '@/types';
 
 interface Mode {
@@ -23,7 +23,7 @@ interface Mode {
 const MODES: Mode[] = [
   { key: 'match', label: 'Match Madness', desc: 'Conecte os pares o mais rápido que conseguir antes do tempo acabar!', icon: Swords, color: '#FF4B4B', to: (c) => `/app/games/match/${c}`, needsLang: true },
   { key: 'podcast', label: 'Podcast', desc: 'Ouça um episódio narrado e acompanhe a transcrição.', icon: Radio, color: '#CE82FF', to: (c) => `/app/podcast/${c}`, needsLang: true },
-  { key: 'call', label: 'Ligação', desc: 'Atenda uma chamada do Byte e converse de verdade.', icon: Phone, color: '#58CC02', to: (c) => `/app/call/${c}`, needsLang: true },
+  { key: 'call', label: 'Ligação', desc: 'Atenda uma chamada do Tuca e converse de verdade.', icon: Phone, color: '#58CC02', to: (c) => `/app/call/${c}`, needsLang: true },
   { key: 'stories', label: 'Histórias', desc: 'Viva uma historinha interativa e responda pelo caminho.', icon: BookOpen, color: '#FF9600', to: (c) => `/app/stories/${c}`, needsLang: true },
   { key: 'srs', label: 'Revisão SRS', desc: 'Reforce as palavras que você está prestes a esquecer.', icon: Brain, color: '#1CB0F6', to: () => `/app/practice/review`, needsLang: false },
 ];
@@ -43,7 +43,7 @@ export function Practice() {
   return (
     <div className="flex flex-col gap-6">
       <motion.div className="flex items-center gap-3" initial={{ opacity: 0, y: -12 }} animate={{ opacity: 1, y: 0 }}>
-        <Byte state="happy" size={64} />
+        <Tuca state="happy" size={64} />
         <div>
           <h1 className="flex items-center gap-2 font-display text-2xl font-extrabold">
             <Gamepad2 className="text-brand" size={26} /> Praticar &amp; Jogar

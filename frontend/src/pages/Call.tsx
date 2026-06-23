@@ -10,7 +10,7 @@ import { useProgressStore } from '@/store/progressStore';
 import { api } from '@/lib/api';
 import { Button } from '@/components/ui/Button';
 import { FullPageSpinner } from '@/components/ui/Spinner';
-import { Byte, type ByteState } from '@/components/mascot/Byte';
+import { Tuca, type ByteState } from '@/components/mascot/Tuca';
 import { Lia } from '@/components/mascot/Lia';
 import { Confetti } from '@/components/gamification/Confetti';
 import { SpeakerButton } from '@/components/exercises/SpeakerButton';
@@ -31,7 +31,7 @@ function NoContent({ name }: { name: string }) {
   const navigate = useNavigate();
   return (
     <div className="flex flex-col items-center gap-4 py-16 text-center">
-      <Byte state="sleep" size={120} />
+      <Tuca state="sleep" size={120} />
       <p className="text-muted">Os diálogos de {name} ainda estão sendo preparados.</p>
       <Button onClick={() => navigate('/app/practice')}>Voltar ao hub</Button>
     </div>
@@ -127,11 +127,11 @@ function CallScreen({ pack }: { pack: DialoguePack }) {
     return (
       <div className="flex min-h-[70vh] flex-col items-center justify-center gap-6 text-center">
         <motion.div animate={{ rotate: [-8, 8, -8] }} transition={{ duration: 0.6, repeat: Infinity }}>
-          <Byte state="happy" size={150} />
+          <Tuca state="happy" size={150} />
         </motion.div>
         <div>
           <div className="text-sm font-bold uppercase tracking-wide text-muted">Chamada recebida</div>
-          <h1 className="font-display text-2xl font-extrabold">Byte está te ligando…</h1>
+          <h1 className="font-display text-2xl font-extrabold">Tuca está te ligando…</h1>
           <p className="mt-1 text-muted">Pratique uma conversa de verdade em {pack.language.name}.</p>
         </div>
         <div className="flex items-center gap-10">
@@ -154,7 +154,7 @@ function CallScreen({ pack }: { pack: DialoguePack }) {
       <>
         <Confetti burstKey={1} pieces={70} originX={50} originY={30} />
         <div className="flex flex-col items-center gap-4 py-10 text-center">
-          <Byte state={score >= exchanges.length ? 'levelup' : 'celebrate'} size={150} />
+          <Tuca state={score >= exchanges.length ? 'levelup' : 'celebrate'} size={150} />
           <h1 className="font-display text-2xl font-extrabold">Chamada encerrada!</h1>
           <p className="text-muted">Respostas certas: <b className="text-correct">{score}/{exchanges.length}</b></p>
           <div className="flex items-center gap-1 text-lg font-extrabold text-xp"><Zap size={18} /> +{xp} XP</div>
@@ -168,11 +168,11 @@ function CallScreen({ pack }: { pack: DialoguePack }) {
 
   return (
     <div className="flex flex-col gap-3">
-      {/* Cabeçalho da chamada com Byte falando */}
+      {/* Cabeçalho da chamada com Tuca falando */}
       <div className="flex items-center gap-3 rounded-2xl bg-surface p-3 ring-1 ring-edge">
-        <Byte state={byteState} talking={byteTalking} size={48} />
+        <Tuca state={byteState} talking={byteTalking} size={48} />
         <div className="flex-1">
-          <div className="font-extrabold">Byte</div>
+          <div className="font-extrabold">Tuca</div>
           <div className="flex items-center gap-1 text-xs text-correct"><PhoneCall size={12} /> {fmt(seconds)}</div>
         </div>
         <button onClick={hangup} aria-label="Desligar" className="grid h-11 w-11 place-items-center rounded-full bg-wrong text-white"><PhoneOff size={20} /></button>
@@ -188,7 +188,7 @@ function CallScreen({ pack }: { pack: DialoguePack }) {
               animate={{ opacity: 1, y: 0, scale: 1 }}
               className={cn('flex items-end gap-2', b.who === 'byte' ? '' : 'flex-row-reverse')}
             >
-              {b.who === 'byte' ? <Byte state="idle" size={30} /> : <Lia state="happy" size={30} />}
+              {b.who === 'byte' ? <Tuca state="idle" size={30} /> : <Lia state="happy" size={30} />}
               <div className={cn('max-w-[78%] rounded-2xl px-3 py-2', b.who === 'byte' ? 'rounded-bl-sm bg-surface ring-1 ring-edge' : 'rounded-br-sm bg-brand/15')}>
                 <div className="flex items-center gap-1.5">
                   <span className="font-bold text-ink">{b.term}</span>
@@ -206,7 +206,7 @@ function CallScreen({ pack }: { pack: DialoguePack }) {
       <div className="rounded-2xl border-2 border-edge bg-surface p-3">
         {turn === 'byte' ? (
           <div className="flex items-center justify-center gap-2 py-3 text-muted">
-            <Volume2 size={18} /> Byte está falando…
+            <Volume2 size={18} /> Tuca está falando…
           </div>
         ) : (
           <>

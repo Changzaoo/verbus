@@ -5,7 +5,7 @@ import { cn } from '@/lib/cn';
 import { useProgressStore } from '@/store/progressStore';
 import { StreakFlame } from '@/components/gamification/StreakFlame';
 import { GemCounter } from '@/components/gamification/GemCounter';
-import { Byte } from '@/components/mascot/Byte';
+import { Tuca } from '@/components/mascot/Tuca';
 import { VerbusWordmark } from '@/components/brand/GreetingCycle';
 
 const NAV = [
@@ -39,7 +39,7 @@ export function AppLayout({ children }: { children: ReactNode }) {
       {/* Sidebar desktop */}
       <aside className="fixed left-0 top-0 hidden h-screen w-60 flex-col border-r-2 border-edge bg-surface p-4 md:flex">
         <div className="mb-6 flex items-center gap-2 px-2">
-          <Byte size={40} />
+          <Tuca size={40} />
           <VerbusWordmark className="text-2xl text-brand" />
         </div>
         <nav className="flex flex-1 flex-col gap-1">

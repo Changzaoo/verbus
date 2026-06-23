@@ -9,7 +9,7 @@ import { Button } from '@/components/ui/Button';
 import { Modal } from '@/components/ui/Modal';
 import { GemCounter } from '@/components/gamification/GemCounter';
 import { Confetti } from '@/components/gamification/Confetti';
-import { Byte } from '@/components/mascot/Byte';
+import { Tuca } from '@/components/mascot/Tuca';
 import { Icon } from '@/components/ui/Icon';
 import { useSounds } from '@/hooks/useSounds';
 import { useAuthStore } from '@/store/authStore';
@@ -90,7 +90,7 @@ export function Shop() {
             exit={{ opacity: 0, y: 40, scale: 0.7 }}
             transition={{ type: 'spring', stiffness: 260, damping: 18 }}
           >
-            <Byte state="celebrate" size={120} />
+            <Tuca state="celebrate" size={120} />
           </motion.div>
         )}
       </AnimatePresence>
@@ -247,7 +247,7 @@ export function Shop() {
           initial={{ opacity: 0, scale: 0.9 }}
           animate={{ opacity: 1, scale: 1 }}
         >
-          <Byte state="idle" size={120} />
+          <Tuca state="idle" size={120} />
           <p className="font-bold text-ink">A loja está vazia por enquanto</p>
           <p className="text-sm text-muted">Volte mais tarde para novidades!</p>
         </motion.div>

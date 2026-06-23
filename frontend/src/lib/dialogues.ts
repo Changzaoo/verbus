@@ -1,7 +1,7 @@
 import { api } from '@/lib/api';
 import { prettyTerm, shuffle } from '@/lib/material';
 
-export type Speaker = 'A' | 'B'; // A = Byte, B = Lia
+export type Speaker = 'A' | 'B'; // A = Tuca, B = Lia
 
 export interface DialogueTurn {
   sp: Speaker;
@@ -29,11 +29,11 @@ export { prettyTerm, shuffle };
 
 /**
  * Monta os turnos de "responda corretamente" para a Ligação: para cada fala da Lia (B)
- * que responde a uma fala do Byte (A), oferece a resposta certa + distratores plausíveis
+ * que responde a uma fala do Tuca (A), oferece a resposta certa + distratores plausíveis
  * (outras falas da Lia, do mesmo diálogo — topicamente próximas, mas só uma é coerente).
  */
 export interface CallExchange {
-  prompt: DialogueTurn; // fala do Byte (A)
+  prompt: DialogueTurn; // fala do Tuca (A)
   reply: DialogueTurn; // resposta correta da Lia (B)
   options: string[]; // termos (pretty) embaralhados
 }

@@ -4,7 +4,7 @@ import { useQuery } from '@tanstack/react-query';
 import { motion, AnimatePresence, type Variants } from 'framer-motion';
 import { Sparkles, ArrowRight, BookOpen, Globe2 } from 'lucide-react';
 import { api } from '@/lib/api';
-import { Byte, type ByteState } from '@/components/mascot/Byte';
+import { Tuca, type ByteState } from '@/components/mascot/Tuca';
 import { Confetti } from '@/components/gamification/Confetti';
 import { Card } from '@/components/ui/Card';
 import { LangBadge } from '@/components/ui/LangBadge';
@@ -70,7 +70,7 @@ export function LanguageSelect() {
           onHoverStart={() => setByteState('excited')}
           onHoverEnd={() => setByteState('idle')}
         >
-          <Byte state={byteState} size={92} />
+          <Tuca state={byteState} size={92} />
         </motion.div>
 
         <div className="flex-1">

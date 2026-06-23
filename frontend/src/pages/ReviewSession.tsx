@@ -9,7 +9,7 @@ import { useProgressStore } from '@/store/progressStore';
 import { ExerciseRenderer } from '@/components/exercises/ExerciseRenderer';
 import { renderRich } from '@/components/ui/RichText';
 import type { ExerciseDraft } from '@/components/exercises/types';
-import { Byte, randomPositiveState, type ByteState } from '@/components/mascot/Byte';
+import { Tuca, randomPositiveState, type ByteState } from '@/components/mascot/Tuca';
 import { Confetti } from '@/components/gamification/Confetti';
 import { Button } from '@/components/ui/Button';
 import { ProgressBar } from '@/components/ui/ProgressBar';
@@ -72,7 +72,7 @@ export function ReviewSession() {
         animate={{ opacity: 1, y: 0 }}
         transition={{ duration: 0.5, ease: 'easeOut' }}
       >
-        <Byte state="sleep" size={150} />
+        <Tuca state="sleep" size={150} />
         <h1 className="text-2xl font-extrabold">Nada para revisar agora!</h1>
         <p className="max-w-sm text-muted">
           Complete lições para alimentar sua revisão espaçada <span className="font-bold text-brand">(SRS)</span>.
@@ -96,7 +96,7 @@ export function ReviewSession() {
         <motion.div className="flex flex-col items-center gap-4 py-12 text-center" initial={{ opacity: 0 }} animate={{ opacity: 1 }} transition={{ duration: 0.4 }}>
           <div className="relative">
             <motion.div aria-hidden className="absolute inset-0 -z-10 rounded-full bg-brand/25 blur-2xl" animate={{ scale: [1, 1.25, 1], opacity: [0.4, 0.7, 0.4] }} transition={{ duration: 2.4, repeat: Infinity, ease: 'easeInOut' }} />
-            <Byte state={finalByte} size={156} />
+            <Tuca state={finalByte} size={156} />
           </div>
           <h1 className="flex items-center gap-2 text-2xl font-extrabold">
             <Brain className="text-brand" size={28} />
@@ -165,7 +165,7 @@ export function ReviewSession() {
       <div className="flex flex-col gap-4">
         <div className="flex items-center gap-3">
           <motion.div className="shrink-0" animate={{ scale: checked ? [1, 1.12, 1] : 1 }} transition={{ duration: 0.4 }}>
-            <Byte state={byteState} size={56} />
+            <Tuca state={byteState} size={56} />
           </motion.div>
           <div className="flex min-w-0 flex-1 flex-col gap-1">
             <div className="flex items-center justify-between">

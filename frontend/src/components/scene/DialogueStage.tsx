@@ -1,5 +1,5 @@
 import { motion, AnimatePresence } from 'framer-motion';
-import { Byte, type ByteState } from '@/components/mascot/Byte';
+import { Tuca, type ByteState } from '@/components/mascot/Tuca';
 import { Lia, type LiaState } from '@/components/mascot/Lia';
 import { SpeakerButton } from '@/components/exercises/SpeakerButton';
 import { cn } from '@/lib/cn';
@@ -12,7 +12,7 @@ export interface StageBubble {
 }
 
 interface DialogueStageProps {
-  /** Quem está em foco/falando ('A' = Byte, 'B' = Lia). null = ninguém. */
+  /** Quem está em foco/falando ('A' = Tuca, 'B' = Lia). null = ninguém. */
   active: Speaker | null;
   talking: boolean;
   color: string;
@@ -99,9 +99,9 @@ export function DialogueStage({
           animate={{ scale: byteActive ? 1.06 : 0.92, opacity: active && !byteActive ? 0.55 : 1, filter: active && !byteActive ? 'saturate(0.6)' : 'saturate(1)' }}
           transition={{ type: 'spring', stiffness: 200, damping: 20 }}
         >
-          <Byte state={byteState} talking={byteActive && talking} size={Math.round(height * 0.46)} />
+          <Tuca state={byteState} talking={byteActive && talking} size={Math.round(height * 0.46)} />
           {byteActive && talking && <SoundWave color={color} />}
-          <span className="rounded-full bg-surface/80 px-2 py-0.5 text-[10px] font-bold uppercase tracking-wide text-muted">Byte</span>
+          <span className="rounded-full bg-surface/80 px-2 py-0.5 text-[10px] font-bold uppercase tracking-wide text-muted">Tuca</span>
         </motion.div>
 
         <motion.div

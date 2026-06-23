@@ -14,7 +14,7 @@ import { renderRich } from '@/components/ui/RichText';
 import { Button } from '@/components/ui/Button';
 import { Modal } from '@/components/ui/Modal';
 import { FullPageSpinner } from '@/components/ui/Spinner';
-import { Byte, randomPositiveState, type ByteState } from '@/components/mascot/Byte';
+import { Tuca, randomPositiveState, type ByteState } from '@/components/mascot/Tuca';
 import { Confetti } from '@/components/gamification/Confetti';
 import { LessonResults } from './LessonResults';
 import type { CompleteLessonResponse, Exercise, Lesson } from '@/types';
@@ -83,7 +83,7 @@ export function LessonFlow() {
   if (lesson.exercises.length === 0) {
     return (
       <div className="flex min-h-screen flex-col items-center justify-center gap-4 bg-canvas px-6 text-center text-ink">
-        <Byte state="sleep" size={140} />
+        <Tuca state="sleep" size={140} />
         <h1 className="font-display text-2xl font-extrabold">Conteúdo em breve!</h1>
         <p className="max-w-sm text-muted">
           As lições deste idioma para a sua faixa etária ainda estão sendo preparadas. Tente outro idioma por enquanto.
@@ -184,9 +184,9 @@ export function LessonFlow() {
         )}
       </div>
 
-      {/* Byte reagindo (animação diferente a cada etapa) */}
+      {/* Tuca reagindo (animação diferente a cada etapa) */}
       <div className="relative mx-auto -mb-2 mt-1 flex w-full max-w-2xl justify-center">
-        <Byte state={byteState} size={92} />
+        <Tuca state={byteState} size={92} />
         <AnimatePresence>
           {comboPop >= 3 && (
             <motion.div

@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import { Link, useNavigate } from 'react-router-dom';
 import { useAuthStore } from '@/store/authStore';
-import { Byte } from '@/components/mascot/Byte';
+import { Tuca } from '@/components/mascot/Tuca';
 import { Button } from '@/components/ui/Button';
 
 export function Login() {
@@ -29,7 +29,7 @@ export function Login() {
     <div className="flex min-h-screen items-center justify-center bg-canvas px-4 text-ink">
       <div className="w-full max-w-sm">
         <div className="mb-6 flex flex-col items-center">
-          <Byte state="idle" size={96} />
+          <Tuca state="idle" size={96} />
           <h1 className="mt-2 font-display text-2xl font-extrabold">Bem-vindo de volta!</h1>
         </div>
         <form onSubmit={submit} className="flex flex-col gap-3">

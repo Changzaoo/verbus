@@ -6,16 +6,21 @@ const config: Config = {
   theme: {
     extend: {
       colors: {
-        // Verbus — marinho profundo (marca) + âmbar (acento)
+        // Verbus — litoral tropical: petróleo do mar (marca) + coral do pôr do sol (acento) + ouro tropical
         brand: {
-          DEFAULT: '#0F2A4A',
-          dark: '#0A1E36',
-          light: '#2C5A8C',
+          DEFAULT: '#0E7C86',
+          dark: '#075A62',
+          light: '#3FA9B2',
         },
         accent: {
-          DEFAULT: '#F5A524',
-          dark: '#D98A0B',
-          light: '#FFC65C',
+          DEFAULT: '#FF6B5E',
+          dark: '#E24A3D',
+          light: '#FF9A8F',
+        },
+        gold: {
+          DEFAULT: '#FFB22E',
+          dark: '#E8950F',
+          light: '#FFCB6B',
         },
         lang: {
           english: '#1CB0F6',

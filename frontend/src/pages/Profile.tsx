@@ -10,7 +10,7 @@ import { Avatar } from '@/components/ui/Avatar';
 import { Button } from '@/components/ui/Button';
 import { AchievementBadge } from '@/components/gamification/AchievementBadge';
 import { Confetti } from '@/components/gamification/Confetti';
-import { Byte, type ByteState } from '@/components/mascot/Byte';
+import { Tuca, type ByteState } from '@/components/mascot/Tuca';
 import { useSounds } from '@/hooks/useSounds';
 import { cn } from '@/lib/cn';
 import type { AchievementWithStatus } from '@/types';
@@ -239,7 +239,7 @@ export function Profile() {
                 animate={{ opacity: 1, scale: 1, y: 0 }}
                 transition={{ delay: 0.3, type: 'spring', stiffness: 240, damping: 18 }}
               >
-                <Byte state={byteState} size={84} />
+                <Tuca state={byteState} size={84} />
               </motion.div>
             </div>
 

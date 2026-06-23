@@ -7,7 +7,7 @@ import { useProgressStore } from '@/store/progressStore';
 import { useSounds } from '@/hooks/useSounds';
 import { Card } from '@/components/ui/Card';
 import { Button } from '@/components/ui/Button';
-import { Byte } from '@/components/mascot/Byte';
+import { Tuca } from '@/components/mascot/Tuca';
 import { ProgressBar } from '@/components/ui/ProgressBar';
 import { Confetti } from '@/components/gamification/Confetti';
 import { ExerciseRenderer } from '@/components/exercises/ExerciseRenderer';
@@ -79,7 +79,7 @@ export function DailyChallengePage() {
           animate={{ scale: 1, opacity: 1, y: 0 }}
           transition={{ type: 'spring', stiffness: 220, damping: 16 }}
         >
-          <Byte state="happy" size={140} />
+          <Tuca state="happy" size={140} />
         </motion.div>
         <motion.div
           className="flex items-center gap-2 rounded-full border border-correct/30 bg-correct/10 px-4 py-1.5 text-sm font-bold text-correct"
@@ -132,7 +132,7 @@ export function DailyChallengePage() {
           variants={{ hidden: { opacity: 0, scale: 0.7, y: 24 }, show: { opacity: 1, scale: 1, y: 0 } }}
           transition={{ type: 'spring', stiffness: 200, damping: 15 }}
         >
-          <Byte state="excited" size={132} />
+          <Tuca state="excited" size={132} />
           <motion.div
             className="absolute -right-3 -top-2 grid h-14 w-14 place-items-center rounded-full bg-xp text-canvas shadow-lg shadow-xp/40"
             animate={{ scale: [1, 1.18, 1], rotate: [-6, 6, -6] }}
@@ -238,7 +238,7 @@ export function DailyChallengePage() {
           animate={{ scale: 1, opacity: 1, y: 0 }}
           transition={{ type: 'spring', stiffness: 200, damping: 13 }}
         >
-          <Byte state="celebrate" size={150} />
+          <Tuca state="celebrate" size={150} />
         </motion.div>
 
         <motion.h1

@@ -61,11 +61,34 @@ export function GreetingCycle({ intervalMs = 1900, className }: GreetingCyclePro
   );
 }
 
-/** Wordmark do Verbus — "Verb" + "us" em âmbar, na fonte display. */
+/** Wordmark do Verbus — "Verb" + "us" em coral, na fonte display. */
 export function VerbusWordmark({ className }: { className?: string }) {
   return (
     <span className={`font-display font-black tracking-tight ${className ?? ''}`}>
       Verb<span className="text-accent">us</span>
     </span>
+  );
+}
+
+/** Faixa contínua com as saudações dos 16 idiomas (reforça o multilíngue no hero). */
+export function GreetingMarquee() {
+  const items = [...GREETINGS, ...GREETINGS];
+  return (
+    <div className="relative overflow-hidden py-3" aria-hidden>
+      <div className="pointer-events-none absolute inset-y-0 left-0 z-10 w-16 bg-gradient-to-r from-canvas to-transparent" />
+      <div className="pointer-events-none absolute inset-y-0 right-0 z-10 w-16 bg-gradient-to-l from-canvas to-transparent" />
+      <motion.div
+        className="flex w-max gap-3"
+        animate={{ x: ['0%', '-50%'] }}
+        transition={{ duration: 28, repeat: Infinity, ease: 'linear' }}
+      >
+        {items.map((g, i) => (
+          <span key={i} className="inline-flex items-center gap-2 rounded-full border border-edge bg-surface px-4 py-2 shadow-sm">
+            <LangBadge code={g.code} color={g.color} size={22} />
+            <span className="font-display text-lg font-bold" style={{ color: g.color }}>{g.word}</span>
+          </span>
+        ))}
+      </motion.div>
+    </div>
   );
 }

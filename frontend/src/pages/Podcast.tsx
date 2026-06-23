@@ -11,7 +11,7 @@ import { themeColor } from '@/lib/themeColor';
 import { api } from '@/lib/api';
 import { Button } from '@/components/ui/Button';
 import { FullPageSpinner } from '@/components/ui/Spinner';
-import { Byte } from '@/components/mascot/Byte';
+import { Tuca } from '@/components/mascot/Tuca';
 import { DialogueStage } from '@/components/scene/DialogueStage';
 import { Confetti } from '@/components/gamification/Confetti';
 import { cn } from '@/lib/cn';
@@ -31,7 +31,7 @@ export function Podcast() {
   if (!episodes.length) {
     return (
       <div className="flex flex-col items-center gap-4 py-16 text-center">
-        <Byte state="sleep" size={120} />
+        <Tuca state="sleep" size={120} />
         <p className="text-muted">Os episódios de {pack.language.name} ainda estão sendo preparados.</p>
         <Button onClick={() => navigate('/app/practice')}>Voltar ao hub</Button>
       </div>
@@ -145,7 +145,7 @@ function Player({ pack, episode, onBack }: { pack: DialoguePack; episode: Dialog
               </div>
             ) : (
               <div className="flex items-start gap-2">
-                <span className={cn('rounded-full px-2 py-0.5 text-[10px] font-bold uppercase', l.sp === 'A' ? 'bg-correct/15 text-correct' : 'bg-brand/15 text-brand')}>{l.sp === 'A' ? 'Byte' : 'Lia'}</span>
+                <span className={cn('rounded-full px-2 py-0.5 text-[10px] font-bold uppercase', l.sp === 'A' ? 'bg-correct/15 text-correct' : 'bg-brand/15 text-brand')}>{l.sp === 'A' ? 'Tuca' : 'Lia'}</span>
                 <div className="min-w-0">
                   <div className="flex items-center gap-1.5">
                     <Volume2 size={16} className={cn('shrink-0', i === current ? 'text-brand' : 'text-muted')} />
@@ -190,7 +190,7 @@ function PodcastQuiz({ episode, color, onBack, play, setProfile }: { episode: Di
       <>
         <Confetti burstKey={1} pieces={70} originX={50} originY={30} />
         <div className="flex flex-col items-center gap-4 py-10 text-center">
-          <Byte state="celebrate" size={150} />
+          <Tuca state="celebrate" size={150} />
           <h1 className="font-display text-2xl font-extrabold">Episódio concluído!</h1>
           <p className="text-muted">Você acertou <b className="text-correct">{correctCount}/{questions.length}</b> e ganhou <b className="text-xp">+{correctCount * 4 + 4} XP</b>.</p>
           <Button size="lg" onClick={onBack} className="mt-2">Voltar aos episódios</Button>

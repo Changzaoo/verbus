@@ -18,7 +18,7 @@ import { api } from '@/lib/api';
 import { FullPageSpinner } from '@/components/ui/Spinner';
 import { Icon } from '@/components/ui/Icon';
 import { LangBadge } from '@/components/ui/LangBadge';
-import { Byte } from '@/components/mascot/Byte';
+import { Tuca } from '@/components/mascot/Tuca';
 import { Confetti } from '@/components/gamification/Confetti';
 import { useSounds } from '@/hooks/useSounds';
 import { cn } from '@/lib/cn';
@@ -278,7 +278,7 @@ export function CoursePathPage() {
           title="Olá!"
           className="relative -my-2 shrink-0"
         >
-          <Byte state="happy" size={66} />
+          <Tuca state="happy" size={66} />
         </motion.button>
 
         <div className="relative flex-1">
@@ -432,7 +432,7 @@ export function CoursePathPage() {
         })}
       </div>
 
-      {/* Byte celebrando no fim da trilha */}
+      {/* Tuca celebrando no fim da trilha */}
       <motion.div
         initial={{ opacity: 0, y: 20 }}
         whileInView={{ opacity: 1, y: 0 }}
@@ -440,7 +440,7 @@ export function CoursePathPage() {
         transition={{ type: 'spring', stiffness: 200, damping: 20 }}
         className="mt-12 flex flex-col items-center gap-2"
       >
-        <Byte state="cheer" size={88} />
+        <Tuca state="cheer" size={88} />
         <p className="text-center text-sm font-bold text-muted">
           Continue assim — você está indo muito bem!
         </p>

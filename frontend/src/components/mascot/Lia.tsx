@@ -18,7 +18,7 @@ const bodyAnim: Record<LiaState, any> = {
   sad: { y: [0, 2, 0], rotate: [0, -3, 3, 0], transition: { duration: 2, repeat: Infinity } },
 };
 
-/** Lia — a gata exploradora, amiga do Byte. Conversa com ele nas cenas de diálogo. */
+/** Lia — a gata exploradora, amiga do Tuca. Conversa com ele nas cenas de diálogo. */
 export function Lia({ state = 'idle', size = 140, className, talking = false }: LiaProps) {
   const isSad = state === 'sad';
   const happy = state !== 'idle' && state !== 'sad';

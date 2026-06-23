@@ -3,7 +3,7 @@ import { Link, useNavigate } from 'react-router-dom';
 import { useQuery } from '@tanstack/react-query';
 import { api } from '@/lib/api';
 import { useAuthStore } from '@/store/authStore';
-import { Byte } from '@/components/mascot/Byte';
+import { Tuca } from '@/components/mascot/Tuca';
 import { Button } from '@/components/ui/Button';
 import { LangBadge } from '@/components/ui/LangBadge';
 import { cn } from '@/lib/cn';
@@ -50,7 +50,7 @@ export function Register() {
     <div className="flex min-h-screen items-center justify-center bg-canvas px-4 py-8 text-ink">
       <div className="w-full max-w-md">
         <div className="mb-6 flex flex-col items-center">
-          <Byte state="happy" size={96} />
+          <Tuca state="happy" size={96} />
           <h1 className="mt-2 font-display text-2xl font-extrabold">Crie sua conta</h1>
           <p className="text-sm text-muted">Comece sua jornada poliglota dev</p>
         </div>
