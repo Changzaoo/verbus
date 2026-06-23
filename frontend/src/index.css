@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 /* ==========================================================================
-   DevLingo — Design tokens (resolvidos por tema via classes no <html>)
+   Verbus — Design tokens (resolvidos por tema via classes no <html>)
    rgb triplets para suportar a sintaxe rgb(var(--x) / <alpha-value>) do Tailwind
    ========================================================================== */
 :root,

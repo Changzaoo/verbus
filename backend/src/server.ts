@@ -28,12 +28,12 @@ import settingsRoutes from './routes/settings.js';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const PORT = Number(process.env.PORT ?? 3333);
-const JWT_SECRET = process.env.JWT_SECRET ?? 'devlingo-dev-secret-change-in-prod';
+const JWT_SECRET = process.env.JWT_SECRET ?? 'verbus-dev-secret-change-in-prod';
 
 async function bootstrap() {
   // Garante o seed na primeira execução.
   if (!isSeeded()) {
-    console.log('[devlingo] Banco vazio — executando seed...');
+    console.log('[verbus] Banco vazio — executando seed...');
     runSeed();
   }
 
@@ -72,7 +72,7 @@ async function bootstrap() {
   setInterval(
     () => {
       const stamp = new Date().toISOString().replace(/[:.]/g, '-');
-      db.backup(join(backupDir, `devlingo-${stamp}.db`)).catch((e: unknown) =>
+      db.backup(join(backupDir, `verbus-${stamp}.db`)).catch((e: unknown) =>
         app.log.warn({ e }, 'falha no backup'),
       );
     },
@@ -81,7 +81,7 @@ async function bootstrap() {
 
   try {
     await app.listen({ port: PORT, host: '0.0.0.0' });
-    console.log(`\n  DevLingo API rodando em http://localhost:${PORT}/api\n`);
+    console.log(`\n  Verbus API rodando em http://localhost:${PORT}/api\n`);
   } catch (err) {
     app.log.error(err);
     process.exit(1);

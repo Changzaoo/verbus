@@ -1,8 +1,8 @@
 {
-  "name": "devlingo",
+  "name": "verbus",
   "version": "1.0.0",
   "private": true,
-  "description": "DevLingo — Duolingo para programadores aprenderem idiomas humanos da carreira dev",
+  "description": "Verbus — aprenda 16 idiomas do zero à fluência, com conversas reais, histórias e prática diária",
   "scripts": {
     "dev": "concurrently -n backend,frontend -c blue,green \"npm run dev:backend\" \"npm run dev:frontend\"",
     "dev:frontend": "npm --prefix frontend run dev",

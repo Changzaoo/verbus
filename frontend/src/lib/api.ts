@@ -1,6 +1,6 @@
 import type { ApiError } from '@/types';
 
-const TOKEN_KEY = 'devlingo_token';
+const TOKEN_KEY = 'verbus_token';
 
 /**
  * Base da API. Em dev fica vazia → usa `/api` (proxy do Vite para localhost:3333).

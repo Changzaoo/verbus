@@ -8,7 +8,7 @@ const __dirname = dirname(fileURLToPath(import.meta.url));
 const DATA_DIR = join(__dirname, '..', '..', 'data');
 if (!existsSync(DATA_DIR)) mkdirSync(DATA_DIR, { recursive: true });
 
-export const DB_PATH = process.env.DEVLINGO_DB ?? join(DATA_DIR, 'devlingo.db');
+export const DB_PATH = process.env.VERBUS_DB ?? process.env.DEVLINGO_DB ?? join(DATA_DIR, 'verbus.db');
 
 export const db = new Database(DB_PATH);
 db.pragma('journal_mode = WAL');

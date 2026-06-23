@@ -75,7 +75,7 @@ function Player({ pack, episode, onBack }: { pack: DialoguePack; episode: Dialog
   const color = themeColor(episode.theme);
 
   const lines = useMemo<Line[]>(() => {
-    const out: Line[] = [{ kind: 'host', text: `Olá! Bem-vindo ao DevLingo Podcast. O tema de hoje é: ${episode.title}. ${episode.setting}`, lang: 'pt-BR' }];
+    const out: Line[] = [{ kind: 'host', text: `Olá! Bem-vindo ao Verbus Podcast. O tema de hoje é: ${episode.title}. ${episode.setting}`, lang: 'pt-BR' }];
     episode.turns.forEach((turn) => out.push({ kind: 'turn', text: prettyTerm(turn.term), lang: pack.audio_lang, sp: turn.sp, turn }));
     out.push({ kind: 'host', text: 'Isso é tudo por hoje. Continue praticando. Até a próxima!', lang: 'pt-BR' });
     return out;

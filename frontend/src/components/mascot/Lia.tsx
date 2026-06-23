@@ -63,9 +63,9 @@ export function Lia({ state = 'idle', size = 140, className, talking = false }: 
           </>
         ) : (
           <>
-            <motion.ellipse cx="83" cy="74" rx="7" ry="9" fill="#2E7D5B"
+            <motion.ellipse cx="83" cy="74" rx="7" ry="9" fill="#0F2A4A"
               animate={{ scaleY: [1, 1, 0.1, 1] }} transition={{ duration: 3.6, repeat: Infinity, times: [0, 0.9, 0.95, 1] }} style={{ transformOrigin: '83px 74px' }} />
-            <motion.ellipse cx="117" cy="74" rx="7" ry="9" fill="#2E7D5B"
+            <motion.ellipse cx="117" cy="74" rx="7" ry="9" fill="#0F2A4A"
               animate={{ scaleY: [1, 1, 0.1, 1] }} transition={{ duration: 3.6, repeat: Infinity, times: [0, 0.9, 0.95, 1] }} style={{ transformOrigin: '117px 74px' }} />
             <circle cx="85" cy="71" r="2.4" fill="#fff" />
             <circle cx="119" cy="71" r="2.4" fill="#fff" />

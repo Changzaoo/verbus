@@ -1,11 +1,11 @@
 {
-  "name": "DevLingo — Idiomas para Devs",
-  "short_name": "DevLingo",
-  "description": "Aprenda os idiomas que a sua carreira exige.",
+  "name": "Verbus — Aprenda idiomas",
+  "short_name": "Verbus",
+  "description": "Aprenda 16 idiomas do zero à fluência.",
   "start_url": "/",
   "display": "standalone",
-  "background_color": "#131F24",
-  "theme_color": "#58CC02",
+  "background_color": "#0F2A4A",
+  "theme_color": "#0F2A4A",
   "icons": [
     {
       "src": "/favicon.svg",

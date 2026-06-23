@@ -6,6 +6,7 @@ import { useProgressStore } from '@/store/progressStore';
 import { StreakFlame } from '@/components/gamification/StreakFlame';
 import { GemCounter } from '@/components/gamification/GemCounter';
 import { Byte } from '@/components/mascot/Byte';
+import { VerbusWordmark } from '@/components/brand/GreetingCycle';
 
 const NAV = [
   { to: '/app', label: 'Aprender', icon: Home, end: true },
@@ -21,8 +22,8 @@ function TopBar() {
   if (!profile) return null;
   return (
     <header className="sticky top-0 z-30 flex items-center justify-between border-b-2 border-edge bg-canvas/90 px-4 py-3 backdrop-blur md:px-8">
-      <div className="flex items-center gap-2 font-display text-xl font-extrabold text-brand md:hidden">
-        <span>DevLingo</span>
+      <div className="flex items-center gap-2 text-xl text-brand md:hidden">
+        <VerbusWordmark />
       </div>
       <div className="ml-auto flex items-center gap-4">
         <StreakFlame days={profile.streak_current} />
@@ -39,7 +40,7 @@ export function AppLayout({ children }: { children: ReactNode }) {
       <aside className="fixed left-0 top-0 hidden h-screen w-60 flex-col border-r-2 border-edge bg-surface p-4 md:flex">
         <div className="mb-6 flex items-center gap-2 px-2">
           <Byte size={40} />
-          <span className="font-display text-2xl font-extrabold text-brand">DevLingo</span>
+          <VerbusWordmark className="text-2xl text-brand" />
         </div>
         <nav className="flex flex-1 flex-col gap-1">
           {NAV.map(({ to, label, icon: Icon, end }) => (

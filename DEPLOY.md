@@ -1,4 +1,4 @@
-# Deploy do verbus (DevLingo)
+# Deploy do Verbus
 
 Frontend na **Vercel**, backend no **servidor Ubuntu LocalDeploy** (`192.168.0.112`),
 exposto via **Cloudflare Tunnel** — mesmo padrão dos outros serviços do `Changzaoo`.
@@ -26,7 +26,7 @@ nano .env                           # cole o conteúdo de backend/.env.example e
 ```
 PORT=8006
 JWT_SECRET=<openssl rand -hex 32>
-DEVLINGO_DB=/home/v/storage/verbus.db
+VERBUS_DB=/home/v/storage/verbus.db
 LOG_LEVEL=info
 ```
 
@@ -36,7 +36,7 @@ No **Painel** (http://192.168.0.112:3000) → Novo Serviço:
 - Porta: `8006`
 - Teste: `http://192.168.0.112:8080/verbus/health` → o backend responde em `/api/health`.
 
-> Na primeira execução o banco é criado e populado automaticamente (seed) em `DEVLINGO_DB`.
+> Na primeira execução o banco é criado e populado automaticamente (seed) em `VERBUS_DB`.
 
 ## 2) Cloudflare Tunnel
 

@@ -12,9 +12,9 @@ interface SettingsState {
   hydrate: (partial: Partial<Pick<SettingsState, 'theme' | 'soundEnabled' | 'notificationsEnabled'>>) => void;
 }
 
-const THEME_KEY = 'devlingo_theme';
-const SOUND_KEY = 'devlingo_sound';
-const NOTIF_KEY = 'devlingo_notif';
+const THEME_KEY = 'verbus_theme';
+const SOUND_KEY = 'verbus_sound';
+const NOTIF_KEY = 'verbus_notif';
 
 export function applyTheme(theme: Theme): void {
   const root = document.documentElement;

@@ -6,10 +6,16 @@ const config: Config = {
   theme: {
     extend: {
       colors: {
+        // Verbus — marinho profundo (marca) + âmbar (acento)
         brand: {
-          DEFAULT: '#58CC02',
-          dark: '#46A302',
-          light: '#89E219',
+          DEFAULT: '#0F2A4A',
+          dark: '#0A1E36',
+          light: '#2C5A8C',
+        },
+        accent: {
+          DEFAULT: '#F5A524',
+          dark: '#D98A0B',
+          light: '#FFC65C',
         },
         lang: {
           english: '#1CB0F6',
@@ -35,7 +41,7 @@ const config: Config = {
       fontFamily: {
         ui: ['Inter', 'system-ui', 'sans-serif'],
         code: ['"JetBrains Mono"', 'ui-monospace', 'monospace'],
-        display: ['Inter', 'system-ui', 'sans-serif'],
+        display: ['Fraunces', 'Georgia', 'serif'],
       },
       borderRadius: {
         xl2: '1rem',

@@ -1,5 +1,5 @@
 -- ============================================================================
--- DevLingo — Schema do banco de dados SQLite
+-- Verbus — Schema do banco de dados SQLite
 -- ============================================================================
 PRAGMA journal_mode = WAL;
 PRAGMA foreign_keys = ON;
