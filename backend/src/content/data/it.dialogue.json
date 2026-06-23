@@ -1,0 +1,245 @@
+{
+  "code": "it",
+  "lines": {
+    "greetings": [
+      {
+        "term": "Ciao ! Buongiorno !"
+      },
+      {
+        "term": "Buongiorno ! Tutto bene ?"
+      },
+      {
+        "term": "Tutto bene , grazie ! E tu ?"
+      },
+      {
+        "term": "Sto bene ! Che piacere vederti ."
+      },
+      {
+        "term": "A presto , amica !"
+      },
+      {
+        "term": "Ciao ! A presto !"
+      }
+    ],
+    "numbers_colors": [
+      {
+        "term": "Quanti gatti hai ?"
+      },
+      {
+        "term": "Ho due gatti ."
+      },
+      {
+        "term": "Di che colore è la tua casa ?"
+      },
+      {
+        "term": "La mia casa è azzurra ."
+      },
+      {
+        "term": "Vedo tre fiori rossi ."
+      },
+      {
+        "term": "Che bello !"
+      }
+    ],
+    "family": [
+      {
+        "term": "Questa è la tua famiglia ?"
+      },
+      {
+        "term": "Sì , questa è mia madre ."
+      },
+      {
+        "term": "E lui chi è ?"
+      },
+      {
+        "term": "Lui è mio padre . Ho anche un fratello ."
+      },
+      {
+        "term": "La tua famiglia è grande !"
+      },
+      {
+        "term": "Amo la mia famiglia ."
+      }
+    ],
+    "food": [
+      {
+        "term": "Vuoi mangiare ?"
+      },
+      {
+        "term": "Sì , mangio pane e formaggio ."
+      },
+      {
+        "term": "Vuoi bere dell'acqua ?"
+      },
+      {
+        "term": "No , mi piace il caffè ."
+      },
+      {
+        "term": "La zuppa è pronta !"
+      },
+      {
+        "term": "Grazie , la zuppa è buona ."
+      }
+    ],
+    "animals_nature": [
+      {
+        "term": "Guarda , vedo un uccello !"
+      },
+      {
+        "term": "L'uccello è sull'albero ."
+      },
+      {
+        "term": "Il tuo cane è grande ?"
+      },
+      {
+        "term": "Sì , e il gatto dorme sul letto ."
+      },
+      {
+        "term": "Oggi il sole è bello ."
+      },
+      {
+        "term": "Mi piacciono il fiume e i fiori ."
+      }
+    ],
+    "home_daily": [
+      {
+        "term": "Dov'è la chiave ?"
+      },
+      {
+        "term": "La chiave è sul tavolo ."
+      },
+      {
+        "term": "La tua casa è grande ?"
+      },
+      {
+        "term": "La casa è piccola , ma mi piace ."
+      },
+      {
+        "term": "Dove mangi ?"
+      },
+      {
+        "term": "Mangio in cucina ."
+      }
+    ],
+    "verbs_actions": [
+      {
+        "term": "Cosa vuoi fare oggi ?"
+      },
+      {
+        "term": "Voglio mangiare e dormire ."
+      },
+      {
+        "term": "Ti piace leggere ?"
+      },
+      {
+        "term": "Sì , mi piace leggere e scrivere ."
+      },
+      {
+        "term": "Andiamo a passeggiare in città ?"
+      },
+      {
+        "term": "Sì , andiamo !"
+      }
+    ],
+    "body_health": [
+      {
+        "term": "Stai bene ?"
+      },
+      {
+        "term": "No , ho mal di testa ."
+      },
+      {
+        "term": "Hai bisogno di un medico ?"
+      },
+      {
+        "term": "Sì , voglio una medicina ."
+      },
+      {
+        "term": "Abbi cura della tua salute !"
+      },
+      {
+        "term": "Grazie , adesso sto meglio ."
+      }
+    ],
+    "work_school": [
+      {
+        "term": "Vai a scuola oggi ?"
+      },
+      {
+        "term": "Sì , ho un esame ."
+      },
+      {
+        "term": "Il professore è bravo ?"
+      },
+      {
+        "term": "Sì , mi piace la scuola ."
+      },
+      {
+        "term": "Leggo un libro nuovo ."
+      },
+      {
+        "term": "Scrivo sul mio quaderno ."
+      }
+    ],
+    "time_weather": [
+      {
+        "term": "Che tempo fa oggi ?"
+      },
+      {
+        "term": "Oggi fa freddo e piove ."
+      },
+      {
+        "term": "E domani ?"
+      },
+      {
+        "term": "Domani sarà una bella giornata ."
+      },
+      {
+        "term": "Mi piace la mattina ."
+      },
+      {
+        "term": "Adesso il cielo è azzurro ."
+      }
+    ],
+    "travel": [
+      {
+        "term": "Dove vai a viaggiare ?"
+      },
+      {
+        "term": "Vado in città in treno ."
+      },
+      {
+        "term": "Dov'è l'hotel ?"
+      },
+      {
+        "term": "L'hotel è vicino alla spiaggia ."
+      },
+      {
+        "term": "Hai il biglietto ?"
+      },
+      {
+        "term": "Sì , e anche il mio passaporto ."
+      }
+    ],
+    "conversation": [
+      {
+        "term": "Come stai oggi ?"
+      },
+      {
+        "term": "Sono molto felice !"
+      },
+      {
+        "term": "Perché ?"
+      },
+      {
+        "term": "Perché oggi è una bella giornata ."
+      },
+      {
+        "term": "Mi piaci molto ."
+      },
+      {
+        "term": "Sei una buona amica ."
+      }
+    ]
+  }
+}

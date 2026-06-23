@@ -1,0 +1,245 @@
+{
+  "code": "es",
+  "lines": {
+    "greetings": [
+      {
+        "term": "¡ Hola ! ¡ Buenos días !"
+      },
+      {
+        "term": "¡ Buenos días ! ¿ Qué tal ?"
+      },
+      {
+        "term": "¡ Bien , gracias ! ¿ Y tú ?"
+      },
+      {
+        "term": "¡ Estoy bien ! Encantada de verte ."
+      },
+      {
+        "term": "¡ Hasta luego , amiga !"
+      },
+      {
+        "term": "¡ Adiós ! ¡ Hasta luego !"
+      }
+    ],
+    "numbers_colors": [
+      {
+        "term": "¿ Cuántos gatos tienes ?"
+      },
+      {
+        "term": "Tengo dos gatos ."
+      },
+      {
+        "term": "¿ De qué color es tu casa ?"
+      },
+      {
+        "term": "Mi casa es azul ."
+      },
+      {
+        "term": "Veo tres flores rojas ."
+      },
+      {
+        "term": "¡ Qué bonitas !"
+      }
+    ],
+    "family": [
+      {
+        "term": "¿ Esta es tu familia ?"
+      },
+      {
+        "term": "Sí , esta es mi madre ."
+      },
+      {
+        "term": "¿ Y quién es él ?"
+      },
+      {
+        "term": "Él es mi padre . También tengo un hermano ."
+      },
+      {
+        "term": "¡ Tu familia es grande !"
+      },
+      {
+        "term": "Amo a mi familia ."
+      }
+    ],
+    "food": [
+      {
+        "term": "¿ Quieres comer ?"
+      },
+      {
+        "term": "Sí , como pan y queso ."
+      },
+      {
+        "term": "¿ Quieres beber agua ?"
+      },
+      {
+        "term": "No , me gusta el café ."
+      },
+      {
+        "term": "¡ La sopa está lista !"
+      },
+      {
+        "term": "Gracias , la sopa está buena ."
+      }
+    ],
+    "animals_nature": [
+      {
+        "term": "¡ Mira , veo un pájaro !"
+      },
+      {
+        "term": "El pájaro está en el árbol ."
+      },
+      {
+        "term": "¿ Tu perro es grande ?"
+      },
+      {
+        "term": "Sí , y el gato duerme en la cama ."
+      },
+      {
+        "term": "El sol está bonito hoy ."
+      },
+      {
+        "term": "Me gustan el río y las flores ."
+      }
+    ],
+    "home_daily": [
+      {
+        "term": "¿ Dónde está la llave ?"
+      },
+      {
+        "term": "La llave está en la mesa ."
+      },
+      {
+        "term": "¿ Tu casa es grande ?"
+      },
+      {
+        "term": "La casa es pequeña , pero me gusta ."
+      },
+      {
+        "term": "¿ Dónde comes ?"
+      },
+      {
+        "term": "Como en la cocina ."
+      }
+    ],
+    "verbs_actions": [
+      {
+        "term": "¿ Qué quieres hacer hoy ?"
+      },
+      {
+        "term": "Quiero comer y dormir ."
+      },
+      {
+        "term": "¿ Te gusta leer ?"
+      },
+      {
+        "term": "Sí , me gusta leer y escribir ."
+      },
+      {
+        "term": "¿ Vamos a pasear por la ciudad ?"
+      },
+      {
+        "term": "¡ Sí , vamos !"
+      }
+    ],
+    "body_health": [
+      {
+        "term": "¿ Estás bien ?"
+      },
+      {
+        "term": "No , tengo dolor de cabeza ."
+      },
+      {
+        "term": "¿ Necesitas un médico ?"
+      },
+      {
+        "term": "Sí , quiero una medicina ."
+      },
+      {
+        "term": "¡ Cuida tu salud !"
+      },
+      {
+        "term": "Gracias , ahora estoy mejor ."
+      }
+    ],
+    "work_school": [
+      {
+        "term": "¿ Vas a la escuela hoy ?"
+      },
+      {
+        "term": "Sí , tengo un examen ."
+      },
+      {
+        "term": "¿ El profesor es bueno ?"
+      },
+      {
+        "term": "Sí , me gusta la escuela ."
+      },
+      {
+        "term": "Leo un libro nuevo ."
+      },
+      {
+        "term": "Escribo en mi cuaderno ."
+      }
+    ],
+    "time_weather": [
+      {
+        "term": "¿ Qué tiempo hace hoy ?"
+      },
+      {
+        "term": "Hoy hace frío y llueve ."
+      },
+      {
+        "term": "¿ Y mañana ?"
+      },
+      {
+        "term": "Mañana el día estará bonito ."
+      },
+      {
+        "term": "Me gusta la mañana ."
+      },
+      {
+        "term": "El cielo está azul ahora ."
+      }
+    ],
+    "travel": [
+      {
+        "term": "¿ Adónde vas a viajar ?"
+      },
+      {
+        "term": "Voy a la ciudad en tren ."
+      },
+      {
+        "term": "¿ Dónde está el hotel ?"
+      },
+      {
+        "term": "El hotel está cerca de la playa ."
+      },
+      {
+        "term": "¿ Tienes el billete ?"
+      },
+      {
+        "term": "Sí , y también mi pasaporte ."
+      }
+    ],
+    "conversation": [
+      {
+        "term": "¿ Cómo estás hoy ?"
+      },
+      {
+        "term": "¡ Estoy muy feliz !"
+      },
+      {
+        "term": "¿ Por qué ?"
+      },
+      {
+        "term": "Porque hoy es un buen día ."
+      },
+      {
+        "term": "Me gustas mucho ."
+      },
+      {
+        "term": "Eres una buena amiga ."
+      }
+    ]
+  }
+}

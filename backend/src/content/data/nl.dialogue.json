@@ -1,0 +1,245 @@
+{
+  "code": "nl",
+  "lines": {
+    "greetings": [
+      {
+        "term": "Hallo ! Goedemorgen !"
+      },
+      {
+        "term": "Goedemorgen ! Alles goed ?"
+      },
+      {
+        "term": "Alles goed , dank je ! En met jou ?"
+      },
+      {
+        "term": "Met mij gaat het goed ! Leuk je te zien ."
+      },
+      {
+        "term": "Tot ziens , vriendin !"
+      },
+      {
+        "term": "Doei ! Tot ziens !"
+      }
+    ],
+    "numbers_colors": [
+      {
+        "term": "Hoeveel katten heb je ?"
+      },
+      {
+        "term": "Ik heb twee katten ."
+      },
+      {
+        "term": "Welke kleur heeft jouw huis ?"
+      },
+      {
+        "term": "Mijn huis is blauw ."
+      },
+      {
+        "term": "Ik zie drie rode bloemen ."
+      },
+      {
+        "term": "Wat mooi !"
+      }
+    ],
+    "family": [
+      {
+        "term": "Is dit jouw familie ?"
+      },
+      {
+        "term": "Ja , dit is mijn moeder ."
+      },
+      {
+        "term": "En wie is hij ?"
+      },
+      {
+        "term": "Hij is mijn vader . Ik heb ook een broer ."
+      },
+      {
+        "term": "Jouw familie is groot !"
+      },
+      {
+        "term": "Ik hou van mijn familie ."
+      }
+    ],
+    "food": [
+      {
+        "term": "Wil je eten ?"
+      },
+      {
+        "term": "Ja , ik eet brood en kaas ."
+      },
+      {
+        "term": "Wil je water drinken ?"
+      },
+      {
+        "term": "Nee , ik hou van koffie ."
+      },
+      {
+        "term": "De soep is klaar !"
+      },
+      {
+        "term": "Dank je , de soep is lekker ."
+      }
+    ],
+    "animals_nature": [
+      {
+        "term": "Kijk , ik zie een vogel !"
+      },
+      {
+        "term": "De vogel zit in de boom ."
+      },
+      {
+        "term": "Is jouw hond groot ?"
+      },
+      {
+        "term": "Ja , en de kat slaapt op het bed ."
+      },
+      {
+        "term": "De zon is mooi vandaag ."
+      },
+      {
+        "term": "Ik hou van de rivier en de bloemen ."
+      }
+    ],
+    "home_daily": [
+      {
+        "term": "Waar is de sleutel ?"
+      },
+      {
+        "term": "De sleutel ligt op tafel ."
+      },
+      {
+        "term": "Is jouw huis groot ?"
+      },
+      {
+        "term": "Het huis is klein , maar ik vind het fijn ."
+      },
+      {
+        "term": "Waar eet je ?"
+      },
+      {
+        "term": "Ik eet in de keuken ."
+      }
+    ],
+    "verbs_actions": [
+      {
+        "term": "Wat wil je vandaag doen ?"
+      },
+      {
+        "term": "Ik wil eten en slapen ."
+      },
+      {
+        "term": "Vind je lezen leuk ?"
+      },
+      {
+        "term": "Ja , ik vind lezen en schrijven leuk ."
+      },
+      {
+        "term": "Zullen we door de stad lopen ?"
+      },
+      {
+        "term": "Ja , laten we gaan !"
+      }
+    ],
+    "body_health": [
+      {
+        "term": "Gaat het goed met je ?"
+      },
+      {
+        "term": "Nee , ik heb hoofdpijn ."
+      },
+      {
+        "term": "Heb je een dokter nodig ?"
+      },
+      {
+        "term": "Ja , ik wil een medicijn ."
+      },
+      {
+        "term": "Zorg goed voor je gezondheid !"
+      },
+      {
+        "term": "Dank je , nu gaat het beter ."
+      }
+    ],
+    "work_school": [
+      {
+        "term": "Ga je vandaag naar school ?"
+      },
+      {
+        "term": "Ja , ik heb een toets ."
+      },
+      {
+        "term": "Is de leraar goed ?"
+      },
+      {
+        "term": "Ja , ik vind school leuk ."
+      },
+      {
+        "term": "Ik lees een nieuw boek ."
+      },
+      {
+        "term": "Ik schrijf in mijn schrift ."
+      }
+    ],
+    "time_weather": [
+      {
+        "term": "Wat voor weer is het vandaag ?"
+      },
+      {
+        "term": "Vandaag is het koud en regent het ."
+      },
+      {
+        "term": "En morgen ?"
+      },
+      {
+        "term": "Morgen wordt het een mooie dag ."
+      },
+      {
+        "term": "Ik hou van de ochtend ."
+      },
+      {
+        "term": "De lucht is nu blauw ."
+      }
+    ],
+    "travel": [
+      {
+        "term": "Waar ga je naartoe reizen ?"
+      },
+      {
+        "term": "Ik ga met de trein naar de stad ."
+      },
+      {
+        "term": "Waar is het hotel ?"
+      },
+      {
+        "term": "Het hotel ligt vlak bij het strand ."
+      },
+      {
+        "term": "Heb je het kaartje ?"
+      },
+      {
+        "term": "Ja , en mijn paspoort ook ."
+      }
+    ],
+    "conversation": [
+      {
+        "term": "Hoe gaat het vandaag met je ?"
+      },
+      {
+        "term": "Ik ben heel blij !"
+      },
+      {
+        "term": "Waarom ?"
+      },
+      {
+        "term": "Omdat het vandaag een mooie dag is ."
+      },
+      {
+        "term": "Ik vind je heel leuk ."
+      },
+      {
+        "term": "Je bent een goede vriendin ."
+      }
+    ]
+  }
+}

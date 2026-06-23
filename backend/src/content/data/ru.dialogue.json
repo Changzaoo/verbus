@@ -1,0 +1,317 @@
+{
+  "code": "ru",
+  "lines": {
+    "greetings": [
+      {
+        "term": "Привет ! Доброе утро !",
+        "roman": "Privet ! Dobroye utro !"
+      },
+      {
+        "term": "Доброе утро ! Как дела ?",
+        "roman": "Dobroye utro ! Kak dela ?"
+      },
+      {
+        "term": "Всё хорошо , спасибо ! А у тебя ?",
+        "roman": "Vsyo khorosho , spasibo ! A u tebya ?"
+      },
+      {
+        "term": "У меня всё хорошо ! Рада тебя видеть .",
+        "roman": "U menya vsyo khorosho ! Rada tebya videt' ."
+      },
+      {
+        "term": "До скорого , подруга !",
+        "roman": "Do skorogo , podruga !"
+      },
+      {
+        "term": "Пока ! До скорого !",
+        "roman": "Poka ! Do skorogo !"
+      }
+    ],
+    "numbers_colors": [
+      {
+        "term": "Сколько у тебя кошек ?",
+        "roman": "Skol'ko u tebya koshek ?"
+      },
+      {
+        "term": "У меня две кошки .",
+        "roman": "U menya dve koshki ."
+      },
+      {
+        "term": "Какого цвета твой дом ?",
+        "roman": "Kakogo tsveta tvoy dom ?"
+      },
+      {
+        "term": "Мой дом синий .",
+        "roman": "Moy dom siniy ."
+      },
+      {
+        "term": "Я вижу три красных цветка .",
+        "roman": "Ya vizhu tri krasnykh tsvetka ."
+      },
+      {
+        "term": "Как красиво !",
+        "roman": "Kak krasivo !"
+      }
+    ],
+    "family": [
+      {
+        "term": "Это твоя семья ?",
+        "roman": "Eto tvoya sem'ya ?"
+      },
+      {
+        "term": "Да , это моя мама .",
+        "roman": "Da , eto moya mama ."
+      },
+      {
+        "term": "А кто это ?",
+        "roman": "A kto eto ?"
+      },
+      {
+        "term": "Это мой папа . У меня ещё есть брат .",
+        "roman": "Eto moy papa . U menya eshchyo yest' brat ."
+      },
+      {
+        "term": "У тебя большая семья !",
+        "roman": "U tebya bol'shaya sem'ya !"
+      },
+      {
+        "term": "Я люблю свою семью .",
+        "roman": "Ya lyublyu svoyu sem'yu ."
+      }
+    ],
+    "food": [
+      {
+        "term": "Ты хочешь есть ?",
+        "roman": "Ty khochesh' yest' ?"
+      },
+      {
+        "term": "Да , я ем хлеб и сыр .",
+        "roman": "Da , ya yem khleb i syr ."
+      },
+      {
+        "term": "Ты хочешь пить воду ?",
+        "roman": "Ty khochesh' pit' vodu ?"
+      },
+      {
+        "term": "Нет , я люблю кофе .",
+        "roman": "Net , ya lyublyu kofe ."
+      },
+      {
+        "term": "Суп готов !",
+        "roman": "Sup gotov !"
+      },
+      {
+        "term": "Спасибо , суп вкусный .",
+        "roman": "Spasibo , sup vkusnyy ."
+      }
+    ],
+    "animals_nature": [
+      {
+        "term": "Смотри , я вижу птицу !",
+        "roman": "Smotri , ya vizhu ptitsu !"
+      },
+      {
+        "term": "Птица на дереве .",
+        "roman": "Ptitsa na dereve ."
+      },
+      {
+        "term": "Твоя собака большая ?",
+        "roman": "Tvoya sobaka bol'shaya ?"
+      },
+      {
+        "term": "Да , а кошка спит на кровати .",
+        "roman": "Da , a koshka spit na krovati ."
+      },
+      {
+        "term": "Солнце сегодня красивое .",
+        "roman": "Solntse segodnya krasivoye ."
+      },
+      {
+        "term": "Я люблю реку и цветы .",
+        "roman": "Ya lyublyu reku i tsvety ."
+      }
+    ],
+    "home_daily": [
+      {
+        "term": "Где ключ ?",
+        "roman": "Gde klyuch ?"
+      },
+      {
+        "term": "Ключ на столе .",
+        "roman": "Klyuch na stole ."
+      },
+      {
+        "term": "Твой дом большой ?",
+        "roman": "Tvoy dom bol'shoy ?"
+      },
+      {
+        "term": "Дом маленький , но мне он нравится .",
+        "roman": "Dom malen'kiy , no mne on nravitsya ."
+      },
+      {
+        "term": "Где ты ешь ?",
+        "roman": "Gde ty yesh' ?"
+      },
+      {
+        "term": "Я ем на кухне .",
+        "roman": "Ya yem na kukhne ."
+      }
+    ],
+    "verbs_actions": [
+      {
+        "term": "Что ты хочешь делать сегодня ?",
+        "roman": "Chto ty khochesh' delat' segodnya ?"
+      },
+      {
+        "term": "Я хочу есть и спать .",
+        "roman": "Ya khochu yest' i spat' ."
+      },
+      {
+        "term": "Ты любишь читать ?",
+        "roman": "Ty lyubish' chitat' ?"
+      },
+      {
+        "term": "Да , я люблю читать и писать .",
+        "roman": "Da , ya lyublyu chitat' i pisat' ."
+      },
+      {
+        "term": "Пойдём гулять по городу ?",
+        "roman": "Poydyom gulyat' po gorodu ?"
+      },
+      {
+        "term": "Да , пойдём !",
+        "roman": "Da , poydyom !"
+      }
+    ],
+    "body_health": [
+      {
+        "term": "Ты в порядке ?",
+        "roman": "Ty v poryadke ?"
+      },
+      {
+        "term": "Нет , у меня болит голова .",
+        "roman": "Net , u menya bolit golova ."
+      },
+      {
+        "term": "Тебе нужен врач ?",
+        "roman": "Tebe nuzhen vrach ?"
+      },
+      {
+        "term": "Да , я хочу лекарство .",
+        "roman": "Da , ya khochu lekarstvo ."
+      },
+      {
+        "term": "Береги своё здоровье !",
+        "roman": "Beregi svoyo zdorov'ye !"
+      },
+      {
+        "term": "Спасибо , сейчас мне лучше .",
+        "roman": "Spasibo , seychas mne luchshe ."
+      }
+    ],
+    "work_school": [
+      {
+        "term": "Ты идёшь в школу сегодня ?",
+        "roman": "Ty idyosh' v shkolu segodnya ?"
+      },
+      {
+        "term": "Да , у меня контрольная .",
+        "roman": "Da , u menya kontrol'naya ."
+      },
+      {
+        "term": "Учитель хороший ?",
+        "roman": "Uchitel' khoroshiy ?"
+      },
+      {
+        "term": "Да , мне нравится школа .",
+        "roman": "Da , mne nravitsya shkola ."
+      },
+      {
+        "term": "Я читаю новую книгу .",
+        "roman": "Ya chitayu novuyu knigu ."
+      },
+      {
+        "term": "Я пишу в своей тетради .",
+        "roman": "Ya pishu v svoyey tetradi ."
+      }
+    ],
+    "time_weather": [
+      {
+        "term": "Какая сегодня погода ?",
+        "roman": "Kakaya segodnya pogoda ?"
+      },
+      {
+        "term": "Сегодня холодно и идёт дождь .",
+        "roman": "Segodnya kholodno i idyot dozhd' ."
+      },
+      {
+        "term": "А завтра ?",
+        "roman": "A zavtra ?"
+      },
+      {
+        "term": "Завтра будет хороший день .",
+        "roman": "Zavtra budet khoroshiy den' ."
+      },
+      {
+        "term": "Я люблю утро .",
+        "roman": "Ya lyublyu utro ."
+      },
+      {
+        "term": "Небо сейчас голубое .",
+        "roman": "Nebo seychas goluboye ."
+      }
+    ],
+    "travel": [
+      {
+        "term": "Куда ты поедешь путешествовать ?",
+        "roman": "Kuda ty poyedesh' puteshestvovat' ?"
+      },
+      {
+        "term": "Я еду в город на поезде .",
+        "roman": "Ya yedu v gorod na poyezde ."
+      },
+      {
+        "term": "Где находится отель ?",
+        "roman": "Gde nakhoditsya otel' ?"
+      },
+      {
+        "term": "Отель находится рядом с пляжем .",
+        "roman": "Otel' nakhoditsya ryadom s plyazhem ."
+      },
+      {
+        "term": "У тебя есть билет ?",
+        "roman": "U tebya yest' bilet ?"
+      },
+      {
+        "term": "Да , и мой паспорт тоже .",
+        "roman": "Da , i moy pasport tozhe ."
+      }
+    ],
+    "conversation": [
+      {
+        "term": "Как ты сегодня ?",
+        "roman": "Kak ty segodnya ?"
+      },
+      {
+        "term": "Я очень счастлива !",
+        "roman": "Ya ochen' schastliva !"
+      },
+      {
+        "term": "Почему ?",
+        "roman": "Pochemu ?"
+      },
+      {
+        "term": "Потому что сегодня хороший день .",
+        "roman": "Potomu chto segodnya khoroshiy den' ."
+      },
+      {
+        "term": "Ты мне очень нравишься .",
+        "roman": "Ty mne ochen' nravish'sya ."
+      },
+      {
+        "term": "Ты хорошая подруга .",
+        "roman": "Ty khoroshaya podruga ."
+      }
+    ]
+  }
+}

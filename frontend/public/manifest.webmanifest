@@ -1,0 +1,17 @@
+{
+  "name": "DevLingo — Idiomas para Devs",
+  "short_name": "DevLingo",
+  "description": "Aprenda os idiomas que a sua carreira exige.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#131F24",
+  "theme_color": "#58CC02",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

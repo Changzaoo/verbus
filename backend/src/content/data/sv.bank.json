@@ -1,0 +1,1111 @@
+{
+  "code": "sv",
+  "themes": {
+    "greetings": [
+      {
+        "pt": "olá",
+        "term": "hej"
+      },
+      {
+        "pt": "tchau",
+        "term": "hej då"
+      },
+      {
+        "pt": "obrigado(a)",
+        "term": "tack"
+      },
+      {
+        "pt": "por favor",
+        "term": "tack"
+      },
+      {
+        "pt": "sim",
+        "term": "ja"
+      },
+      {
+        "pt": "não",
+        "term": "nej"
+      },
+      {
+        "pt": "bom dia",
+        "term": "god morgon"
+      },
+      {
+        "pt": "boa noite",
+        "term": "god natt"
+      },
+      {
+        "pt": "desculpe",
+        "term": "förlåt"
+      },
+      {
+        "pt": "com licença",
+        "term": "ursäkta"
+      },
+      {
+        "pt": "boa tarde",
+        "term": "god eftermiddag"
+      },
+      {
+        "pt": "prazer em conhecer",
+        "term": "trevligt att träffas"
+      },
+      {
+        "pt": "tudo bem?",
+        "term": "hur mår du"
+      },
+      {
+        "pt": "até logo",
+        "term": "vi ses"
+      },
+      {
+        "pt": "de nada",
+        "term": "varsågod"
+      },
+      {
+        "pt": "com certeza",
+        "term": "absolut"
+      }
+    ],
+    "numbers_colors": [
+      {
+        "pt": "um",
+        "term": "ett"
+      },
+      {
+        "pt": "dois",
+        "term": "två"
+      },
+      {
+        "pt": "três",
+        "term": "tre"
+      },
+      {
+        "pt": "quatro",
+        "term": "fyra"
+      },
+      {
+        "pt": "cinco",
+        "term": "fem"
+      },
+      {
+        "pt": "vermelho",
+        "term": "röd"
+      },
+      {
+        "pt": "azul",
+        "term": "blå"
+      },
+      {
+        "pt": "verde",
+        "term": "grön"
+      },
+      {
+        "pt": "amarelo",
+        "term": "gul"
+      },
+      {
+        "pt": "preto",
+        "term": "svart"
+      },
+      {
+        "pt": "seis",
+        "term": "sex"
+      },
+      {
+        "pt": "sete",
+        "term": "sju"
+      },
+      {
+        "pt": "oito",
+        "term": "åtta"
+      },
+      {
+        "pt": "nove",
+        "term": "nio"
+      },
+      {
+        "pt": "dez",
+        "term": "tio"
+      },
+      {
+        "pt": "branco",
+        "term": "vit"
+      }
+    ],
+    "family": [
+      {
+        "pt": "mãe",
+        "term": "mamma"
+      },
+      {
+        "pt": "pai",
+        "term": "pappa"
+      },
+      {
+        "pt": "irmão",
+        "term": "bror"
+      },
+      {
+        "pt": "irmã",
+        "term": "syster"
+      },
+      {
+        "pt": "avó",
+        "term": "mormor"
+      },
+      {
+        "pt": "avô",
+        "term": "morfar"
+      },
+      {
+        "pt": "filho",
+        "term": "son"
+      },
+      {
+        "pt": "filha",
+        "term": "dotter"
+      },
+      {
+        "pt": "amigo",
+        "term": "vän"
+      },
+      {
+        "pt": "família",
+        "term": "familj"
+      },
+      {
+        "pt": "marido",
+        "term": "make"
+      },
+      {
+        "pt": "esposa",
+        "term": "fru"
+      },
+      {
+        "pt": "tio",
+        "term": "farbror"
+      },
+      {
+        "pt": "tia",
+        "term": "faster"
+      },
+      {
+        "pt": "primo",
+        "term": "kusin"
+      },
+      {
+        "pt": "bebê",
+        "term": "bebis"
+      }
+    ],
+    "food": [
+      {
+        "pt": "água",
+        "term": "vatten"
+      },
+      {
+        "pt": "pão",
+        "term": "bröd"
+      },
+      {
+        "pt": "maçã",
+        "term": "äpple"
+      },
+      {
+        "pt": "leite",
+        "term": "mjölk"
+      },
+      {
+        "pt": "café",
+        "term": "kaffe"
+      },
+      {
+        "pt": "arroz",
+        "term": "ris"
+      },
+      {
+        "pt": "queijo",
+        "term": "ost"
+      },
+      {
+        "pt": "ovo",
+        "term": "ägg"
+      },
+      {
+        "pt": "fruta",
+        "term": "frukt"
+      },
+      {
+        "pt": "carne",
+        "term": "kött"
+      },
+      {
+        "pt": "sopa",
+        "term": "soppa"
+      },
+      {
+        "pt": "salada",
+        "term": "sallad"
+      },
+      {
+        "pt": "açúcar",
+        "term": "socker"
+      },
+      {
+        "pt": "sal",
+        "term": "salt"
+      },
+      {
+        "pt": "suco",
+        "term": "juice"
+      },
+      {
+        "pt": "bolo",
+        "term": "tårta"
+      }
+    ],
+    "animals_nature": [
+      {
+        "pt": "cachorro",
+        "term": "hund"
+      },
+      {
+        "pt": "gato",
+        "term": "katt"
+      },
+      {
+        "pt": "pássaro",
+        "term": "fågel"
+      },
+      {
+        "pt": "peixe",
+        "term": "fisk"
+      },
+      {
+        "pt": "cavalo",
+        "term": "häst"
+      },
+      {
+        "pt": "árvore",
+        "term": "träd"
+      },
+      {
+        "pt": "sol",
+        "term": "sol"
+      },
+      {
+        "pt": "lua",
+        "term": "måne"
+      },
+      {
+        "pt": "flor",
+        "term": "blomma"
+      },
+      {
+        "pt": "rio",
+        "term": "flod"
+      },
+      {
+        "pt": "vaca",
+        "term": "ko"
+      },
+      {
+        "pt": "galinha",
+        "term": "höna"
+      },
+      {
+        "pt": "coelho",
+        "term": "kanin"
+      },
+      {
+        "pt": "montanha",
+        "term": "berg"
+      },
+      {
+        "pt": "mar",
+        "term": "hav"
+      },
+      {
+        "pt": "estrela",
+        "term": "stjärna"
+      }
+    ],
+    "home_daily": [
+      {
+        "pt": "casa",
+        "term": "hus"
+      },
+      {
+        "pt": "porta",
+        "term": "dörr"
+      },
+      {
+        "pt": "mesa",
+        "term": "bord"
+      },
+      {
+        "pt": "cama",
+        "term": "säng"
+      },
+      {
+        "pt": "cadeira",
+        "term": "stol"
+      },
+      {
+        "pt": "janela",
+        "term": "fönster"
+      },
+      {
+        "pt": "cozinha",
+        "term": "kök"
+      },
+      {
+        "pt": "banheiro",
+        "term": "badrum"
+      },
+      {
+        "pt": "chave",
+        "term": "nyckel"
+      },
+      {
+        "pt": "relógio",
+        "term": "klocka"
+      },
+      {
+        "pt": "sofá",
+        "term": "soffa"
+      },
+      {
+        "pt": "espelho",
+        "term": "spegel"
+      },
+      {
+        "pt": "prato",
+        "term": "tallrik"
+      },
+      {
+        "pt": "copo",
+        "term": "glas"
+      },
+      {
+        "pt": "sabonete",
+        "term": "tvål"
+      },
+      {
+        "pt": "toalha",
+        "term": "handduk"
+      }
+    ],
+    "verbs_actions": [
+      {
+        "pt": "ser",
+        "term": "vara"
+      },
+      {
+        "pt": "ter",
+        "term": "ha"
+      },
+      {
+        "pt": "ir",
+        "term": "åka"
+      },
+      {
+        "pt": "comer",
+        "term": "äta"
+      },
+      {
+        "pt": "beber",
+        "term": "dricka"
+      },
+      {
+        "pt": "falar",
+        "term": "prata"
+      },
+      {
+        "pt": "ver",
+        "term": "se"
+      },
+      {
+        "pt": "ouvir",
+        "term": "höra"
+      },
+      {
+        "pt": "ler",
+        "term": "läsa"
+      },
+      {
+        "pt": "escrever",
+        "term": "skriva"
+      },
+      {
+        "pt": "querer",
+        "term": "vilja"
+      },
+      {
+        "pt": "fazer",
+        "term": "göra"
+      },
+      {
+        "pt": "dormir",
+        "term": "sova"
+      },
+      {
+        "pt": "andar",
+        "term": "gå"
+      },
+      {
+        "pt": "comprar",
+        "term": "köpa"
+      },
+      {
+        "pt": "gostar",
+        "term": "gilla"
+      }
+    ],
+    "body_health": [
+      {
+        "pt": "cabeça",
+        "term": "huvud"
+      },
+      {
+        "pt": "cabelo",
+        "term": "hår"
+      },
+      {
+        "pt": "olho",
+        "term": "öga"
+      },
+      {
+        "pt": "nariz",
+        "term": "näsa"
+      },
+      {
+        "pt": "boca",
+        "term": "mun"
+      },
+      {
+        "pt": "dente",
+        "term": "tand"
+      },
+      {
+        "pt": "orelha",
+        "term": "öra"
+      },
+      {
+        "pt": "mão",
+        "term": "hand"
+      },
+      {
+        "pt": "braço",
+        "term": "arm"
+      },
+      {
+        "pt": "perna",
+        "term": "ben"
+      },
+      {
+        "pt": "pé",
+        "term": "fot"
+      },
+      {
+        "pt": "coração",
+        "term": "hjärta"
+      },
+      {
+        "pt": "médico",
+        "term": "läkare"
+      },
+      {
+        "pt": "remédio",
+        "term": "medicin"
+      },
+      {
+        "pt": "dor",
+        "term": "smärta"
+      },
+      {
+        "pt": "saúde",
+        "term": "hälsa"
+      }
+    ],
+    "work_school": [
+      {
+        "pt": "escola",
+        "term": "skola"
+      },
+      {
+        "pt": "professor",
+        "term": "lärare"
+      },
+      {
+        "pt": "aluno",
+        "term": "elev"
+      },
+      {
+        "pt": "livro",
+        "term": "bok"
+      },
+      {
+        "pt": "caneta",
+        "term": "penna"
+      },
+      {
+        "pt": "papel",
+        "term": "papper"
+      },
+      {
+        "pt": "lápis",
+        "term": "blyertspenna"
+      },
+      {
+        "pt": "computador",
+        "term": "dator"
+      },
+      {
+        "pt": "trabalho",
+        "term": "arbete"
+      },
+      {
+        "pt": "dinheiro",
+        "term": "pengar"
+      },
+      {
+        "pt": "emprego",
+        "term": "jobb"
+      },
+      {
+        "pt": "aula",
+        "term": "lektion"
+      },
+      {
+        "pt": "prova",
+        "term": "prov"
+      },
+      {
+        "pt": "escritório",
+        "term": "kontor"
+      },
+      {
+        "pt": "reunião",
+        "term": "möte"
+      },
+      {
+        "pt": "ideia",
+        "term": "idé"
+      }
+    ],
+    "time_weather": [
+      {
+        "pt": "dia",
+        "term": "dag"
+      },
+      {
+        "pt": "noite",
+        "term": "natt"
+      },
+      {
+        "pt": "manhã",
+        "term": "morgon"
+      },
+      {
+        "pt": "tarde",
+        "term": "eftermiddag"
+      },
+      {
+        "pt": "semana",
+        "term": "vecka"
+      },
+      {
+        "pt": "mês",
+        "term": "månad"
+      },
+      {
+        "pt": "ano",
+        "term": "år"
+      },
+      {
+        "pt": "hora",
+        "term": "timme"
+      },
+      {
+        "pt": "minuto",
+        "term": "minut"
+      },
+      {
+        "pt": "chuva",
+        "term": "regn"
+      },
+      {
+        "pt": "neve",
+        "term": "snö"
+      },
+      {
+        "pt": "vento",
+        "term": "vind"
+      },
+      {
+        "pt": "calor",
+        "term": "värme"
+      },
+      {
+        "pt": "frio",
+        "term": "kyla"
+      },
+      {
+        "pt": "nuvem",
+        "term": "moln"
+      },
+      {
+        "pt": "céu",
+        "term": "himmel"
+      }
+    ],
+    "travel": [
+      {
+        "pt": "cidade",
+        "term": "stad"
+      },
+      {
+        "pt": "rua",
+        "term": "gata"
+      },
+      {
+        "pt": "carro",
+        "term": "bil"
+      },
+      {
+        "pt": "ônibus",
+        "term": "buss"
+      },
+      {
+        "pt": "hotel",
+        "term": "hotell"
+      },
+      {
+        "pt": "mapa",
+        "term": "karta"
+      },
+      {
+        "pt": "praia",
+        "term": "strand"
+      },
+      {
+        "pt": "aeroporto",
+        "term": "flygplats"
+      },
+      {
+        "pt": "trem",
+        "term": "tåg"
+      },
+      {
+        "pt": "bilhete",
+        "term": "biljett"
+      },
+      {
+        "pt": "avião",
+        "term": "flygplan"
+      },
+      {
+        "pt": "barco",
+        "term": "båt"
+      },
+      {
+        "pt": "estação",
+        "term": "station"
+      },
+      {
+        "pt": "passaporte",
+        "term": "pass"
+      },
+      {
+        "pt": "mala",
+        "term": "resväska"
+      },
+      {
+        "pt": "táxi",
+        "term": "taxi"
+      }
+    ],
+    "conversation": [
+      {
+        "pt": "amor",
+        "term": "kärlek"
+      },
+      {
+        "pt": "feliz",
+        "term": "glad"
+      },
+      {
+        "pt": "triste",
+        "term": "ledsen"
+      },
+      {
+        "pt": "hoje",
+        "term": "i dag"
+      },
+      {
+        "pt": "amanhã",
+        "term": "i morgon"
+      },
+      {
+        "pt": "bonito",
+        "term": "vacker"
+      },
+      {
+        "pt": "grande",
+        "term": "stor"
+      },
+      {
+        "pt": "pequeno",
+        "term": "liten"
+      },
+      {
+        "pt": "novo",
+        "term": "ny"
+      },
+      {
+        "pt": "bem",
+        "term": "bra"
+      },
+      {
+        "pt": "ontem",
+        "term": "igår"
+      },
+      {
+        "pt": "agora",
+        "term": "nu"
+      },
+      {
+        "pt": "aqui",
+        "term": "här"
+      },
+      {
+        "pt": "muito",
+        "term": "mycket"
+      },
+      {
+        "pt": "pouco",
+        "term": "lite"
+      },
+      {
+        "pt": "também",
+        "term": "också"
+      }
+    ]
+  },
+  "sentences": {
+    "greetings": [
+      {
+        "pt": "Olá, tudo bem?",
+        "term": "Hej , hur mår du ?"
+      },
+      {
+        "pt": "Bom dia!",
+        "term": "God morgon !"
+      },
+      {
+        "pt": "Muito obrigado.",
+        "term": "Tack så mycket ."
+      },
+      {
+        "pt": "Boa noite, mãe.",
+        "term": "God natt , mamma ."
+      },
+      {
+        "pt": "Até logo, amigo!",
+        "term": "Vi ses , vän !"
+      },
+      {
+        "pt": "Sim, por favor.",
+        "term": "Ja , tack ."
+      }
+    ],
+    "numbers_colors": [
+      {
+        "pt": "Eu tenho dois gatos.",
+        "term": "Jag har två katter ."
+      },
+      {
+        "pt": "A casa é azul.",
+        "term": "Huset är blått ."
+      },
+      {
+        "pt": "Eu vejo três flores.",
+        "term": "Jag ser tre blommor ."
+      },
+      {
+        "pt": "O carro é vermelho.",
+        "term": "Bilen är röd ."
+      },
+      {
+        "pt": "Tenho cinco amigos.",
+        "term": "Jag har fem vänner ."
+      },
+      {
+        "pt": "A porta é branca.",
+        "term": "Dörren är vit ."
+      }
+    ],
+    "family": [
+      {
+        "pt": "Esta é a minha mãe.",
+        "term": "Det här är min mamma ."
+      },
+      {
+        "pt": "Eu amo a minha família.",
+        "term": "Jag älskar min familj ."
+      },
+      {
+        "pt": "O meu pai é grande.",
+        "term": "Min pappa är stor ."
+      },
+      {
+        "pt": "Tenho um irmão e uma irmã.",
+        "term": "Jag har en bror och en syster ."
+      },
+      {
+        "pt": "A minha avó é bonita.",
+        "term": "Min mormor är vacker ."
+      },
+      {
+        "pt": "O bebê dorme agora.",
+        "term": "Bebisen sover nu ."
+      }
+    ],
+    "food": [
+      {
+        "pt": "Eu bebo água.",
+        "term": "Jag dricker vatten ."
+      },
+      {
+        "pt": "Eu como pão.",
+        "term": "Jag äter bröd ."
+      },
+      {
+        "pt": "Eu gosto de café.",
+        "term": "Jag tycker om kaffe ."
+      },
+      {
+        "pt": "Quero uma maçã.",
+        "term": "Jag vill ha ett äpple ."
+      },
+      {
+        "pt": "A sopa é boa.",
+        "term": "Soppan är god ."
+      },
+      {
+        "pt": "Você quer suco?",
+        "term": "Vill du ha juice ?"
+      }
+    ],
+    "animals_nature": [
+      {
+        "pt": "O cachorro é grande.",
+        "term": "Hunden är stor ."
+      },
+      {
+        "pt": "Eu vejo um pássaro.",
+        "term": "Jag ser en fågel ."
+      },
+      {
+        "pt": "O gato dorme na cama.",
+        "term": "Katten sover i sängen ."
+      },
+      {
+        "pt": "O sol é amarelo.",
+        "term": "Solen är gul ."
+      },
+      {
+        "pt": "A árvore é grande.",
+        "term": "Trädet är stort ."
+      },
+      {
+        "pt": "O peixe está no rio.",
+        "term": "Fisken är i floden ."
+      }
+    ],
+    "home_daily": [
+      {
+        "pt": "A chave está na mesa.",
+        "term": "Nyckeln är på bordet ."
+      },
+      {
+        "pt": "A cama é grande.",
+        "term": "Sängen är stor ."
+      },
+      {
+        "pt": "Eu como na cozinha.",
+        "term": "Jag äter i köket ."
+      },
+      {
+        "pt": "O copo está na mesa.",
+        "term": "Glaset är på bordet ."
+      },
+      {
+        "pt": "A janela é pequena.",
+        "term": "Fönstret är litet ."
+      },
+      {
+        "pt": "Eu gosto da minha casa.",
+        "term": "Jag tycker om mitt hus ."
+      }
+    ],
+    "verbs_actions": [
+      {
+        "pt": "Eu quero comer.",
+        "term": "Jag vill äta ."
+      },
+      {
+        "pt": "Você gosta de ler?",
+        "term": "Tycker du om att läsa ?"
+      },
+      {
+        "pt": "Nós vamos andar.",
+        "term": "Vi ska gå ."
+      },
+      {
+        "pt": "Ele quer dormir.",
+        "term": "Han vill sova ."
+      },
+      {
+        "pt": "Eu gosto de falar.",
+        "term": "Jag tycker om att prata ."
+      },
+      {
+        "pt": "Eu vou comprar pão.",
+        "term": "Jag ska köpa bröd ."
+      }
+    ],
+    "body_health": [
+      {
+        "pt": "Eu tenho dor de cabeça.",
+        "term": "Jag har huvudvärk ."
+      },
+      {
+        "pt": "O médico é bom.",
+        "term": "Läkaren är bra ."
+      },
+      {
+        "pt": "Eu tenho dois olhos.",
+        "term": "Jag har två ögon ."
+      },
+      {
+        "pt": "As minhas mãos estão frias.",
+        "term": "Mina händer är kalla ."
+      },
+      {
+        "pt": "O meu coração é grande.",
+        "term": "Mitt hjärta är stort ."
+      },
+      {
+        "pt": "Eu quero saúde.",
+        "term": "Jag vill ha hälsa ."
+      }
+    ],
+    "work_school": [
+      {
+        "pt": "Eu vou à escola.",
+        "term": "Jag går till skolan ."
+      },
+      {
+        "pt": "O professor é bom.",
+        "term": "Läraren är bra ."
+      },
+      {
+        "pt": "Eu leio um livro.",
+        "term": "Jag läser en bok ."
+      },
+      {
+        "pt": "Eu gosto da escola.",
+        "term": "Jag tycker om skolan ."
+      },
+      {
+        "pt": "Tenho uma caneta nova.",
+        "term": "Jag har en ny penna ."
+      },
+      {
+        "pt": "Eu escrevo no papel.",
+        "term": "Jag skriver på pappret ."
+      }
+    ],
+    "time_weather": [
+      {
+        "pt": "Hoje está frio.",
+        "term": "Idag är det kallt ."
+      },
+      {
+        "pt": "Hoje tem chuva.",
+        "term": "Idag regnar det ."
+      },
+      {
+        "pt": "O dia está bonito.",
+        "term": "Dagen är vacker ."
+      },
+      {
+        "pt": "A manhã está fria.",
+        "term": "Morgonen är kall ."
+      },
+      {
+        "pt": "Gosto da noite.",
+        "term": "Jag tycker om natten ."
+      },
+      {
+        "pt": "O céu é azul.",
+        "term": "Himlen är blå ."
+      }
+    ],
+    "travel": [
+      {
+        "pt": "Onde fica o hotel?",
+        "term": "Var ligger hotellet ?"
+      },
+      {
+        "pt": "Eu vou de carro.",
+        "term": "Jag åker bil ."
+      },
+      {
+        "pt": "A praia é bonita.",
+        "term": "Stranden är vacker ."
+      },
+      {
+        "pt": "Quero um bilhete, por favor.",
+        "term": "Jag vill ha en biljett , tack ."
+      },
+      {
+        "pt": "O trem é grande.",
+        "term": "Tåget är stort ."
+      },
+      {
+        "pt": "A cidade é bonita.",
+        "term": "Staden är vacker ."
+      }
+    ],
+    "conversation": [
+      {
+        "pt": "Eu estou feliz hoje.",
+        "term": "Jag är glad idag ."
+      },
+      {
+        "pt": "Amanhã eu vou.",
+        "term": "Imorgon går jag ."
+      },
+      {
+        "pt": "Eu gosto muito de você.",
+        "term": "Jag tycker mycket om dig ."
+      },
+      {
+        "pt": "Hoje é um bom dia.",
+        "term": "Idag är en bra dag ."
+      },
+      {
+        "pt": "Eu estou aqui agora.",
+        "term": "Jag är här nu ."
+      },
+      {
+        "pt": "Você é muito bonito.",
+        "term": "Du är mycket vacker ."
+      }
+    ]
+  }
+}

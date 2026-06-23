@@ -1,0 +1,1183 @@
+{
+  "code": "ar",
+  "themes": {
+    "greetings": [
+      {
+        "pt": "olá",
+        "term": "مرحبا (marhaban)"
+      },
+      {
+        "pt": "tchau",
+        "term": "مع السلامة (maʿa as-salāma)"
+      },
+      {
+        "pt": "obrigado(a)",
+        "term": "شكرا (shukran)"
+      },
+      {
+        "pt": "por favor",
+        "term": "من فضلك (min faḍlik)"
+      },
+      {
+        "pt": "sim",
+        "term": "نعم (naʿam)"
+      },
+      {
+        "pt": "não",
+        "term": "لا (lā)"
+      },
+      {
+        "pt": "bom dia",
+        "term": "صباح الخير (ṣabāḥ al-khayr)"
+      },
+      {
+        "pt": "boa noite",
+        "term": "تصبح على خير (tuṣbiḥ ʿalā khayr)"
+      },
+      {
+        "pt": "desculpe",
+        "term": "آسف (āsif)"
+      },
+      {
+        "pt": "com licença",
+        "term": "عن إذنك (ʿan idhnik)"
+      },
+      {
+        "pt": "boa tarde",
+        "term": "مساء الخير (masāʾ al-khayr)"
+      },
+      {
+        "pt": "prazer em conhecer",
+        "term": "تشرفت بمعرفتك (tasharraftu bi-maʿrifatik)"
+      },
+      {
+        "pt": "tudo bem?",
+        "term": "كيف الحال؟ (kayfa al-ḥāl?)"
+      },
+      {
+        "pt": "até logo",
+        "term": "إلى اللقاء (ilā al-liqāʾ)"
+      },
+      {
+        "pt": "de nada",
+        "term": "عفواً (ʿafwan)"
+      },
+      {
+        "pt": "com certeza",
+        "term": "بالتأكيد (bi-t-taʾkīd)"
+      }
+    ],
+    "numbers_colors": [
+      {
+        "pt": "um",
+        "term": "واحد (wāḥid)"
+      },
+      {
+        "pt": "dois",
+        "term": "اثنان (ithnān)"
+      },
+      {
+        "pt": "três",
+        "term": "ثلاثة (thalātha)"
+      },
+      {
+        "pt": "quatro",
+        "term": "أربعة (arbaʿa)"
+      },
+      {
+        "pt": "cinco",
+        "term": "خمسة (khamsa)"
+      },
+      {
+        "pt": "vermelho",
+        "term": "أحمر (aḥmar)"
+      },
+      {
+        "pt": "azul",
+        "term": "أزرق (azraq)"
+      },
+      {
+        "pt": "verde",
+        "term": "أخضر (akhḍar)"
+      },
+      {
+        "pt": "amarelo",
+        "term": "أصفر (aṣfar)"
+      },
+      {
+        "pt": "preto",
+        "term": "أسود (aswad)"
+      },
+      {
+        "pt": "seis",
+        "term": "ستة (sitta)"
+      },
+      {
+        "pt": "sete",
+        "term": "سبعة (sabʿa)"
+      },
+      {
+        "pt": "oito",
+        "term": "ثمانية (thamāniya)"
+      },
+      {
+        "pt": "nove",
+        "term": "تسعة (tisʿa)"
+      },
+      {
+        "pt": "dez",
+        "term": "عشرة (ʿashara)"
+      },
+      {
+        "pt": "branco",
+        "term": "أبيض (abyaḍ)"
+      }
+    ],
+    "family": [
+      {
+        "pt": "mãe",
+        "term": "أم (umm)"
+      },
+      {
+        "pt": "pai",
+        "term": "أب (ab)"
+      },
+      {
+        "pt": "irmão",
+        "term": "أخ (akh)"
+      },
+      {
+        "pt": "irmã",
+        "term": "أخت (ukht)"
+      },
+      {
+        "pt": "avó",
+        "term": "جدة (jadda)"
+      },
+      {
+        "pt": "avô",
+        "term": "جد (jadd)"
+      },
+      {
+        "pt": "filho",
+        "term": "ابن (ibn)"
+      },
+      {
+        "pt": "filha",
+        "term": "ابنة (ibna)"
+      },
+      {
+        "pt": "amigo",
+        "term": "صديق (ṣadīq)"
+      },
+      {
+        "pt": "família",
+        "term": "عائلة (ʿāʾila)"
+      },
+      {
+        "pt": "marido",
+        "term": "زوج (zawj)"
+      },
+      {
+        "pt": "esposa",
+        "term": "زوجة (zawja)"
+      },
+      {
+        "pt": "tio",
+        "term": "عم (ʿamm)"
+      },
+      {
+        "pt": "tia",
+        "term": "عمة (ʿamma)"
+      },
+      {
+        "pt": "primo",
+        "term": "ابن العم (ibn al-ʿamm)"
+      },
+      {
+        "pt": "bebê",
+        "term": "رضيع (raḍīʿ)"
+      }
+    ],
+    "food": [
+      {
+        "pt": "água",
+        "term": "ماء (māʾ)"
+      },
+      {
+        "pt": "pão",
+        "term": "خبز (khubz)"
+      },
+      {
+        "pt": "maçã",
+        "term": "تفاحة (tuffāḥa)"
+      },
+      {
+        "pt": "leite",
+        "term": "حليب (ḥalīb)"
+      },
+      {
+        "pt": "café",
+        "term": "قهوة (qahwa)"
+      },
+      {
+        "pt": "arroz",
+        "term": "أرز (aruzz)"
+      },
+      {
+        "pt": "queijo",
+        "term": "جبن (jubn)"
+      },
+      {
+        "pt": "ovo",
+        "term": "بيضة (bayḍa)"
+      },
+      {
+        "pt": "fruta",
+        "term": "فاكهة (fākiha)"
+      },
+      {
+        "pt": "carne",
+        "term": "لحم (laḥm)"
+      },
+      {
+        "pt": "sopa",
+        "term": "حساء (ḥasāʾ)"
+      },
+      {
+        "pt": "salada",
+        "term": "سلطة (salaṭa)"
+      },
+      {
+        "pt": "açúcar",
+        "term": "سكر (sukkar)"
+      },
+      {
+        "pt": "sal",
+        "term": "ملح (milḥ)"
+      },
+      {
+        "pt": "suco",
+        "term": "عصير (ʿaṣīr)"
+      },
+      {
+        "pt": "bolo",
+        "term": "كعكة (kaʿka)"
+      }
+    ],
+    "animals_nature": [
+      {
+        "pt": "cachorro",
+        "term": "كلب (kalb)"
+      },
+      {
+        "pt": "gato",
+        "term": "قط (qiṭṭ)"
+      },
+      {
+        "pt": "pássaro",
+        "term": "عصفور (ʿuṣfūr)"
+      },
+      {
+        "pt": "peixe",
+        "term": "سمكة (samaka)"
+      },
+      {
+        "pt": "cavalo",
+        "term": "حصان (ḥiṣān)"
+      },
+      {
+        "pt": "árvore",
+        "term": "شجرة (shajara)"
+      },
+      {
+        "pt": "sol",
+        "term": "شمس (shams)"
+      },
+      {
+        "pt": "lua",
+        "term": "قمر (qamar)"
+      },
+      {
+        "pt": "flor",
+        "term": "زهرة (zahra)"
+      },
+      {
+        "pt": "rio",
+        "term": "نهر (nahr)"
+      },
+      {
+        "pt": "vaca",
+        "term": "بقرة (baqara)"
+      },
+      {
+        "pt": "galinha",
+        "term": "دجاجة (dajāja)"
+      },
+      {
+        "pt": "coelho",
+        "term": "أرنب (arnab)"
+      },
+      {
+        "pt": "montanha",
+        "term": "جبل (jabal)"
+      },
+      {
+        "pt": "mar",
+        "term": "بحر (baḥr)"
+      },
+      {
+        "pt": "estrela",
+        "term": "نجمة (najma)"
+      }
+    ],
+    "home_daily": [
+      {
+        "pt": "casa",
+        "term": "بيت (bayt)"
+      },
+      {
+        "pt": "porta",
+        "term": "باب (bāb)"
+      },
+      {
+        "pt": "mesa",
+        "term": "طاولة (ṭāwila)"
+      },
+      {
+        "pt": "cama",
+        "term": "سرير (sarīr)"
+      },
+      {
+        "pt": "cadeira",
+        "term": "كرسي (kursī)"
+      },
+      {
+        "pt": "janela",
+        "term": "نافذة (nāfidha)"
+      },
+      {
+        "pt": "cozinha",
+        "term": "مطبخ (maṭbakh)"
+      },
+      {
+        "pt": "banheiro",
+        "term": "حمام (ḥammām)"
+      },
+      {
+        "pt": "chave",
+        "term": "مفتاح (miftāḥ)"
+      },
+      {
+        "pt": "relógio",
+        "term": "ساعة (sāʿa)"
+      },
+      {
+        "pt": "sofá",
+        "term": "أريكة (arīka)"
+      },
+      {
+        "pt": "espelho",
+        "term": "مرآة (mirʾāh)"
+      },
+      {
+        "pt": "prato",
+        "term": "صحن (ṣaḥn)"
+      },
+      {
+        "pt": "copo",
+        "term": "كوب (kūb)"
+      },
+      {
+        "pt": "sabonete",
+        "term": "صابون (ṣābūn)"
+      },
+      {
+        "pt": "toalha",
+        "term": "منشفة (minshafa)"
+      }
+    ],
+    "verbs_actions": [
+      {
+        "pt": "ser",
+        "term": "يكون (yakūn)"
+      },
+      {
+        "pt": "ter",
+        "term": "يملك (yamlik)"
+      },
+      {
+        "pt": "ir",
+        "term": "يذهب (yadhhab)"
+      },
+      {
+        "pt": "comer",
+        "term": "يأكل (yaʾkul)"
+      },
+      {
+        "pt": "beber",
+        "term": "يشرب (yashrab)"
+      },
+      {
+        "pt": "falar",
+        "term": "يتكلم (yatakallam)"
+      },
+      {
+        "pt": "ver",
+        "term": "يرى (yarā)"
+      },
+      {
+        "pt": "ouvir",
+        "term": "يسمع (yasmaʿ)"
+      },
+      {
+        "pt": "ler",
+        "term": "يقرأ (yaqraʾ)"
+      },
+      {
+        "pt": "escrever",
+        "term": "يكتب (yaktub)"
+      },
+      {
+        "pt": "querer",
+        "term": "يريد (yurīd)"
+      },
+      {
+        "pt": "fazer",
+        "term": "يفعل (yafʿal)"
+      },
+      {
+        "pt": "dormir",
+        "term": "ينام (yanām)"
+      },
+      {
+        "pt": "andar",
+        "term": "يمشي (yamshī)"
+      },
+      {
+        "pt": "comprar",
+        "term": "يشتري (yashtarī)"
+      },
+      {
+        "pt": "gostar",
+        "term": "يحب (yuḥibb)"
+      }
+    ],
+    "body_health": [
+      {
+        "pt": "cabeça",
+        "term": "رأس (raʾs)"
+      },
+      {
+        "pt": "cabelo",
+        "term": "شعر (shaʿr)"
+      },
+      {
+        "pt": "olho",
+        "term": "عين (ʿayn)"
+      },
+      {
+        "pt": "nariz",
+        "term": "أنف (anf)"
+      },
+      {
+        "pt": "boca",
+        "term": "فم (fam)"
+      },
+      {
+        "pt": "dente",
+        "term": "سن (sinn)"
+      },
+      {
+        "pt": "orelha",
+        "term": "أذن (udhun)"
+      },
+      {
+        "pt": "mão",
+        "term": "يد (yad)"
+      },
+      {
+        "pt": "braço",
+        "term": "ذراع (dhirāʿ)"
+      },
+      {
+        "pt": "perna",
+        "term": "ساق (sāq)"
+      },
+      {
+        "pt": "pé",
+        "term": "قدم (qadam)"
+      },
+      {
+        "pt": "coração",
+        "term": "قلب (qalb)"
+      },
+      {
+        "pt": "médico",
+        "term": "طبيب (ṭabīb)"
+      },
+      {
+        "pt": "remédio",
+        "term": "دواء (dawāʾ)"
+      },
+      {
+        "pt": "dor",
+        "term": "ألم (alam)"
+      },
+      {
+        "pt": "saúde",
+        "term": "صحة (ṣiḥḥa)"
+      }
+    ],
+    "work_school": [
+      {
+        "pt": "escola",
+        "term": "مدرسة (madrasa)"
+      },
+      {
+        "pt": "professor",
+        "term": "معلم (muʿallim)"
+      },
+      {
+        "pt": "aluno",
+        "term": "طالب (ṭālib)"
+      },
+      {
+        "pt": "livro",
+        "term": "كتاب (kitāb)"
+      },
+      {
+        "pt": "caneta",
+        "term": "قلم (qalam)"
+      },
+      {
+        "pt": "papel",
+        "term": "ورقة (waraqa)"
+      },
+      {
+        "pt": "lápis",
+        "term": "قلم رصاص (qalam raṣāṣ)"
+      },
+      {
+        "pt": "computador",
+        "term": "حاسوب (ḥāsūb)"
+      },
+      {
+        "pt": "trabalho",
+        "term": "عمل (ʿamal)"
+      },
+      {
+        "pt": "dinheiro",
+        "term": "مال (māl)"
+      },
+      {
+        "pt": "emprego",
+        "term": "وظيفة (waẓīfa)"
+      },
+      {
+        "pt": "aula",
+        "term": "درس (dars)"
+      },
+      {
+        "pt": "prova",
+        "term": "امتحان (imtiḥān)"
+      },
+      {
+        "pt": "escritório",
+        "term": "مكتب (maktab)"
+      },
+      {
+        "pt": "reunião",
+        "term": "اجتماع (ijtimāʿ)"
+      },
+      {
+        "pt": "ideia",
+        "term": "فكرة (fikra)"
+      }
+    ],
+    "time_weather": [
+      {
+        "pt": "dia",
+        "term": "يوم (yawm)"
+      },
+      {
+        "pt": "noite",
+        "term": "ليلة (layla)"
+      },
+      {
+        "pt": "manhã",
+        "term": "صباح (ṣabāḥ)"
+      },
+      {
+        "pt": "tarde",
+        "term": "مساء (masāʾ)"
+      },
+      {
+        "pt": "semana",
+        "term": "أسبوع (usbūʿ)"
+      },
+      {
+        "pt": "mês",
+        "term": "شهر (shahr)"
+      },
+      {
+        "pt": "ano",
+        "term": "سنة (sana)"
+      },
+      {
+        "pt": "hora",
+        "term": "ساعة (sāʿa)"
+      },
+      {
+        "pt": "minuto",
+        "term": "دقيقة (daqīqa)"
+      },
+      {
+        "pt": "chuva",
+        "term": "مطر (maṭar)"
+      },
+      {
+        "pt": "neve",
+        "term": "ثلج (thalj)"
+      },
+      {
+        "pt": "vento",
+        "term": "ريح (rīḥ)"
+      },
+      {
+        "pt": "calor",
+        "term": "حر (ḥarr)"
+      },
+      {
+        "pt": "frio",
+        "term": "برد (bard)"
+      },
+      {
+        "pt": "nuvem",
+        "term": "سحابة (saḥāba)"
+      },
+      {
+        "pt": "céu",
+        "term": "سماء (samāʾ)"
+      }
+    ],
+    "travel": [
+      {
+        "pt": "cidade",
+        "term": "مدينة (madīna)"
+      },
+      {
+        "pt": "rua",
+        "term": "شارع (shāriʿ)"
+      },
+      {
+        "pt": "carro",
+        "term": "سيارة (sayyāra)"
+      },
+      {
+        "pt": "ônibus",
+        "term": "حافلة (ḥāfila)"
+      },
+      {
+        "pt": "hotel",
+        "term": "فندق (funduq)"
+      },
+      {
+        "pt": "mapa",
+        "term": "خريطة (kharīṭa)"
+      },
+      {
+        "pt": "praia",
+        "term": "شاطئ (shāṭiʾ)"
+      },
+      {
+        "pt": "aeroporto",
+        "term": "مطار (maṭār)"
+      },
+      {
+        "pt": "trem",
+        "term": "قطار (qiṭār)"
+      },
+      {
+        "pt": "bilhete",
+        "term": "تذكرة (tadhkira)"
+      },
+      {
+        "pt": "avião",
+        "term": "طائرة (ṭāʾira)"
+      },
+      {
+        "pt": "barco",
+        "term": "قارب (qārib)"
+      },
+      {
+        "pt": "estação",
+        "term": "محطة (maḥaṭṭa)"
+      },
+      {
+        "pt": "passaporte",
+        "term": "جواز سفر (jawāz safar)"
+      },
+      {
+        "pt": "mala",
+        "term": "حقيبة (ḥaqība)"
+      },
+      {
+        "pt": "táxi",
+        "term": "سيارة أجرة (sayyārat ujra)"
+      }
+    ],
+    "conversation": [
+      {
+        "pt": "amor",
+        "term": "حب (ḥubb)"
+      },
+      {
+        "pt": "feliz",
+        "term": "سعيد (saʿīd)"
+      },
+      {
+        "pt": "triste",
+        "term": "حزين (ḥazīn)"
+      },
+      {
+        "pt": "hoje",
+        "term": "اليوم (al-yawm)"
+      },
+      {
+        "pt": "amanhã",
+        "term": "غدا (ghadan)"
+      },
+      {
+        "pt": "bonito",
+        "term": "جميل (jamīl)"
+      },
+      {
+        "pt": "grande",
+        "term": "كبير (kabīr)"
+      },
+      {
+        "pt": "pequeno",
+        "term": "صغير (ṣaghīr)"
+      },
+      {
+        "pt": "novo",
+        "term": "جديد (jadīd)"
+      },
+      {
+        "pt": "bem",
+        "term": "بخير (bi-khayr)"
+      },
+      {
+        "pt": "ontem",
+        "term": "أمس (ams)"
+      },
+      {
+        "pt": "agora",
+        "term": "الآن (al-ʾān)"
+      },
+      {
+        "pt": "aqui",
+        "term": "هنا (hunā)"
+      },
+      {
+        "pt": "muito",
+        "term": "كثير (kathīr)"
+      },
+      {
+        "pt": "pouco",
+        "term": "قليل (qalīl)"
+      },
+      {
+        "pt": "também",
+        "term": "أيضاً (ayḍan)"
+      }
+    ]
+  },
+  "sentences": {
+    "greetings": [
+      {
+        "pt": "Olá, tudo bem?",
+        "term": "مرحبا، كيف حالك؟",
+        "roman": "marhaban, kayfa haluk?"
+      },
+      {
+        "pt": "Bom dia!",
+        "term": "صباح الخير!",
+        "roman": "sabah al-khayr!"
+      },
+      {
+        "pt": "Muito obrigado.",
+        "term": "شكرا جزيلا.",
+        "roman": "shukran jazilan."
+      },
+      {
+        "pt": "Boa noite, mãe.",
+        "term": "تصبحين على خير يا أمي.",
+        "roman": "tusbihina ala khayrin ya ummi."
+      },
+      {
+        "pt": "Até logo, amigo!",
+        "term": "إلى اللقاء يا صديقي!",
+        "roman": "ila al-liqaa ya sadiqi!"
+      },
+      {
+        "pt": "Sim, por favor.",
+        "term": "نعم، من فضلك.",
+        "roman": "naam, min fadlik."
+      }
+    ],
+    "numbers_colors": [
+      {
+        "pt": "Eu tenho dois gatos.",
+        "term": "عندي قطتان.",
+        "roman": "indi qittatan."
+      },
+      {
+        "pt": "A casa é azul.",
+        "term": "البيت أزرق.",
+        "roman": "al-bayt azraq."
+      },
+      {
+        "pt": "Eu vejo três flores.",
+        "term": "أرى ثلاث زهرات.",
+        "roman": "ara thalath zaharat."
+      },
+      {
+        "pt": "O carro é vermelho.",
+        "term": "السيارة حمراء.",
+        "roman": "as-sayyara hamraa."
+      },
+      {
+        "pt": "Tenho cinco amigos.",
+        "term": "عندي خمسة أصدقاء.",
+        "roman": "indi khamsat asdiqaa."
+      },
+      {
+        "pt": "A porta é branca.",
+        "term": "الباب أبيض.",
+        "roman": "al-bab abyad."
+      }
+    ],
+    "family": [
+      {
+        "pt": "Esta é a minha mãe.",
+        "term": "هذه أمي.",
+        "roman": "hadhihi ummi."
+      },
+      {
+        "pt": "Eu amo a minha família.",
+        "term": "أحب عائلتي.",
+        "roman": "uhibbu aailati."
+      },
+      {
+        "pt": "O meu pai é grande.",
+        "term": "أبي كبير.",
+        "roman": "abi kabir."
+      },
+      {
+        "pt": "Tenho um irmão e uma irmã.",
+        "term": "عندي أخ وأخت.",
+        "roman": "indi akh wa ukht."
+      },
+      {
+        "pt": "A minha avó é bonita.",
+        "term": "جدتي جميلة.",
+        "roman": "jaddati jamila."
+      },
+      {
+        "pt": "O bebê dorme agora.",
+        "term": "الطفل ينام الآن.",
+        "roman": "at-tifl yanamu al-an."
+      }
+    ],
+    "food": [
+      {
+        "pt": "Eu bebo água.",
+        "term": "أشرب الماء.",
+        "roman": "ashrabu al-maa."
+      },
+      {
+        "pt": "Eu como pão.",
+        "term": "آكل الخبز.",
+        "roman": "akulu al-khubz."
+      },
+      {
+        "pt": "Eu gosto de café.",
+        "term": "أحب القهوة.",
+        "roman": "uhibbu al-qahwa."
+      },
+      {
+        "pt": "Quero uma maçã.",
+        "term": "أريد تفاحة.",
+        "roman": "uridu tuffaha."
+      },
+      {
+        "pt": "A sopa é boa.",
+        "term": "الحساء لذيذ.",
+        "roman": "al-hisaa ladhidh."
+      },
+      {
+        "pt": "Você quer suco?",
+        "term": "هل تريد عصيرا؟",
+        "roman": "hal turidu asiran?"
+      }
+    ],
+    "animals_nature": [
+      {
+        "pt": "O cachorro é grande.",
+        "term": "الكلب كبير.",
+        "roman": "al-kalb kabir."
+      },
+      {
+        "pt": "Eu vejo um pássaro.",
+        "term": "أرى طائرا.",
+        "roman": "ara tairan."
+      },
+      {
+        "pt": "O gato dorme na cama.",
+        "term": "القط ينام على السرير.",
+        "roman": "al-qitt yanamu ala as-sarir."
+      },
+      {
+        "pt": "O sol é amarelo.",
+        "term": "الشمس صفراء.",
+        "roman": "ash-shams safraa."
+      },
+      {
+        "pt": "A árvore é grande.",
+        "term": "الشجرة كبيرة.",
+        "roman": "ash-shajara kabira."
+      },
+      {
+        "pt": "O peixe está no rio.",
+        "term": "السمكة في النهر.",
+        "roman": "as-samaka fi an-nahr."
+      }
+    ],
+    "home_daily": [
+      {
+        "pt": "A chave está na mesa.",
+        "term": "المفتاح على الطاولة.",
+        "roman": "al-miftah ala at-tawila."
+      },
+      {
+        "pt": "A cama é grande.",
+        "term": "السرير كبير.",
+        "roman": "as-sarir kabir."
+      },
+      {
+        "pt": "Eu como na cozinha.",
+        "term": "آكل في المطبخ.",
+        "roman": "akulu fi al-matbakh."
+      },
+      {
+        "pt": "O copo está na mesa.",
+        "term": "الكوب على الطاولة.",
+        "roman": "al-kub ala at-tawila."
+      },
+      {
+        "pt": "A janela é pequena.",
+        "term": "النافذة صغيرة.",
+        "roman": "an-nafidha saghira."
+      },
+      {
+        "pt": "Eu gosto da minha casa.",
+        "term": "أحب بيتي.",
+        "roman": "uhibbu bayti."
+      }
+    ],
+    "verbs_actions": [
+      {
+        "pt": "Eu quero comer.",
+        "term": "أريد أن آكل.",
+        "roman": "uridu an akula."
+      },
+      {
+        "pt": "Você gosta de ler?",
+        "term": "هل تحب القراءة؟",
+        "roman": "hal tuhibbu al-qiraaa?"
+      },
+      {
+        "pt": "Nós vamos andar.",
+        "term": "سوف نمشي .",
+        "roman": "sawfa namshi."
+      },
+      {
+        "pt": "Ele quer dormir.",
+        "term": "هو يريد أن ينام.",
+        "roman": "huwa yuridu an yanama."
+      },
+      {
+        "pt": "Eu gosto de falar.",
+        "term": "أحب الكلام.",
+        "roman": "uhibbu al-kalam."
+      },
+      {
+        "pt": "Eu vou comprar pão.",
+        "term": "سأشتري الخبز.",
+        "roman": "sa-ashtari al-khubz."
+      }
+    ],
+    "body_health": [
+      {
+        "pt": "Eu tenho dor de cabeça.",
+        "term": "عندي صداع.",
+        "roman": "indi sudaa."
+      },
+      {
+        "pt": "O médico é bom.",
+        "term": "الطبيب جيد.",
+        "roman": "at-tabib jayyid."
+      },
+      {
+        "pt": "Eu tenho dois olhos.",
+        "term": "عندي عينان.",
+        "roman": "indi aynan."
+      },
+      {
+        "pt": "As minhas mãos estão frias.",
+        "term": "يداي باردتان.",
+        "roman": "yadaya baridatan."
+      },
+      {
+        "pt": "O meu coração é grande.",
+        "term": "قلبي كبير.",
+        "roman": "qalbi kabir."
+      },
+      {
+        "pt": "Eu quero saúde.",
+        "term": "أريد الصحة.",
+        "roman": "uridu as-sihha."
+      }
+    ],
+    "work_school": [
+      {
+        "pt": "Eu vou à escola.",
+        "term": "أذهب إلى المدرسة.",
+        "roman": "adhhabu ila al-madrasa."
+      },
+      {
+        "pt": "O professor é bom.",
+        "term": "المعلم جيد.",
+        "roman": "al-muallim jayyid."
+      },
+      {
+        "pt": "Eu leio um livro.",
+        "term": "أقرأ كتابا.",
+        "roman": "aqrau kitaban."
+      },
+      {
+        "pt": "Eu gosto da escola.",
+        "term": "أحب المدرسة.",
+        "roman": "uhibbu al-madrasa."
+      },
+      {
+        "pt": "Tenho uma caneta nova.",
+        "term": "عندي قلم جديد.",
+        "roman": "indi qalam jadid."
+      },
+      {
+        "pt": "Eu escrevo no papel.",
+        "term": "أكتب على الورق.",
+        "roman": "aktubu ala al-waraq."
+      }
+    ],
+    "time_weather": [
+      {
+        "pt": "Hoje está frio.",
+        "term": "اليوم بارد.",
+        "roman": "al-yawm barid."
+      },
+      {
+        "pt": "Hoje tem chuva.",
+        "term": "اليوم ممطر.",
+        "roman": "al-yawm mumtir."
+      },
+      {
+        "pt": "O dia está bonito.",
+        "term": "اليوم جميل.",
+        "roman": "al-yawm jamil."
+      },
+      {
+        "pt": "A manhã está fria.",
+        "term": "الصباح بارد.",
+        "roman": "as-sabah barid."
+      },
+      {
+        "pt": "Gosto da noite.",
+        "term": "أحب الليل.",
+        "roman": "uhibbu al-layl."
+      },
+      {
+        "pt": "O céu é azul.",
+        "term": "السماء زرقاء.",
+        "roman": "as-samaa zarqaa."
+      }
+    ],
+    "travel": [
+      {
+        "pt": "Onde fica o hotel?",
+        "term": "أين الفندق؟",
+        "roman": "ayna al-funduq?"
+      },
+      {
+        "pt": "Eu vou de carro.",
+        "term": "أذهب بالسيارة.",
+        "roman": "adhhabu bi-as-sayyara."
+      },
+      {
+        "pt": "A praia é bonita.",
+        "term": "الشاطئ جميل.",
+        "roman": "ash-shati jamil."
+      },
+      {
+        "pt": "Quero um bilhete, por favor.",
+        "term": "أريد تذكرة، من فضلك.",
+        "roman": "uridu tadhkara, min fadlik."
+      },
+      {
+        "pt": "O trem é grande.",
+        "term": "القطار كبير.",
+        "roman": "al-qitar kabir."
+      },
+      {
+        "pt": "A cidade é bonita.",
+        "term": "المدينة جميلة.",
+        "roman": "al-madina jamila."
+      }
+    ],
+    "conversation": [
+      {
+        "pt": "Eu estou feliz hoje.",
+        "term": "أنا سعيد اليوم.",
+        "roman": "ana said al-yawm."
+      },
+      {
+        "pt": "Amanhã eu vou.",
+        "term": "غدا سأذهب.",
+        "roman": "ghadan sa-adhhab."
+      },
+      {
+        "pt": "Eu gosto muito de você.",
+        "term": "أحبك كثيرا.",
+        "roman": "uhibbuka kathiran."
+      },
+      {
+        "pt": "Hoje é um bom dia.",
+        "term": "اليوم يوم جميل.",
+        "roman": "al-yawm yawm jamil."
+      },
+      {
+        "pt": "Eu estou aqui agora.",
+        "term": "أنا هنا الآن.",
+        "roman": "ana huna al-an."
+      },
+      {
+        "pt": "Você é muito bonito.",
+        "term": "أنت جميل جدا.",
+        "roman": "anta jamil jiddan."
+      }
+    ]
+  }
+}

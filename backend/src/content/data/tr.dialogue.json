@@ -1,0 +1,245 @@
+{
+  "code": "tr",
+  "lines": {
+    "greetings": [
+      {
+        "term": "Merhaba ! Günaydın !"
+      },
+      {
+        "term": "Günaydın ! Nasılsın ?"
+      },
+      {
+        "term": "İyiyim , teşekkürler ! Ya sen ?"
+      },
+      {
+        "term": "İyiyim ! Seni görmek güzel ."
+      },
+      {
+        "term": "Görüşürüz , arkadaşım !"
+      },
+      {
+        "term": "Hoşça kal ! Görüşürüz !"
+      }
+    ],
+    "numbers_colors": [
+      {
+        "term": "Kaç tane kedin var ?"
+      },
+      {
+        "term": "İki kedim var ."
+      },
+      {
+        "term": "Evin ne renk ?"
+      },
+      {
+        "term": "Evim mavi ."
+      },
+      {
+        "term": "Üç tane kırmızı çiçek görüyorum ."
+      },
+      {
+        "term": "Ne güzel !"
+      }
+    ],
+    "family": [
+      {
+        "term": "Bu senin ailen mi ?"
+      },
+      {
+        "term": "Evet , bu benim annem ."
+      },
+      {
+        "term": "Peki o kim ?"
+      },
+      {
+        "term": "O benim babam . Bir de erkek kardeşim var ."
+      },
+      {
+        "term": "Ailen büyükmüş !"
+      },
+      {
+        "term": "Ailemi seviyorum ."
+      }
+    ],
+    "food": [
+      {
+        "term": "Bir şeyler yemek ister misin ?"
+      },
+      {
+        "term": "Evet , ekmek ve peynir yerim ."
+      },
+      {
+        "term": "Su içmek ister misin ?"
+      },
+      {
+        "term": "Hayır , ben kahveyi severim ."
+      },
+      {
+        "term": "Çorba hazır !"
+      },
+      {
+        "term": "Teşekkürler , çorba güzel ."
+      }
+    ],
+    "animals_nature": [
+      {
+        "term": "Bak , bir kuş görüyorum !"
+      },
+      {
+        "term": "Kuş ağacın üstünde ."
+      },
+      {
+        "term": "Senin köpeğin büyük mü ?"
+      },
+      {
+        "term": "Evet , kedi de yatakta uyuyor ."
+      },
+      {
+        "term": "Bugün güneş çok güzel ."
+      },
+      {
+        "term": "Ben nehri ve çiçekleri severim ."
+      }
+    ],
+    "home_daily": [
+      {
+        "term": "Anahtar nerede ?"
+      },
+      {
+        "term": "Anahtar masanın üstünde ."
+      },
+      {
+        "term": "Senin evin büyük mü ?"
+      },
+      {
+        "term": "Ev küçük , ama ben onu seviyorum ."
+      },
+      {
+        "term": "Nerede yemek yiyorsun ?"
+      },
+      {
+        "term": "Ben mutfakta yemek yerim ."
+      }
+    ],
+    "verbs_actions": [
+      {
+        "term": "Bugün ne yapmak istiyorsun ?"
+      },
+      {
+        "term": "Yemek yemek ve uyumak istiyorum ."
+      },
+      {
+        "term": "Okumayı sever misin ?"
+      },
+      {
+        "term": "Evet , okumayı ve yazmayı severim ."
+      },
+      {
+        "term": "Şehirde yürüyelim mi ?"
+      },
+      {
+        "term": "Evet , haydi !"
+      }
+    ],
+    "body_health": [
+      {
+        "term": "İyi misin ?"
+      },
+      {
+        "term": "Hayır , başım ağrıyor ."
+      },
+      {
+        "term": "Bir doktora ihtiyacın var mı ?"
+      },
+      {
+        "term": "Evet , bir ilaç istiyorum ."
+      },
+      {
+        "term": "Sağlığına dikkat et !"
+      },
+      {
+        "term": "Teşekkürler , şimdi daha iyiyim ."
+      }
+    ],
+    "work_school": [
+      {
+        "term": "Bugün okula gidiyor musun ?"
+      },
+      {
+        "term": "Evet , bir sınavım var ."
+      },
+      {
+        "term": "Öğretmen iyi mi ?"
+      },
+      {
+        "term": "Evet , okulu seviyorum ."
+      },
+      {
+        "term": "Yeni bir kitap okuyorum ."
+      },
+      {
+        "term": "Defterime yazıyorum ."
+      }
+    ],
+    "time_weather": [
+      {
+        "term": "Bugün hava nasıl ?"
+      },
+      {
+        "term": "Bugün soğuk ve yağmurlu ."
+      },
+      {
+        "term": "Peki ya yarın ?"
+      },
+      {
+        "term": "Yarın hava güzel olacak ."
+      },
+      {
+        "term": "Ben sabahı severim ."
+      },
+      {
+        "term": "Gökyüzü şimdi mavi ."
+      }
+    ],
+    "travel": [
+      {
+        "term": "Nereye seyahat edeceksin ?"
+      },
+      {
+        "term": "Şehre trenle gideceğim ."
+      },
+      {
+        "term": "Otel nerede ?"
+      },
+      {
+        "term": "Otel plaja yakın ."
+      },
+      {
+        "term": "Biletin var mı ?"
+      },
+      {
+        "term": "Evet , pasaportum da var ."
+      }
+    ],
+    "conversation": [
+      {
+        "term": "Bugün nasılsın ?"
+      },
+      {
+        "term": "Çok mutluyum !"
+      },
+      {
+        "term": "Neden ?"
+      },
+      {
+        "term": "Çünkü bugün güzel bir gün ."
+      },
+      {
+        "term": "Senden çok hoşlanıyorum ."
+      },
+      {
+        "term": "Sen iyi bir arkadaşsın ."
+      }
+    ]
+  }
+}

@@ -1,0 +1,317 @@
+{
+  "code": "hi",
+  "lines": {
+    "greetings": [
+      {
+        "term": "नमस्ते ! सुप्रभात !",
+        "roman": "namaste ! suprabhāt !"
+      },
+      {
+        "term": "सुप्रभात ! सब ठीक है ?",
+        "roman": "suprabhāt ! sab ṭhīk hai ?"
+      },
+      {
+        "term": "सब ठीक है , धन्यवाद ! और आप ?",
+        "roman": "sab ṭhīk hai , dhanyavād ! aur āp ?"
+      },
+      {
+        "term": "मैं ठीक हूँ ! आपसे मिलकर खुशी हुई ।",
+        "roman": "main ṭhīk hūn ! āpse milkar khushī huī ."
+      },
+      {
+        "term": "फिर मिलेंगे , सहेली !",
+        "roman": "phir milenge , sahelī !"
+      },
+      {
+        "term": "अलविदा ! फिर मिलेंगे !",
+        "roman": "alvidā ! phir milenge !"
+      }
+    ],
+    "numbers_colors": [
+      {
+        "term": "तुम्हारे पास कितनी बिल्लियाँ हैं ?",
+        "roman": "tumhāre pās kitnī billiyān hain ?"
+      },
+      {
+        "term": "मेरे पास दो बिल्लियाँ हैं ।",
+        "roman": "mere pās do billiyān hain ."
+      },
+      {
+        "term": "तुम्हारा घर किस रंग का है ?",
+        "roman": "tumhārā ghar kis rang kā hai ?"
+      },
+      {
+        "term": "मेरा घर नीला है ।",
+        "roman": "merā ghar nīlā hai ."
+      },
+      {
+        "term": "मुझे तीन लाल फूल दिखते हैं ।",
+        "roman": "mujhe tīn lāl phūl dikhte hain ."
+      },
+      {
+        "term": "कितना सुंदर !",
+        "roman": "kitnā sundar !"
+      }
+    ],
+    "family": [
+      {
+        "term": "क्या यह तुम्हारा परिवार है ?",
+        "roman": "kyā yah tumhārā parivār hai ?"
+      },
+      {
+        "term": "हाँ , यह मेरी माँ हैं ।",
+        "roman": "hān , yah merī mān hain ."
+      },
+      {
+        "term": "और यह कौन है ?",
+        "roman": "aur yah kaun hai ?"
+      },
+      {
+        "term": "यह मेरे पिता हैं । मेरा एक भाई भी है ।",
+        "roman": "yah mere pitā hain . merā ek bhāī bhī hai ."
+      },
+      {
+        "term": "तुम्हारा परिवार बड़ा है !",
+        "roman": "tumhārā parivār baṛā hai !"
+      },
+      {
+        "term": "मैं अपने परिवार से प्यार करती हूँ ।",
+        "roman": "main apne parivār se pyār kartī hūn ."
+      }
+    ],
+    "food": [
+      {
+        "term": "क्या तुम कुछ खाना चाहते हो ?",
+        "roman": "kyā tum kuchh khānā chāhte ho ?"
+      },
+      {
+        "term": "हाँ , मैं रोटी और पनीर खाती हूँ ।",
+        "roman": "hān , main roṭī aur panīr khātī hūn ."
+      },
+      {
+        "term": "क्या तुम पानी पीना चाहती हो ?",
+        "roman": "kyā tum pānī pīnā chāhtī ho ?"
+      },
+      {
+        "term": "नहीं , मुझे कॉफ़ी पसंद है ।",
+        "roman": "nahīn , mujhe kŏfī pasand hai ."
+      },
+      {
+        "term": "सूप तैयार है !",
+        "roman": "sūp taiyār hai !"
+      },
+      {
+        "term": "धन्यवाद , सूप अच्छा है ।",
+        "roman": "dhanyavād , sūp achchhā hai ."
+      }
+    ],
+    "animals_nature": [
+      {
+        "term": "देखो , मुझे एक पक्षी दिखता है !",
+        "roman": "dekho , mujhe ek pakshī dikhtā hai !"
+      },
+      {
+        "term": "पक्षी पेड़ पर है ।",
+        "roman": "pakshī peṛ par hai ."
+      },
+      {
+        "term": "क्या तुम्हारा कुत्ता बड़ा है ?",
+        "roman": "kyā tumhārā kuttā baṛā hai ?"
+      },
+      {
+        "term": "हाँ , और बिल्ली बिस्तर पर सोती है ।",
+        "roman": "hān , aur billī bistar par sotī hai ."
+      },
+      {
+        "term": "आज सूरज सुंदर है ।",
+        "roman": "āj sūraj sundar hai ."
+      },
+      {
+        "term": "मुझे नदी और फूल पसंद हैं ।",
+        "roman": "mujhe nadī aur phūl pasand hain ."
+      }
+    ],
+    "home_daily": [
+      {
+        "term": "चाबी कहाँ है ?",
+        "roman": "chābī kahān hai ?"
+      },
+      {
+        "term": "चाबी मेज़ पर है ।",
+        "roman": "chābī mez par hai ."
+      },
+      {
+        "term": "क्या तुम्हारा घर बड़ा है ?",
+        "roman": "kyā tumhārā ghar baṛā hai ?"
+      },
+      {
+        "term": "घर छोटा है , लेकिन मुझे यह पसंद है ।",
+        "roman": "ghar chhoṭā hai , lekin mujhe yah pasand hai ."
+      },
+      {
+        "term": "तुम कहाँ खाते हो ?",
+        "roman": "tum kahān khāte ho ?"
+      },
+      {
+        "term": "मैं रसोई में खाती हूँ ।",
+        "roman": "main rasoī men khātī hūn ."
+      }
+    ],
+    "verbs_actions": [
+      {
+        "term": "तुम आज क्या करना चाहते हो ?",
+        "roman": "tum āj kyā karnā chāhte ho ?"
+      },
+      {
+        "term": "मैं खाना और सोना चाहती हूँ ।",
+        "roman": "main khānā aur sonā chāhtī hūn ."
+      },
+      {
+        "term": "क्या तुम्हें पढ़ना पसंद है ?",
+        "roman": "kyā tumhen paṛhnā pasand hai ?"
+      },
+      {
+        "term": "हाँ , मुझे पढ़ना और लिखना पसंद है ।",
+        "roman": "hān , mujhe paṛhnā aur likhnā pasand hai ."
+      },
+      {
+        "term": "चलो शहर में टहलें ?",
+        "roman": "chalo shahar men ṭahlen ?"
+      },
+      {
+        "term": "हाँ , चलो !",
+        "roman": "hān , chalo !"
+      }
+    ],
+    "body_health": [
+      {
+        "term": "क्या तुम ठीक हो ?",
+        "roman": "kyā tum ṭhīk ho ?"
+      },
+      {
+        "term": "नहीं , मेरे सिर में दर्द है ।",
+        "roman": "nahīn , mere sir men dard hai ."
+      },
+      {
+        "term": "क्या तुम्हें डॉक्टर की ज़रूरत है ?",
+        "roman": "kyā tumhen ḍŏkṭar kī zarūrat hai ?"
+      },
+      {
+        "term": "हाँ , मुझे एक दवा चाहिए ।",
+        "roman": "hān , mujhe ek davā chāhie ."
+      },
+      {
+        "term": "अपनी सेहत का ख्याल रखो !",
+        "roman": "apnī sehat kā khyāl rakho !"
+      },
+      {
+        "term": "धन्यवाद , अब मैं बेहतर हूँ ।",
+        "roman": "dhanyavād , ab main behtar hūn ."
+      }
+    ],
+    "work_school": [
+      {
+        "term": "क्या तुम आज स्कूल जाती हो ?",
+        "roman": "kyā tum āj skūl jātī ho ?"
+      },
+      {
+        "term": "हाँ , मेरी एक परीक्षा है ।",
+        "roman": "hān , merī ek parīkshā hai ."
+      },
+      {
+        "term": "क्या शिक्षक अच्छे हैं ?",
+        "roman": "kyā shikshak achchhe hain ?"
+      },
+      {
+        "term": "हाँ , मुझे स्कूल पसंद है ।",
+        "roman": "hān , mujhe skūl pasand hai ."
+      },
+      {
+        "term": "मैं एक नई किताब पढ़ती हूँ ।",
+        "roman": "main ek naī kitāb paṛhtī hūn ."
+      },
+      {
+        "term": "मैं अपनी कॉपी में लिखती हूँ ।",
+        "roman": "main apnī kŏpī men likhtī hūn ."
+      }
+    ],
+    "time_weather": [
+      {
+        "term": "आज मौसम कैसा है ?",
+        "roman": "āj mausam kaisā hai ?"
+      },
+      {
+        "term": "आज ठंड है और बारिश हो रही है ।",
+        "roman": "āj ṭhanḍ hai aur bārish ho rahī hai ."
+      },
+      {
+        "term": "और कल ?",
+        "roman": "aur kal ?"
+      },
+      {
+        "term": "कल दिन सुंदर होगा ।",
+        "roman": "kal din sundar hogā ."
+      },
+      {
+        "term": "मुझे सुबह पसंद है ।",
+        "roman": "mujhe subah pasand hai ."
+      },
+      {
+        "term": "अभी आसमान नीला है ।",
+        "roman": "abhī āsmān nīlā hai ."
+      }
+    ],
+    "travel": [
+      {
+        "term": "तुम कहाँ यात्रा करने जाओगी ?",
+        "roman": "tum kahān yātrā karne jāogī ?"
+      },
+      {
+        "term": "मैं ट्रेन से शहर जाती हूँ ।",
+        "roman": "main ṭren se shahar jātī hūn ."
+      },
+      {
+        "term": "होटल कहाँ है ?",
+        "roman": "hoṭal kahān hai ?"
+      },
+      {
+        "term": "होटल समुद्र तट के पास है ।",
+        "roman": "hoṭal samudra taṭ ke pās hai ."
+      },
+      {
+        "term": "क्या तुम्हारे पास टिकट है ?",
+        "roman": "kyā tumhāre pās ṭikaṭ hai ?"
+      },
+      {
+        "term": "हाँ , और मेरा पासपोर्ट भी ।",
+        "roman": "hān , aur merā pāsporṭ bhī ."
+      }
+    ],
+    "conversation": [
+      {
+        "term": "तुम आज कैसी हो ?",
+        "roman": "tum āj kaisī ho ?"
+      },
+      {
+        "term": "मैं बहुत खुश हूँ !",
+        "roman": "main bahut khush hūn !"
+      },
+      {
+        "term": "क्यों ?",
+        "roman": "kyon ?"
+      },
+      {
+        "term": "क्योंकि आज एक अच्छा दिन है ।",
+        "roman": "kyonki āj ek achchhā din hai ."
+      },
+      {
+        "term": "मैं तुम्हें बहुत पसंद करती हूँ ।",
+        "roman": "main tumhen bahut pasand kartī hūn ."
+      },
+      {
+        "term": "तुम एक अच्छी सहेली हो ।",
+        "roman": "tum ek achchhī sahelī ho ."
+      }
+    ]
+  }
+}

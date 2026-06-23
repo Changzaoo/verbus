@@ -1,0 +1,317 @@
+{
+  "code": "ar",
+  "lines": {
+    "greetings": [
+      {
+        "term": "مَرْحَباً ! صَباحُ الخَيْرِ !",
+        "roman": "marhaban ! sabahu l-khayri !"
+      },
+      {
+        "term": "صَباحُ الخَيْرِ ! كَيْفَ حالُكَ ؟",
+        "roman": "sabahu l-khayri ! kayfa haluka ?"
+      },
+      {
+        "term": "بِخَيْرٍ ، شُكْراً ! وَأَنْتَ ؟",
+        "roman": "bi-khayrin , shukran ! wa-anta ?"
+      },
+      {
+        "term": "أَنا بِخَيْرٍ ! سَعِدْتُ بِرُؤْيَتِكِ .",
+        "roman": "ana bi-khayrin ! sa'idtu bi-ru'yatiki ."
+      },
+      {
+        "term": "إِلى اللِّقاءِ ، يا صَدِيقَتي !",
+        "roman": "ila l-liqa'i , ya sadiqati !"
+      },
+      {
+        "term": "مَعَ السَّلامَةِ ! إِلى اللِّقاءِ !",
+        "roman": "ma'a s-salamati ! ila l-liqa'i !"
+      }
+    ],
+    "numbers_colors": [
+      {
+        "term": "كَمْ قِطّاً عِنْدَكَ ؟",
+        "roman": "kam qittan 'indaka ?"
+      },
+      {
+        "term": "عِنْدي قِطّانِ .",
+        "roman": "'indi qittani ."
+      },
+      {
+        "term": "ما لَوْنُ بَيْتِكَ ؟",
+        "roman": "ma lawnu baytika ?"
+      },
+      {
+        "term": "بَيْتي أَزْرَقُ .",
+        "roman": "bayti azraqu ."
+      },
+      {
+        "term": "أَنا أَرى ثَلاثَ زَهَراتٍ حَمْراءَ .",
+        "roman": "ana ara thalatha zaharatin hamra'a ."
+      },
+      {
+        "term": "ما أَجْمَلَ ذٰلِكَ !",
+        "roman": "ma ajmala dhalika !"
+      }
+    ],
+    "family": [
+      {
+        "term": "هَلْ هٰذِهِ عائِلَتُكَ ؟",
+        "roman": "hal hadhihi 'a'ilatuka ?"
+      },
+      {
+        "term": "نَعَمْ ، هٰذِهِ أُمّي .",
+        "roman": "na'am , hadhihi ummi ."
+      },
+      {
+        "term": "وَمَنْ هُوَ ؟",
+        "roman": "wa-man huwa ?"
+      },
+      {
+        "term": "هُوَ أَبي . وَلَدَيَّ أَخٌ أَيْضاً .",
+        "roman": "huwa abi . wa-ladayya akhun aydan ."
+      },
+      {
+        "term": "عائِلَتُكَ كَبيرَةٌ !",
+        "roman": "'a'ilatuka kabiratun !"
+      },
+      {
+        "term": "أَنا أُحِبُّ عائِلَتي .",
+        "roman": "ana uhibbu 'a'ilati ."
+      }
+    ],
+    "food": [
+      {
+        "term": "هَلْ تُريدُ أَنْ تَأْكُلَ ؟",
+        "roman": "hal turidu an ta'kula ?"
+      },
+      {
+        "term": "نَعَمْ ، آكُلُ الخُبْزَ وَالجُبْنَ .",
+        "roman": "na'am , akulu l-khubza wa-l-jubna ."
+      },
+      {
+        "term": "هَلْ تُريدُ أَنْ تَشْرَبَ الماءَ ؟",
+        "roman": "hal turidu an tashraba l-ma'a ?"
+      },
+      {
+        "term": "لا ، أَنا أُحِبُّ القَهْوَةَ .",
+        "roman": "la , ana uhibbu l-qahwata ."
+      },
+      {
+        "term": "الحَساءُ جاهِزٌ !",
+        "roman": "al-hasa'u jahizun !"
+      },
+      {
+        "term": "شُكْراً ، الحَساءُ لَذيذٌ .",
+        "roman": "shukran , al-hasa'u ladhidhun ."
+      }
+    ],
+    "animals_nature": [
+      {
+        "term": "اُنْظُري ، أَنا أَرى عُصْفوراً !",
+        "roman": "unzuri , ana ara 'usfuran !"
+      },
+      {
+        "term": "العُصْفورُ عَلى الشَّجَرَةِ .",
+        "roman": "al-'usfuru 'ala sh-shajarati ."
+      },
+      {
+        "term": "هَلْ كَلْبُكِ كَبيرٌ ؟",
+        "roman": "hal kalbuki kabirun ?"
+      },
+      {
+        "term": "نَعَمْ ، وَالقِطُّ يَنامُ عَلى السَّريرِ .",
+        "roman": "na'am , wa-l-qittu yanamu 'ala s-sariri ."
+      },
+      {
+        "term": "الشَّمْسُ جَميلَةٌ اليَوْمَ .",
+        "roman": "ash-shamsu jamilatun al-yawma ."
+      },
+      {
+        "term": "أَنا أُحِبُّ النَّهْرَ وَالزُّهورَ .",
+        "roman": "ana uhibbu n-nahra wa-z-zuhura ."
+      }
+    ],
+    "home_daily": [
+      {
+        "term": "أَيْنَ المِفْتاحُ ؟",
+        "roman": "ayna l-miftahu ?"
+      },
+      {
+        "term": "المِفْتاحُ عَلى الطّاوِلَةِ .",
+        "roman": "al-miftahu 'ala t-tawilati ."
+      },
+      {
+        "term": "هَلْ بَيْتُكِ كَبيرٌ ؟",
+        "roman": "hal baytuki kabirun ?"
+      },
+      {
+        "term": "البَيْتُ صَغيرٌ ، لٰكِنّي أُحِبُّهُ .",
+        "roman": "al-baytu saghirun , lakinni uhibbuhu ."
+      },
+      {
+        "term": "أَيْنَ تَأْكُلينَ ؟",
+        "roman": "ayna ta'kulina ?"
+      },
+      {
+        "term": "أَنا آكُلُ في المَطْبَخِ .",
+        "roman": "ana akulu fi l-matbakhi ."
+      }
+    ],
+    "verbs_actions": [
+      {
+        "term": "ماذا تُريدُ أَنْ تَفْعَلَ اليَوْمَ ؟",
+        "roman": "madha turidu an taf'ala l-yawma ?"
+      },
+      {
+        "term": "أَنا أُريدُ أَنْ آكُلَ وَأَنامَ .",
+        "roman": "ana uridu an akula wa-anama ."
+      },
+      {
+        "term": "هَلْ تُحِبُّ القِراءَةَ ؟",
+        "roman": "hal tuhibbu l-qira'ata ?"
+      },
+      {
+        "term": "نَعَمْ ، أَنا أُحِبُّ القِراءَةَ وَالكِتابَةَ .",
+        "roman": "na'am , ana uhibbu l-qira'ata wa-l-kitabata ."
+      },
+      {
+        "term": "هَلْ نَتَمَشّى في المَدينَةِ ؟",
+        "roman": "hal natamashsha fi l-madinati ?"
+      },
+      {
+        "term": "نَعَمْ ، هَيّا بِنا !",
+        "roman": "na'am , hayya bina !"
+      }
+    ],
+    "body_health": [
+      {
+        "term": "هَلْ أَنْتِ بِخَيْرٍ ؟",
+        "roman": "hal anti bi-khayrin ?"
+      },
+      {
+        "term": "لا ، عِنْدي صُداعٌ .",
+        "roman": "la , 'indi suda'un ."
+      },
+      {
+        "term": "هَلْ تَحْتاجينَ إِلى طَبيبٍ ؟",
+        "roman": "hal tahtajina ila tabibin ?"
+      },
+      {
+        "term": "نَعَمْ ، أَنا أُريدُ دَواءً .",
+        "roman": "na'am , ana uridu dawa'an ."
+      },
+      {
+        "term": "اِعْتَني بِصِحَّتِكِ !",
+        "roman": "i'tani bi-sihhatiki !"
+      },
+      {
+        "term": "شُكْراً ، أَنا الآنَ أَفْضَلُ .",
+        "roman": "shukran , ana l-ana afdalu ."
+      }
+    ],
+    "work_school": [
+      {
+        "term": "هَلْ تَذْهَبينَ إِلى المَدْرَسَةِ اليَوْمَ ؟",
+        "roman": "hal tadhhabina ila l-madrasati l-yawma ?"
+      },
+      {
+        "term": "نَعَمْ ، عِنْدي اِمْتِحانٌ .",
+        "roman": "na'am , 'indi imtihanun ."
+      },
+      {
+        "term": "هَلِ المُعَلِّمُ جَيِّدٌ ؟",
+        "roman": "hali l-mu'allimu jayyidun ?"
+      },
+      {
+        "term": "نَعَمْ ، أَنا أُحِبُّ المَدْرَسَةَ .",
+        "roman": "na'am , ana uhibbu l-madrasata ."
+      },
+      {
+        "term": "أَنا أَقْرَأُ كِتاباً جَديداً .",
+        "roman": "ana aqra'u kitaban jadidan ."
+      },
+      {
+        "term": "أَنا أَكْتُبُ في دَفْتَري .",
+        "roman": "ana aktubu fi daftari ."
+      }
+    ],
+    "time_weather": [
+      {
+        "term": "كَيْفَ الطَّقْسُ اليَوْمَ ؟",
+        "roman": "kayfa t-taqsu l-yawma ?"
+      },
+      {
+        "term": "اليَوْمَ بارِدٌ وَيَهْطُلُ المَطَرُ .",
+        "roman": "al-yawma baridun wa-yahtulu l-mataru ."
+      },
+      {
+        "term": "وَغَداً ؟",
+        "roman": "wa-ghadan ?"
+      },
+      {
+        "term": "غَداً سَيَكونُ اليَوْمُ جَميلاً .",
+        "roman": "ghadan sayakunu l-yawmu jamilan ."
+      },
+      {
+        "term": "أَنا أُحِبُّ الصَّباحَ .",
+        "roman": "ana uhibbu s-sabaha ."
+      },
+      {
+        "term": "السَّماءُ زَرْقاءُ الآنَ .",
+        "roman": "as-sama'u zarqa'u l-ana ."
+      }
+    ],
+    "travel": [
+      {
+        "term": "إِلى أَيْنَ سَتُسافِرُ ؟",
+        "roman": "ila ayna satusafiru ?"
+      },
+      {
+        "term": "أَنا أَذْهَبُ إِلى المَدينَةِ بِالقِطارِ .",
+        "roman": "ana adhhabu ila l-madinati bi-l-qitari ."
+      },
+      {
+        "term": "أَيْنَ يَقَعُ الفُنْدُقُ ؟",
+        "roman": "ayna yaqa'u l-funduqu ?"
+      },
+      {
+        "term": "الفُنْدُقُ قَريبٌ مِنَ الشّاطِئِ .",
+        "roman": "al-funduqu qaribun mina sh-shati'i ."
+      },
+      {
+        "term": "هَلْ مَعَكَ التَّذْكِرَةُ ؟",
+        "roman": "hal ma'aka t-tadhkiratu ?"
+      },
+      {
+        "term": "نَعَمْ ، وَجَوازُ سَفَري أَيْضاً .",
+        "roman": "na'am , wa-jawazu safari aydan ."
+      }
+    ],
+    "conversation": [
+      {
+        "term": "كَيْفَ حالُكِ اليَوْمَ ؟",
+        "roman": "kayfa haluki l-yawma ?"
+      },
+      {
+        "term": "أَنا سَعيدَةٌ جِدّاً !",
+        "roman": "ana sa'idatun jiddan !"
+      },
+      {
+        "term": "لِماذا ؟",
+        "roman": "limadha ?"
+      },
+      {
+        "term": "لِأَنَّ اليَوْمَ يَوْمٌ جَميلٌ .",
+        "roman": "li-anna l-yawma yawmun jamilun ."
+      },
+      {
+        "term": "أَنا أُحِبُّكِ كَثيراً .",
+        "roman": "ana uhibbuki kathiran ."
+      },
+      {
+        "term": "أَنْتِ صَدِيقَةٌ طَيِّبَةٌ .",
+        "roman": "anti sadiqatun tayyibatun ."
+      }
+    ]
+  }
+}

@@ -1,0 +1,317 @@
+{
+  "code": "el",
+  "lines": {
+    "greetings": [
+      {
+        "term": "Γεια σου ! Καλημέρα !",
+        "roman": "Gia sou ! Kaliméra !"
+      },
+      {
+        "term": "Καλημέρα ! Τι κάνεις ;",
+        "roman": "Kaliméra ! Ti káneis ;"
+      },
+      {
+        "term": "Καλά , ευχαριστώ ! Εσύ ;",
+        "roman": "Kalá , efcharistó ! Esý ;"
+      },
+      {
+        "term": "Είμαι καλά ! Χαίρομαι που σε βλέπω .",
+        "roman": "Eímai kalá ! Chaíromai pou se vlépo ."
+      },
+      {
+        "term": "Τα λέμε , φίλη μου !",
+        "roman": "Ta léme , fíli mou !"
+      },
+      {
+        "term": "Γεια ! Τα λέμε !",
+        "roman": "Gia ! Ta léme !"
+      }
+    ],
+    "numbers_colors": [
+      {
+        "term": "Πόσες γάτες έχεις ;",
+        "roman": "Póses gátes écheis ;"
+      },
+      {
+        "term": "Έχω δύο γάτες .",
+        "roman": "Écho dýo gátes ."
+      },
+      {
+        "term": "Τι χρώμα είναι το σπίτι σου ;",
+        "roman": "Ti chróma eínai to spíti sou ;"
+      },
+      {
+        "term": "Το σπίτι μου είναι μπλε .",
+        "roman": "To spíti mou eínai ble ."
+      },
+      {
+        "term": "Βλέπω τρία κόκκινα λουλούδια .",
+        "roman": "Vlépo tría kókkina louloúdia ."
+      },
+      {
+        "term": "Τι όμορφα !",
+        "roman": "Ti ómorfa !"
+      }
+    ],
+    "family": [
+      {
+        "term": "Αυτή είναι η οικογένειά σου ;",
+        "roman": "Aftí eínai i oikogéneiá sou ;"
+      },
+      {
+        "term": "Ναι , αυτή είναι η μητέρα μου .",
+        "roman": "Nai , aftí eínai i mitéra mou ."
+      },
+      {
+        "term": "Και ποιος είναι αυτός ;",
+        "roman": "Kai poios eínai aftós ;"
+      },
+      {
+        "term": "Αυτός είναι ο πατέρας μου . Έχω και έναν αδερφό .",
+        "roman": "Aftós eínai o patéras mou . Écho kai énan aderfó ."
+      },
+      {
+        "term": "Η οικογένειά σου είναι μεγάλη !",
+        "roman": "I oikogéneiá sou eínai megáli !"
+      },
+      {
+        "term": "Αγαπώ την οικογένειά μου .",
+        "roman": "Agapó tin oikogéneiá mou ."
+      }
+    ],
+    "food": [
+      {
+        "term": "Θέλεις να φας ;",
+        "roman": "Théleis na fas ;"
+      },
+      {
+        "term": "Ναι , τρώω ψωμί και τυρί .",
+        "roman": "Nai , tróo psomí kai tyrí ."
+      },
+      {
+        "term": "Θέλεις να πιεις νερό ;",
+        "roman": "Théleis na pieis neró ;"
+      },
+      {
+        "term": "Όχι , μου αρέσει ο καφές .",
+        "roman": "Óchi , mou arései o kafés ."
+      },
+      {
+        "term": "Η σούπα είναι έτοιμη !",
+        "roman": "I soúpa eínai étoimi !"
+      },
+      {
+        "term": "Ευχαριστώ , η σούπα είναι νόστιμη .",
+        "roman": "Efcharistó , i soúpa eínai nóstimi ."
+      }
+    ],
+    "animals_nature": [
+      {
+        "term": "Κοίτα , βλέπω ένα πουλί !",
+        "roman": "Koíta , vlépo éna poulí !"
+      },
+      {
+        "term": "Το πουλί είναι στο δέντρο .",
+        "roman": "To poulí eínai sto déntro ."
+      },
+      {
+        "term": "Ο σκύλος σου είναι μεγάλος ;",
+        "roman": "O skýlos sou eínai megálos ;"
+      },
+      {
+        "term": "Ναι , και η γάτα κοιμάται στο κρεβάτι .",
+        "roman": "Nai , kai i gáta koimátai sto kreváti ."
+      },
+      {
+        "term": "Ο ήλιος είναι όμορφος σήμερα .",
+        "roman": "O ílios eínai ómorfos símera ."
+      },
+      {
+        "term": "Μου αρέσουν το ποτάμι και τα λουλούδια .",
+        "roman": "Mou arésoun to potámi kai ta louloúdia ."
+      }
+    ],
+    "home_daily": [
+      {
+        "term": "Πού είναι το κλειδί ;",
+        "roman": "Poú eínai to kleidí ;"
+      },
+      {
+        "term": "Το κλειδί είναι στο τραπέζι .",
+        "roman": "To kleidí eínai sto trapézi ."
+      },
+      {
+        "term": "Το σπίτι σου είναι μεγάλο ;",
+        "roman": "To spíti sou eínai megálo ;"
+      },
+      {
+        "term": "Το σπίτι είναι μικρό , αλλά μου αρέσει .",
+        "roman": "To spíti eínai mikró , allá mou arései ."
+      },
+      {
+        "term": "Πού τρως ;",
+        "roman": "Poú tros ;"
+      },
+      {
+        "term": "Τρώω στην κουζίνα .",
+        "roman": "Tróo stin kouzína ."
+      }
+    ],
+    "verbs_actions": [
+      {
+        "term": "Τι θέλεις να κάνεις σήμερα ;",
+        "roman": "Ti théleis na káneis símera ;"
+      },
+      {
+        "term": "Θέλω να φάω και να κοιμηθώ .",
+        "roman": "Thélo na fáo kai na koimithó ."
+      },
+      {
+        "term": "Σου αρέσει να διαβάζεις ;",
+        "roman": "Sou arései na diavázeis ;"
+      },
+      {
+        "term": "Ναι , μου αρέσει να διαβάζω και να γράφω .",
+        "roman": "Nai , mou arései na diavázo kai na gráfo ."
+      },
+      {
+        "term": "Πάμε μια βόλτα στην πόλη ;",
+        "roman": "Páme mia vólta stin póli ;"
+      },
+      {
+        "term": "Ναι , πάμε !",
+        "roman": "Nai , páme !"
+      }
+    ],
+    "body_health": [
+      {
+        "term": "Είσαι καλά ;",
+        "roman": "Eísai kalá ;"
+      },
+      {
+        "term": "Όχι , έχω πονοκέφαλο .",
+        "roman": "Óchi , écho ponokéfalo ."
+      },
+      {
+        "term": "Χρειάζεσαι γιατρό ;",
+        "roman": "Chreiázesai giatró ;"
+      },
+      {
+        "term": "Ναι , θέλω ένα φάρμακο .",
+        "roman": "Nai , thélo éna fármako ."
+      },
+      {
+        "term": "Πρόσεχε την υγεία σου !",
+        "roman": "Próseche tin ygeía sou !"
+      },
+      {
+        "term": "Ευχαριστώ , τώρα είμαι καλύτερα .",
+        "roman": "Efcharistó , tóra eímai kalýtera ."
+      }
+    ],
+    "work_school": [
+      {
+        "term": "Πας στο σχολείο σήμερα ;",
+        "roman": "Pas sto scholeío símera ;"
+      },
+      {
+        "term": "Ναι , έχω ένα διαγώνισμα .",
+        "roman": "Nai , écho éna diagónisma ."
+      },
+      {
+        "term": "Ο δάσκαλος είναι καλός ;",
+        "roman": "O dáskalos eínai kalós ;"
+      },
+      {
+        "term": "Ναι , μου αρέσει το σχολείο .",
+        "roman": "Nai , mou arései to scholeío ."
+      },
+      {
+        "term": "Διαβάζω ένα καινούριο βιβλίο .",
+        "roman": "Diavázo éna kainoúrio vivlío ."
+      },
+      {
+        "term": "Γράφω στο τετράδιό μου .",
+        "roman": "Gráfo sto tetrádió mou ."
+      }
+    ],
+    "time_weather": [
+      {
+        "term": "Πώς είναι ο καιρός σήμερα ;",
+        "roman": "Pós eínai o kairós símera ;"
+      },
+      {
+        "term": "Σήμερα κάνει κρύο και βρέχει .",
+        "roman": "Símera kánei krýo kai vréchei ."
+      },
+      {
+        "term": "Και αύριο ;",
+        "roman": "Kai ávrio ;"
+      },
+      {
+        "term": "Αύριο η μέρα θα είναι όμορφη .",
+        "roman": "Ávrio i méra tha eínai ómorfi ."
+      },
+      {
+        "term": "Μου αρέσει το πρωί .",
+        "roman": "Mou arései to proí ."
+      },
+      {
+        "term": "Ο ουρανός είναι μπλε τώρα .",
+        "roman": "O ouranós eínai ble tóra ."
+      }
+    ],
+    "travel": [
+      {
+        "term": "Πού θα ταξιδέψεις ;",
+        "roman": "Poú tha taxidépseis ;"
+      },
+      {
+        "term": "Πάω στην πόλη με το τρένο .",
+        "roman": "Páo stin póli me to tréno ."
+      },
+      {
+        "term": "Πού είναι το ξενοδοχείο ;",
+        "roman": "Poú eínai to xenodocheío ;"
+      },
+      {
+        "term": "Το ξενοδοχείο είναι κοντά στην παραλία .",
+        "roman": "To xenodocheío eínai kontá stin paralía ."
+      },
+      {
+        "term": "Έχεις το εισιτήριο ;",
+        "roman": "Écheis to eisitírio ;"
+      },
+      {
+        "term": "Ναι , και το διαβατήριό μου επίσης .",
+        "roman": "Nai , kai to diavatírió mou epísis ."
+      }
+    ],
+    "conversation": [
+      {
+        "term": "Πώς είσαι σήμερα ;",
+        "roman": "Pós eísai símera ;"
+      },
+      {
+        "term": "Είμαι πολύ χαρούμενη !",
+        "roman": "Eímai polý charoúmeni !"
+      },
+      {
+        "term": "Γιατί ;",
+        "roman": "Giatí ;"
+      },
+      {
+        "term": "Γιατί σήμερα είναι μια καλή μέρα .",
+        "roman": "Giatí símera eínai mia kalí méra ."
+      },
+      {
+        "term": "Μου αρέσεις πολύ .",
+        "roman": "Mou aréseis polý ."
+      },
+      {
+        "term": "Είσαι μια καλή φίλη .",
+        "roman": "Eísai mia kalí fíli ."
+      }
+    ]
+  }
+}

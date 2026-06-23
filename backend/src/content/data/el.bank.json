@@ -1,0 +1,1183 @@
+{
+  "code": "el",
+  "themes": {
+    "greetings": [
+      {
+        "pt": "olá",
+        "term": "γεια σου (geia sou)"
+      },
+      {
+        "pt": "tchau",
+        "term": "αντίο (antío)"
+      },
+      {
+        "pt": "obrigado(a)",
+        "term": "ευχαριστώ (efcharistó)"
+      },
+      {
+        "pt": "por favor",
+        "term": "παρακαλώ (parakaló)"
+      },
+      {
+        "pt": "sim",
+        "term": "ναι (nai)"
+      },
+      {
+        "pt": "não",
+        "term": "όχι (óchi)"
+      },
+      {
+        "pt": "bom dia",
+        "term": "καλημέρα (kaliméra)"
+      },
+      {
+        "pt": "boa noite",
+        "term": "καληνύχτα (kaliníchta)"
+      },
+      {
+        "pt": "desculpe",
+        "term": "συγγνώμη (syngnómi)"
+      },
+      {
+        "pt": "com licença",
+        "term": "με συγχωρείτε (me synchoreíte)"
+      },
+      {
+        "pt": "boa tarde",
+        "term": "καλησπέρα (kalispéra)"
+      },
+      {
+        "pt": "prazer em conhecer",
+        "term": "χάρηκα για τη γνωριμία (chárika gia ti gnorimía)"
+      },
+      {
+        "pt": "tudo bem?",
+        "term": "τι κάνεις; (ti káneis?)"
+      },
+      {
+        "pt": "até logo",
+        "term": "τα λέμε (ta léme)"
+      },
+      {
+        "pt": "de nada",
+        "term": "παρακαλώ (parakaló)"
+      },
+      {
+        "pt": "com certeza",
+        "term": "σίγουρα (sígoura)"
+      }
+    ],
+    "numbers_colors": [
+      {
+        "pt": "um",
+        "term": "ένα (éna)"
+      },
+      {
+        "pt": "dois",
+        "term": "δύο (dýo)"
+      },
+      {
+        "pt": "três",
+        "term": "τρία (tría)"
+      },
+      {
+        "pt": "quatro",
+        "term": "τέσσερα (téssera)"
+      },
+      {
+        "pt": "cinco",
+        "term": "πέντε (pénte)"
+      },
+      {
+        "pt": "vermelho",
+        "term": "κόκκινο (kókkino)"
+      },
+      {
+        "pt": "azul",
+        "term": "μπλε (ble)"
+      },
+      {
+        "pt": "verde",
+        "term": "πράσινο (prásino)"
+      },
+      {
+        "pt": "amarelo",
+        "term": "κίτρινο (kítrino)"
+      },
+      {
+        "pt": "preto",
+        "term": "μαύρο (mávro)"
+      },
+      {
+        "pt": "seis",
+        "term": "έξι (éxi)"
+      },
+      {
+        "pt": "sete",
+        "term": "επτά (eptá)"
+      },
+      {
+        "pt": "oito",
+        "term": "οκτώ (októ)"
+      },
+      {
+        "pt": "nove",
+        "term": "εννέα (ennéa)"
+      },
+      {
+        "pt": "dez",
+        "term": "δέκα (déka)"
+      },
+      {
+        "pt": "branco",
+        "term": "άσπρο (áspro)"
+      }
+    ],
+    "family": [
+      {
+        "pt": "mãe",
+        "term": "μητέρα (mitéra)"
+      },
+      {
+        "pt": "pai",
+        "term": "πατέρας (patéras)"
+      },
+      {
+        "pt": "irmão",
+        "term": "αδελφός (adelfós)"
+      },
+      {
+        "pt": "irmã",
+        "term": "αδελφή (adelfí)"
+      },
+      {
+        "pt": "avó",
+        "term": "γιαγιά (giagiá)"
+      },
+      {
+        "pt": "avô",
+        "term": "παππούς (pappoús)"
+      },
+      {
+        "pt": "filho",
+        "term": "γιος (gios)"
+      },
+      {
+        "pt": "filha",
+        "term": "κόρη (kóri)"
+      },
+      {
+        "pt": "amigo",
+        "term": "φίλος (fílos)"
+      },
+      {
+        "pt": "família",
+        "term": "οικογένεια (oikogéneia)"
+      },
+      {
+        "pt": "marido",
+        "term": "σύζυγος (sýzygos)"
+      },
+      {
+        "pt": "esposa",
+        "term": "γυναίκα (gynaíka)"
+      },
+      {
+        "pt": "tio",
+        "term": "θείος (theíos)"
+      },
+      {
+        "pt": "tia",
+        "term": "θεία (theía)"
+      },
+      {
+        "pt": "primo",
+        "term": "ξάδελφος (xádelfos)"
+      },
+      {
+        "pt": "bebê",
+        "term": "μωρό (moró)"
+      }
+    ],
+    "food": [
+      {
+        "pt": "água",
+        "term": "νερό (neró)"
+      },
+      {
+        "pt": "pão",
+        "term": "ψωμί (psomí)"
+      },
+      {
+        "pt": "maçã",
+        "term": "μήλο (mílo)"
+      },
+      {
+        "pt": "leite",
+        "term": "γάλα (gála)"
+      },
+      {
+        "pt": "café",
+        "term": "καφές (kafés)"
+      },
+      {
+        "pt": "arroz",
+        "term": "ρύζι (rýzi)"
+      },
+      {
+        "pt": "queijo",
+        "term": "τυρί (tyrí)"
+      },
+      {
+        "pt": "ovo",
+        "term": "αυγό (avgó)"
+      },
+      {
+        "pt": "fruta",
+        "term": "φρούτο (froúto)"
+      },
+      {
+        "pt": "carne",
+        "term": "κρέας (kréas)"
+      },
+      {
+        "pt": "sopa",
+        "term": "σούπα (soúpa)"
+      },
+      {
+        "pt": "salada",
+        "term": "σαλάτα (saláta)"
+      },
+      {
+        "pt": "açúcar",
+        "term": "ζάχαρη (záchari)"
+      },
+      {
+        "pt": "sal",
+        "term": "αλάτι (aláti)"
+      },
+      {
+        "pt": "suco",
+        "term": "χυμός (chymós)"
+      },
+      {
+        "pt": "bolo",
+        "term": "κέικ (kéik)"
+      }
+    ],
+    "animals_nature": [
+      {
+        "pt": "cachorro",
+        "term": "σκύλος (skýlos)"
+      },
+      {
+        "pt": "gato",
+        "term": "γάτα (gáta)"
+      },
+      {
+        "pt": "pássaro",
+        "term": "πουλί (poulí)"
+      },
+      {
+        "pt": "peixe",
+        "term": "ψάρι (psári)"
+      },
+      {
+        "pt": "cavalo",
+        "term": "άλογο (álogo)"
+      },
+      {
+        "pt": "árvore",
+        "term": "δέντρο (déntro)"
+      },
+      {
+        "pt": "sol",
+        "term": "ήλιος (ílios)"
+      },
+      {
+        "pt": "lua",
+        "term": "φεγγάρι (fengári)"
+      },
+      {
+        "pt": "flor",
+        "term": "λουλούδι (louloúdi)"
+      },
+      {
+        "pt": "rio",
+        "term": "ποτάμι (potámi)"
+      },
+      {
+        "pt": "vaca",
+        "term": "αγελάδα (ageláda)"
+      },
+      {
+        "pt": "galinha",
+        "term": "κότα (kóta)"
+      },
+      {
+        "pt": "coelho",
+        "term": "κουνέλι (kounéli)"
+      },
+      {
+        "pt": "montanha",
+        "term": "βουνό (vounó)"
+      },
+      {
+        "pt": "mar",
+        "term": "θάλασσα (thálassa)"
+      },
+      {
+        "pt": "estrela",
+        "term": "αστέρι (astéri)"
+      }
+    ],
+    "home_daily": [
+      {
+        "pt": "casa",
+        "term": "σπίτι (spíti)"
+      },
+      {
+        "pt": "porta",
+        "term": "πόρτα (pórta)"
+      },
+      {
+        "pt": "mesa",
+        "term": "τραπέζι (trapézi)"
+      },
+      {
+        "pt": "cama",
+        "term": "κρεβάτι (kreváti)"
+      },
+      {
+        "pt": "cadeira",
+        "term": "καρέκλα (karékla)"
+      },
+      {
+        "pt": "janela",
+        "term": "παράθυρο (paráthyro)"
+      },
+      {
+        "pt": "cozinha",
+        "term": "κουζίνα (kouzína)"
+      },
+      {
+        "pt": "banheiro",
+        "term": "μπάνιο (bánio)"
+      },
+      {
+        "pt": "chave",
+        "term": "κλειδί (kleidí)"
+      },
+      {
+        "pt": "relógio",
+        "term": "ρολόι (rolói)"
+      },
+      {
+        "pt": "sofá",
+        "term": "καναπές (kanapés)"
+      },
+      {
+        "pt": "espelho",
+        "term": "καθρέφτης (kathréftis)"
+      },
+      {
+        "pt": "prato",
+        "term": "πιάτο (piáto)"
+      },
+      {
+        "pt": "copo",
+        "term": "ποτήρι (potíri)"
+      },
+      {
+        "pt": "sabonete",
+        "term": "σαπούνι (sapoúni)"
+      },
+      {
+        "pt": "toalha",
+        "term": "πετσέτα (petséta)"
+      }
+    ],
+    "verbs_actions": [
+      {
+        "pt": "ser",
+        "term": "είμαι (eímai)"
+      },
+      {
+        "pt": "ter",
+        "term": "έχω (écho)"
+      },
+      {
+        "pt": "ir",
+        "term": "πηγαίνω (pigaíno)"
+      },
+      {
+        "pt": "comer",
+        "term": "τρώω (tróo)"
+      },
+      {
+        "pt": "beber",
+        "term": "πίνω (píno)"
+      },
+      {
+        "pt": "falar",
+        "term": "μιλάω (miláo)"
+      },
+      {
+        "pt": "ver",
+        "term": "βλέπω (vlépo)"
+      },
+      {
+        "pt": "ouvir",
+        "term": "ακούω (akoúo)"
+      },
+      {
+        "pt": "ler",
+        "term": "διαβάζω (diavázo)"
+      },
+      {
+        "pt": "escrever",
+        "term": "γράφω (gráfo)"
+      },
+      {
+        "pt": "querer",
+        "term": "θέλω (thélo)"
+      },
+      {
+        "pt": "fazer",
+        "term": "κάνω (káno)"
+      },
+      {
+        "pt": "dormir",
+        "term": "κοιμάμαι (koimámai)"
+      },
+      {
+        "pt": "andar",
+        "term": "περπατάω (perpatáo)"
+      },
+      {
+        "pt": "comprar",
+        "term": "αγοράζω (agorázo)"
+      },
+      {
+        "pt": "gostar",
+        "term": "μου αρέσει (mou arései)"
+      }
+    ],
+    "body_health": [
+      {
+        "pt": "cabeça",
+        "term": "κεφάλι (kefáli)"
+      },
+      {
+        "pt": "cabelo",
+        "term": "μαλλιά (malliá)"
+      },
+      {
+        "pt": "olho",
+        "term": "μάτι (máti)"
+      },
+      {
+        "pt": "nariz",
+        "term": "μύτη (mýti)"
+      },
+      {
+        "pt": "boca",
+        "term": "στόμα (stóma)"
+      },
+      {
+        "pt": "dente",
+        "term": "δόντι (dónti)"
+      },
+      {
+        "pt": "orelha",
+        "term": "αυτί (aftí)"
+      },
+      {
+        "pt": "mão",
+        "term": "χέρι (chéri)"
+      },
+      {
+        "pt": "braço",
+        "term": "μπράτσο (brátso)"
+      },
+      {
+        "pt": "perna",
+        "term": "πόδι (pódi)"
+      },
+      {
+        "pt": "pé",
+        "term": "πατούσα (patoúsa)"
+      },
+      {
+        "pt": "coração",
+        "term": "καρδιά (kardiá)"
+      },
+      {
+        "pt": "médico",
+        "term": "γιατρός (giatrós)"
+      },
+      {
+        "pt": "remédio",
+        "term": "φάρμακο (fármako)"
+      },
+      {
+        "pt": "dor",
+        "term": "πόνος (pónos)"
+      },
+      {
+        "pt": "saúde",
+        "term": "υγεία (ygeía)"
+      }
+    ],
+    "work_school": [
+      {
+        "pt": "escola",
+        "term": "σχολείο (scholeío)"
+      },
+      {
+        "pt": "professor",
+        "term": "καθηγητής (kathigitís)"
+      },
+      {
+        "pt": "aluno",
+        "term": "μαθητής (mathitís)"
+      },
+      {
+        "pt": "livro",
+        "term": "βιβλίο (vivlío)"
+      },
+      {
+        "pt": "caneta",
+        "term": "στυλό (styló)"
+      },
+      {
+        "pt": "papel",
+        "term": "χαρτί (chartí)"
+      },
+      {
+        "pt": "lápis",
+        "term": "μολύβι (molývi)"
+      },
+      {
+        "pt": "computador",
+        "term": "υπολογιστής (ypologistís)"
+      },
+      {
+        "pt": "trabalho",
+        "term": "δουλειά (douliá)"
+      },
+      {
+        "pt": "dinheiro",
+        "term": "χρήματα (chrímata)"
+      },
+      {
+        "pt": "emprego",
+        "term": "εργασία (ergasía)"
+      },
+      {
+        "pt": "aula",
+        "term": "μάθημα (máthima)"
+      },
+      {
+        "pt": "prova",
+        "term": "διαγώνισμα (diagónisma)"
+      },
+      {
+        "pt": "escritório",
+        "term": "γραφείο (grafeío)"
+      },
+      {
+        "pt": "reunião",
+        "term": "συνάντηση (synántisi)"
+      },
+      {
+        "pt": "ideia",
+        "term": "ιδέα (idéa)"
+      }
+    ],
+    "time_weather": [
+      {
+        "pt": "dia",
+        "term": "μέρα (méra)"
+      },
+      {
+        "pt": "noite",
+        "term": "νύχτα (nýchta)"
+      },
+      {
+        "pt": "manhã",
+        "term": "πρωί (proí)"
+      },
+      {
+        "pt": "tarde",
+        "term": "απόγευμα (apógevma)"
+      },
+      {
+        "pt": "semana",
+        "term": "εβδομάδα (evdomáda)"
+      },
+      {
+        "pt": "mês",
+        "term": "μήνας (mínas)"
+      },
+      {
+        "pt": "ano",
+        "term": "χρόνος (chrónos)"
+      },
+      {
+        "pt": "hora",
+        "term": "ώρα (óra)"
+      },
+      {
+        "pt": "minuto",
+        "term": "λεπτό (leptó)"
+      },
+      {
+        "pt": "chuva",
+        "term": "βροχή (vrochí)"
+      },
+      {
+        "pt": "neve",
+        "term": "χιόνι (chióni)"
+      },
+      {
+        "pt": "vento",
+        "term": "άνεμος (ánemos)"
+      },
+      {
+        "pt": "calor",
+        "term": "ζέστη (zésti)"
+      },
+      {
+        "pt": "frio",
+        "term": "κρύο (krýo)"
+      },
+      {
+        "pt": "nuvem",
+        "term": "σύννεφο (sýnnefo)"
+      },
+      {
+        "pt": "céu",
+        "term": "ουρανός (ouranós)"
+      }
+    ],
+    "travel": [
+      {
+        "pt": "cidade",
+        "term": "πόλη (póli)"
+      },
+      {
+        "pt": "rua",
+        "term": "δρόμος (drómos)"
+      },
+      {
+        "pt": "carro",
+        "term": "αυτοκίνητο (aftokínito)"
+      },
+      {
+        "pt": "ônibus",
+        "term": "λεωφορείο (leoforeío)"
+      },
+      {
+        "pt": "hotel",
+        "term": "ξενοδοχείο (xenodocheío)"
+      },
+      {
+        "pt": "mapa",
+        "term": "χάρτης (chártis)"
+      },
+      {
+        "pt": "praia",
+        "term": "παραλία (paralía)"
+      },
+      {
+        "pt": "aeroporto",
+        "term": "αεροδρόμιο (aerodrómio)"
+      },
+      {
+        "pt": "trem",
+        "term": "τρένο (tréno)"
+      },
+      {
+        "pt": "bilhete",
+        "term": "εισιτήριο (eisitírio)"
+      },
+      {
+        "pt": "avião",
+        "term": "αεροπλάνο (aeropláno)"
+      },
+      {
+        "pt": "barco",
+        "term": "βάρκα (várka)"
+      },
+      {
+        "pt": "estação",
+        "term": "σταθμός (stathmós)"
+      },
+      {
+        "pt": "passaporte",
+        "term": "διαβατήριο (diavatírio)"
+      },
+      {
+        "pt": "mala",
+        "term": "βαλίτσα (valítsa)"
+      },
+      {
+        "pt": "táxi",
+        "term": "ταξί (taxí)"
+      }
+    ],
+    "conversation": [
+      {
+        "pt": "amor",
+        "term": "αγάπη (agápi)"
+      },
+      {
+        "pt": "feliz",
+        "term": "χαρούμενος (charoúmenos)"
+      },
+      {
+        "pt": "triste",
+        "term": "λυπημένος (lypiménos)"
+      },
+      {
+        "pt": "hoje",
+        "term": "σήμερα (símera)"
+      },
+      {
+        "pt": "amanhã",
+        "term": "αύριο (ávrio)"
+      },
+      {
+        "pt": "bonito",
+        "term": "όμορφος (ómorfos)"
+      },
+      {
+        "pt": "grande",
+        "term": "μεγάλος (megálos)"
+      },
+      {
+        "pt": "pequeno",
+        "term": "μικρός (mikrós)"
+      },
+      {
+        "pt": "novo",
+        "term": "καινούργιος (kainoúrgios)"
+      },
+      {
+        "pt": "bem",
+        "term": "καλά (kalá)"
+      },
+      {
+        "pt": "ontem",
+        "term": "χθες (chthes)"
+      },
+      {
+        "pt": "agora",
+        "term": "τώρα (tóra)"
+      },
+      {
+        "pt": "aqui",
+        "term": "εδώ (edó)"
+      },
+      {
+        "pt": "muito",
+        "term": "πολύ (polý)"
+      },
+      {
+        "pt": "pouco",
+        "term": "λίγο (lígo)"
+      },
+      {
+        "pt": "também",
+        "term": "επίσης (epísis)"
+      }
+    ]
+  },
+  "sentences": {
+    "greetings": [
+      {
+        "pt": "Olá, tudo bem?",
+        "term": "Γεια σου , τι κάνεις ;",
+        "roman": "Yia sou, ti kaneis?"
+      },
+      {
+        "pt": "Bom dia!",
+        "term": "Καλημέρα !",
+        "roman": "Kalimera!"
+      },
+      {
+        "pt": "Muito obrigado.",
+        "term": "Ευχαριστώ πολύ .",
+        "roman": "Efcharisto poly."
+      },
+      {
+        "pt": "Boa noite, mãe.",
+        "term": "Καληνύχτα , μαμά .",
+        "roman": "Kalinychta, mama."
+      },
+      {
+        "pt": "Até logo, amigo!",
+        "term": "Τα λέμε , φίλε !",
+        "roman": "Ta leme, file!"
+      },
+      {
+        "pt": "Sim, por favor.",
+        "term": "Ναι , παρακαλώ .",
+        "roman": "Nai, parakalo."
+      }
+    ],
+    "numbers_colors": [
+      {
+        "pt": "Eu tenho dois gatos.",
+        "term": "Έχω δύο γάτες .",
+        "roman": "Echo dyo gates."
+      },
+      {
+        "pt": "A casa é azul.",
+        "term": "Το σπίτι είναι μπλε .",
+        "roman": "To spiti einai ble."
+      },
+      {
+        "pt": "Eu vejo três flores.",
+        "term": "Βλέπω τρία λουλούδια .",
+        "roman": "Vlepo tria louloudia."
+      },
+      {
+        "pt": "O carro é vermelho.",
+        "term": "Το αυτοκίνητο είναι κόκκινο .",
+        "roman": "To aftokinito einai kokkino."
+      },
+      {
+        "pt": "Tenho cinco amigos.",
+        "term": "Έχω πέντε φίλους .",
+        "roman": "Echo pente filous."
+      },
+      {
+        "pt": "A porta é branca.",
+        "term": "Η πόρτα είναι άσπρη .",
+        "roman": "I porta einai aspri."
+      }
+    ],
+    "family": [
+      {
+        "pt": "Esta é a minha mãe.",
+        "term": "Αυτή είναι η μητέρα μου .",
+        "roman": "Afti einai i mitera mou."
+      },
+      {
+        "pt": "Eu amo a minha família.",
+        "term": "Αγαπώ την οικογένειά μου .",
+        "roman": "Agapo tin oikogeneia mou."
+      },
+      {
+        "pt": "O meu pai é grande.",
+        "term": "Ο πατέρας μου είναι μεγάλος .",
+        "roman": "O pateras mou einai megalos."
+      },
+      {
+        "pt": "Tenho um irmão e uma irmã.",
+        "term": "Έχω έναν αδελφό και μία αδελφή .",
+        "roman": "Echo enan adelfo kai mia adelfi."
+      },
+      {
+        "pt": "A minha avó é bonita.",
+        "term": "Η γιαγιά μου είναι όμορφη .",
+        "roman": "I yiayia mou einai omorfi."
+      },
+      {
+        "pt": "O bebê dorme agora.",
+        "term": "Το μωρό κοιμάται τώρα .",
+        "roman": "To moro koimatai tora."
+      }
+    ],
+    "food": [
+      {
+        "pt": "Eu bebo água.",
+        "term": "Πίνω νερό .",
+        "roman": "Pino nero."
+      },
+      {
+        "pt": "Eu como pão.",
+        "term": "Τρώω ψωμί .",
+        "roman": "Troo psomi."
+      },
+      {
+        "pt": "Eu gosto de café.",
+        "term": "Μου αρέσει ο καφές .",
+        "roman": "Mou aresei o kafes."
+      },
+      {
+        "pt": "Quero uma maçã.",
+        "term": "Θέλω ένα μήλο .",
+        "roman": "Thelo ena milo."
+      },
+      {
+        "pt": "A sopa é boa.",
+        "term": "Η σούπα είναι καλή .",
+        "roman": "I soupa einai kali."
+      },
+      {
+        "pt": "Você quer suco?",
+        "term": "Θέλεις χυμό ;",
+        "roman": "Theleis chymo?"
+      }
+    ],
+    "animals_nature": [
+      {
+        "pt": "O cachorro é grande.",
+        "term": "Ο σκύλος είναι μεγάλος .",
+        "roman": "O skylos einai megalos."
+      },
+      {
+        "pt": "Eu vejo um pássaro.",
+        "term": "Βλέπω ένα πουλί .",
+        "roman": "Vlepo ena pouli."
+      },
+      {
+        "pt": "O gato dorme na cama.",
+        "term": "Η γάτα κοιμάται στο κρεβάτι .",
+        "roman": "I gata koimatai sto krevati."
+      },
+      {
+        "pt": "O sol é amarelo.",
+        "term": "Ο ήλιος είναι κίτρινος .",
+        "roman": "O ilios einai kitrinos."
+      },
+      {
+        "pt": "A árvore é grande.",
+        "term": "Το δέντρο είναι μεγάλο .",
+        "roman": "To dentro einai megalo."
+      },
+      {
+        "pt": "O peixe está no rio.",
+        "term": "Το ψάρι είναι στο ποτάμι .",
+        "roman": "To psari einai sto potami."
+      }
+    ],
+    "home_daily": [
+      {
+        "pt": "A chave está na mesa.",
+        "term": "Το κλειδί είναι στο τραπέζι .",
+        "roman": "To kleidi einai sto trapezi."
+      },
+      {
+        "pt": "A cama é grande.",
+        "term": "Το κρεβάτι είναι μεγάλο .",
+        "roman": "To krevati einai megalo."
+      },
+      {
+        "pt": "Eu como na cozinha.",
+        "term": "Τρώω στην κουζίνα .",
+        "roman": "Troo stin kouzina."
+      },
+      {
+        "pt": "O copo está na mesa.",
+        "term": "Το ποτήρι είναι στο τραπέζι .",
+        "roman": "To potiri einai sto trapezi."
+      },
+      {
+        "pt": "A janela é pequena.",
+        "term": "Το παράθυρο είναι μικρό .",
+        "roman": "To parathyro einai mikro."
+      },
+      {
+        "pt": "Eu gosto da minha casa.",
+        "term": "Μου αρέσει το σπίτι μου .",
+        "roman": "Mou aresei to spiti mou."
+      }
+    ],
+    "verbs_actions": [
+      {
+        "pt": "Eu quero comer.",
+        "term": "Θέλω να φάω .",
+        "roman": "Thelo na fao."
+      },
+      {
+        "pt": "Você gosta de ler?",
+        "term": "Σου αρέσει να διαβάζεις ;",
+        "roman": "Sou aresei na diavazeis?"
+      },
+      {
+        "pt": "Nós vamos andar.",
+        "term": "Θα περπατήσουμε .",
+        "roman": "Tha perpatisoume."
+      },
+      {
+        "pt": "Ele quer dormir.",
+        "term": "Θέλει να κοιμηθεί .",
+        "roman": "Thelei na koimithei."
+      },
+      {
+        "pt": "Eu gosto de falar.",
+        "term": "Μου αρέσει να μιλάω .",
+        "roman": "Mou aresei na milao."
+      },
+      {
+        "pt": "Eu vou comprar pão.",
+        "term": "Θα αγοράσω ψωμί .",
+        "roman": "Tha agoraso psomi."
+      }
+    ],
+    "body_health": [
+      {
+        "pt": "Eu tenho dor de cabeça.",
+        "term": "Έχω πονοκέφαλο .",
+        "roman": "Echo ponokefalo."
+      },
+      {
+        "pt": "O médico é bom.",
+        "term": "Ο γιατρός είναι καλός .",
+        "roman": "O giatros einai kalos."
+      },
+      {
+        "pt": "Eu tenho dois olhos.",
+        "term": "Έχω δύο μάτια .",
+        "roman": "Echo dyo matia."
+      },
+      {
+        "pt": "As minhas mãos estão frias.",
+        "term": "Τα χέρια μου είναι κρύα .",
+        "roman": "Ta cheria mou einai krya."
+      },
+      {
+        "pt": "O meu coração é grande.",
+        "term": "Η καρδιά μου είναι μεγάλη .",
+        "roman": "I kardia mou einai megali."
+      },
+      {
+        "pt": "Eu quero saúde.",
+        "term": "Θέλω υγεία .",
+        "roman": "Thelo ygeia."
+      }
+    ],
+    "work_school": [
+      {
+        "pt": "Eu vou à escola.",
+        "term": "Πηγαίνω στο σχολείο .",
+        "roman": "Pigaino sto scholeio."
+      },
+      {
+        "pt": "O professor é bom.",
+        "term": "Ο δάσκαλος είναι καλός .",
+        "roman": "O daskalos einai kalos."
+      },
+      {
+        "pt": "Eu leio um livro.",
+        "term": "Διαβάζω ένα βιβλίο .",
+        "roman": "Diavazo ena vivlio."
+      },
+      {
+        "pt": "Eu gosto da escola.",
+        "term": "Μου αρέσει το σχολείο .",
+        "roman": "Mou aresei to scholeio."
+      },
+      {
+        "pt": "Tenho uma caneta nova.",
+        "term": "Έχω ένα καινούργιο στυλό .",
+        "roman": "Echo ena kainourgio stylo."
+      },
+      {
+        "pt": "Eu escrevo no papel.",
+        "term": "Γράφω στο χαρτί .",
+        "roman": "Grafo sto charti."
+      }
+    ],
+    "time_weather": [
+      {
+        "pt": "Hoje está frio.",
+        "term": "Σήμερα κάνει κρύο .",
+        "roman": "Simera kanei kryo."
+      },
+      {
+        "pt": "Hoje tem chuva.",
+        "term": "Σήμερα βρέχει .",
+        "roman": "Simera vrechei."
+      },
+      {
+        "pt": "O dia está bonito.",
+        "term": "Η μέρα είναι όμορφη .",
+        "roman": "I mera einai omorfi."
+      },
+      {
+        "pt": "A manhã está fria.",
+        "term": "Το πρωί είναι κρύο .",
+        "roman": "To proi einai kryo."
+      },
+      {
+        "pt": "Gosto da noite.",
+        "term": "Μου αρέσει η νύχτα .",
+        "roman": "Mou aresei i nychta."
+      },
+      {
+        "pt": "O céu é azul.",
+        "term": "Ο ουρανός είναι μπλε .",
+        "roman": "O ouranos einai ble."
+      }
+    ],
+    "travel": [
+      {
+        "pt": "Onde fica o hotel?",
+        "term": "Πού είναι το ξενοδοχείο ;",
+        "roman": "Pou einai to xenodocheio?"
+      },
+      {
+        "pt": "Eu vou de carro.",
+        "term": "Πηγαίνω με αυτοκίνητο .",
+        "roman": "Pigaino me aftokinito."
+      },
+      {
+        "pt": "A praia é bonita.",
+        "term": "Η παραλία είναι όμορφη .",
+        "roman": "I paralia einai omorfi."
+      },
+      {
+        "pt": "Quero um bilhete, por favor.",
+        "term": "Θέλω ένα εισιτήριο , παρακαλώ .",
+        "roman": "Thelo ena eisitirio, parakalo."
+      },
+      {
+        "pt": "O trem é grande.",
+        "term": "Το τρένο είναι μεγάλο .",
+        "roman": "To treno einai megalo."
+      },
+      {
+        "pt": "A cidade é bonita.",
+        "term": "Η πόλη είναι όμορφη .",
+        "roman": "I poli einai omorfi."
+      }
+    ],
+    "conversation": [
+      {
+        "pt": "Eu estou feliz hoje.",
+        "term": "Είμαι χαρούμενος σήμερα .",
+        "roman": "Eimai charoumenos simera."
+      },
+      {
+        "pt": "Amanhã eu vou.",
+        "term": "Αύριο θα πάω .",
+        "roman": "Avrio tha pao."
+      },
+      {
+        "pt": "Eu gosto muito de você.",
+        "term": "Μου αρέσεις πολύ .",
+        "roman": "Mou areseis poly."
+      },
+      {
+        "pt": "Hoje é um bom dia.",
+        "term": "Σήμερα είναι μια καλή μέρα .",
+        "roman": "Simera einai mia kali mera."
+      },
+      {
+        "pt": "Eu estou aqui agora.",
+        "term": "Είμαι εδώ τώρα .",
+        "roman": "Eimai edo tora."
+      },
+      {
+        "pt": "Você é muito bonito.",
+        "term": "Είσαι πολύ όμορφος .",
+        "roman": "Eisai poly omorfos."
+      }
+    ]
+  }
+}

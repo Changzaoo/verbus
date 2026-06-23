@@ -1,0 +1,245 @@
+{
+  "code": "pl",
+  "lines": {
+    "greetings": [
+      {
+        "term": "Cześć ! Dzień dobry !"
+      },
+      {
+        "term": "Dzień dobry ! Wszystko w porządku ?"
+      },
+      {
+        "term": "Wszystko dobrze , dziękuję ! A u ciebie ?"
+      },
+      {
+        "term": "Mam się dobrze ! Miło cię widzieć ."
+      },
+      {
+        "term": "Do zobaczenia , przyjaciółko !"
+      },
+      {
+        "term": "Pa ! Do zobaczenia !"
+      }
+    ],
+    "numbers_colors": [
+      {
+        "term": "Ile masz kotów ?"
+      },
+      {
+        "term": "Mam dwa koty ."
+      },
+      {
+        "term": "Jakiego koloru jest twój dom ?"
+      },
+      {
+        "term": "Mój dom jest niebieski ."
+      },
+      {
+        "term": "Widzę trzy czerwone kwiaty ."
+      },
+      {
+        "term": "Jak pięknie !"
+      }
+    ],
+    "family": [
+      {
+        "term": "Czy to twoja rodzina ?"
+      },
+      {
+        "term": "Tak , to moja mama ."
+      },
+      {
+        "term": "A kim on jest ?"
+      },
+      {
+        "term": "On jest moim tatą . Mam też brata ."
+      },
+      {
+        "term": "Twoja rodzina jest duża !"
+      },
+      {
+        "term": "Kocham moją rodzinę ."
+      }
+    ],
+    "food": [
+      {
+        "term": "Chcesz coś zjeść ?"
+      },
+      {
+        "term": "Tak , jem chleb i ser ."
+      },
+      {
+        "term": "Chcesz napić się wody ?"
+      },
+      {
+        "term": "Nie , lubię kawę ."
+      },
+      {
+        "term": "Zupa jest gotowa !"
+      },
+      {
+        "term": "Dziękuję , zupa jest pyszna ."
+      }
+    ],
+    "animals_nature": [
+      {
+        "term": "Patrz , widzę ptaka !"
+      },
+      {
+        "term": "Ptak siedzi na drzewie ."
+      },
+      {
+        "term": "Czy twój pies jest duży ?"
+      },
+      {
+        "term": "Tak , a kot śpi na łóżku ."
+      },
+      {
+        "term": "Słońce jest dziś piękne ."
+      },
+      {
+        "term": "Lubię rzekę i kwiaty ."
+      }
+    ],
+    "home_daily": [
+      {
+        "term": "Gdzie jest klucz ?"
+      },
+      {
+        "term": "Klucz leży na stole ."
+      },
+      {
+        "term": "Czy twój dom jest duży ?"
+      },
+      {
+        "term": "Dom jest mały , ale go lubię ."
+      },
+      {
+        "term": "Gdzie jesz ?"
+      },
+      {
+        "term": "Jem w kuchni ."
+      }
+    ],
+    "verbs_actions": [
+      {
+        "term": "Co chcesz dziś robić ?"
+      },
+      {
+        "term": "Chcę jeść i spać ."
+      },
+      {
+        "term": "Lubisz czytać ?"
+      },
+      {
+        "term": "Tak , lubię czytać i pisać ."
+      },
+      {
+        "term": "Pójdziemy na spacer po mieście ?"
+      },
+      {
+        "term": "Tak , chodźmy !"
+      }
+    ],
+    "body_health": [
+      {
+        "term": "Dobrze się czujesz ?"
+      },
+      {
+        "term": "Nie , boli mnie głowa ."
+      },
+      {
+        "term": "Potrzebujesz lekarza ?"
+      },
+      {
+        "term": "Tak , chcę jakieś lekarstwo ."
+      },
+      {
+        "term": "Dbaj o swoje zdrowie !"
+      },
+      {
+        "term": "Dziękuję , już czuję się lepiej ."
+      }
+    ],
+    "work_school": [
+      {
+        "term": "Idziesz dziś do szkoły ?"
+      },
+      {
+        "term": "Tak , mam sprawdzian ."
+      },
+      {
+        "term": "Czy nauczyciel jest dobry ?"
+      },
+      {
+        "term": "Tak , lubię szkołę ."
+      },
+      {
+        "term": "Czytam nową książkę ."
+      },
+      {
+        "term": "Piszę w swoim zeszycie ."
+      }
+    ],
+    "time_weather": [
+      {
+        "term": "Jaka jest dziś pogoda ?"
+      },
+      {
+        "term": "Dziś jest zimno i pada deszcz ."
+      },
+      {
+        "term": "A jutro ?"
+      },
+      {
+        "term": "Jutro będzie ładny dzień ."
+      },
+      {
+        "term": "Lubię poranek ."
+      },
+      {
+        "term": "Niebo jest teraz niebieskie ."
+      }
+    ],
+    "travel": [
+      {
+        "term": "Dokąd jedziesz ?"
+      },
+      {
+        "term": "Jadę do miasta pociągiem ."
+      },
+      {
+        "term": "Gdzie jest hotel ?"
+      },
+      {
+        "term": "Hotel jest blisko plaży ."
+      },
+      {
+        "term": "Masz bilet ?"
+      },
+      {
+        "term": "Tak , i mój paszport też ."
+      }
+    ],
+    "conversation": [
+      {
+        "term": "Jak się dziś masz ?"
+      },
+      {
+        "term": "Jestem bardzo szczęśliwa !"
+      },
+      {
+        "term": "Dlaczego ?"
+      },
+      {
+        "term": "Bo dzisiaj jest dobry dzień ."
+      },
+      {
+        "term": "Bardzo cię lubię ."
+      },
+      {
+        "term": "Jesteś dobrą przyjaciółką ."
+      }
+    ]
+  }
+}

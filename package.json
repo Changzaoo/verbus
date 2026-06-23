@@ -1,0 +1,19 @@
+{
+  "name": "devlingo",
+  "version": "1.0.0",
+  "private": true,
+  "description": "DevLingo — Duolingo para programadores aprenderem idiomas humanos da carreira dev",
+  "scripts": {
+    "dev": "concurrently -n backend,frontend -c blue,green \"npm run dev:backend\" \"npm run dev:frontend\"",
+    "dev:frontend": "npm --prefix frontend run dev",
+    "dev:backend": "npm --prefix backend run dev",
+    "build": "npm run build:backend && npm run build:frontend",
+    "build:frontend": "npm --prefix frontend run build",
+    "build:backend": "npm --prefix backend run build",
+    "seed": "npm --prefix backend run seed",
+    "setup": "npm install && npm --prefix frontend install && npm --prefix backend install && npm run seed"
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  }
+}

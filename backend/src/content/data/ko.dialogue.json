@@ -1,0 +1,317 @@
+{
+  "code": "ko",
+  "lines": {
+    "greetings": [
+      {
+        "term": "안녕하세요 ! 좋은 아침이에요 !",
+        "roman": "annyeonghaseyo ! joeun achimieyo !"
+      },
+      {
+        "term": "좋은 아침이에요 ! 잘 지내요 ?",
+        "roman": "joeun achimieyo ! jal jinaeyo ?"
+      },
+      {
+        "term": "잘 지내요 , 고마워요 ! 당신은요 ?",
+        "roman": "jal jinaeyo , gomawoyo ! dangsineunyo ?"
+      },
+      {
+        "term": "저는 잘 지내요 ! 만나서 반가워요 .",
+        "roman": "jeoneun jal jinaeyo ! mannaseo bangawoyo ."
+      },
+      {
+        "term": "또 봐요 , 친구 !",
+        "roman": "tto bwayo , chingu !"
+      },
+      {
+        "term": "안녕 ! 또 봐요 !",
+        "roman": "annyeong ! tto bwayo !"
+      }
+    ],
+    "numbers_colors": [
+      {
+        "term": "고양이를 몇 마리 키워요 ?",
+        "roman": "goyangireul myeot mari kiwoyo ?"
+      },
+      {
+        "term": "저는 고양이 두 마리를 키워요 .",
+        "roman": "jeoneun goyangi du marireul kiwoyo ."
+      },
+      {
+        "term": "당신의 집은 무슨 색이에요 ?",
+        "roman": "dangsinui jibeun museun saegieyo ?"
+      },
+      {
+        "term": "제 집은 파란색이에요 .",
+        "roman": "je jibeun paransaegieyo ."
+      },
+      {
+        "term": "저는 빨간 꽃 세 송이가 보여요 .",
+        "roman": "jeoneun ppalgan kkot se songiga boyeoyo ."
+      },
+      {
+        "term": "정말 예쁘네요 !",
+        "roman": "jeongmal yeppeuneyo !"
+      }
+    ],
+    "family": [
+      {
+        "term": "이분들이 당신의 가족이에요 ?",
+        "roman": "ibundeuri dangsinui gajogieyo ?"
+      },
+      {
+        "term": "네 , 이분은 제 어머니예요 .",
+        "roman": "ne , ibuneun je eomeoniyeyo ."
+      },
+      {
+        "term": "그러면 이분은 누구예요 ?",
+        "roman": "geureomyeon ibuneun nuguyeyo ?"
+      },
+      {
+        "term": "이분은 제 아버지예요 . 저는 남동생도 있어요 .",
+        "roman": "ibuneun je abeojiyeyo . jeoneun namdongsaengdo isseoyo ."
+      },
+      {
+        "term": "당신의 가족은 대가족이네요 !",
+        "roman": "dangsinui gajogeun daegajogineyo !"
+      },
+      {
+        "term": "저는 제 가족을 사랑해요 .",
+        "roman": "jeoneun je gajogeul saranghaeyo ."
+      }
+    ],
+    "food": [
+      {
+        "term": "뭐 좀 먹을래요 ?",
+        "roman": "mwo jom meogeullaeyo ?"
+      },
+      {
+        "term": "네 , 저는 빵하고 치즈를 먹어요 .",
+        "roman": "ne , jeoneun ppanghago chijeureul meogeoyo ."
+      },
+      {
+        "term": "물 좀 마실래요 ?",
+        "roman": "mul jom masillaeyo ?"
+      },
+      {
+        "term": "아니요 , 저는 커피를 좋아해요 .",
+        "roman": "aniyo , jeoneun keopireul joahaeyo ."
+      },
+      {
+        "term": "수프가 다 됐어요 !",
+        "roman": "supeuga da dwaesseoyo !"
+      },
+      {
+        "term": "고마워요 , 수프가 맛있어요 .",
+        "roman": "gomawoyo , supeuga masisseoyo ."
+      }
+    ],
+    "animals_nature": [
+      {
+        "term": "봐요 , 새 한 마리가 보여요 !",
+        "roman": "bwayo , sae han mariga boyeoyo !"
+      },
+      {
+        "term": "그 새는 나무에 있어요 .",
+        "roman": "geu saeneun namue isseoyo ."
+      },
+      {
+        "term": "당신의 개는 커요 ?",
+        "roman": "dangsinui gaeneun keoyo ?"
+      },
+      {
+        "term": "네 , 그리고 고양이는 침대에서 자요 .",
+        "roman": "ne , geurigo goyangineun chimdaeeseo jayo ."
+      },
+      {
+        "term": "오늘은 해가 아름다워요 .",
+        "roman": "oneureun haega areumdawoyo ."
+      },
+      {
+        "term": "저는 강과 꽃을 좋아해요 .",
+        "roman": "jeoneun ganggwa kkocheul joahaeyo ."
+      }
+    ],
+    "home_daily": [
+      {
+        "term": "열쇠가 어디에 있어요 ?",
+        "roman": "yeolsoega eodie isseoyo ?"
+      },
+      {
+        "term": "열쇠는 책상 위에 있어요 .",
+        "roman": "yeolsoeneun chaeksang wie isseoyo ."
+      },
+      {
+        "term": "당신의 집은 커요 ?",
+        "roman": "dangsinui jibeun keoyo ?"
+      },
+      {
+        "term": "집은 작지만 저는 마음에 들어요 .",
+        "roman": "jibeun jakjiman jeoneun maeume deureoyo ."
+      },
+      {
+        "term": "어디에서 밥을 먹어요 ?",
+        "roman": "eodieseo babeul meogeoyo ?"
+      },
+      {
+        "term": "저는 부엌에서 먹어요 .",
+        "roman": "jeoneun bueokeseo meogeoyo ."
+      }
+    ],
+    "verbs_actions": [
+      {
+        "term": "오늘 뭐 하고 싶어요 ?",
+        "roman": "oneul mwo hago sipeoyo ?"
+      },
+      {
+        "term": "저는 먹고 자고 싶어요 .",
+        "roman": "jeoneun meokgo jago sipeoyo ."
+      },
+      {
+        "term": "당신은 책 읽는 걸 좋아해요 ?",
+        "roman": "dangsineun chaek ingneun geol joahaeyo ?"
+      },
+      {
+        "term": "네 , 저는 읽고 쓰는 걸 좋아해요 .",
+        "roman": "ne , jeoneun ikgo sseuneun geol joahaeyo ."
+      },
+      {
+        "term": "우리 도시를 걸을까요 ?",
+        "roman": "uri dosireul georeulkkayo ?"
+      },
+      {
+        "term": "네 , 가요 !",
+        "roman": "ne , gayo !"
+      }
+    ],
+    "body_health": [
+      {
+        "term": "괜찮아요 ?",
+        "roman": "gwaenchanayo ?"
+      },
+      {
+        "term": "아니요 , 저는 머리가 아파요 .",
+        "roman": "aniyo , jeoneun meoriga apayo ."
+      },
+      {
+        "term": "의사가 필요해요 ?",
+        "roman": "uisaga piryohaeyo ?"
+      },
+      {
+        "term": "네 , 저는 약을 원해요 .",
+        "roman": "ne , jeoneun yageul wonhaeyo ."
+      },
+      {
+        "term": "건강 잘 챙기세요 !",
+        "roman": "geongang jal chaenggiseyo !"
+      },
+      {
+        "term": "고마워요 , 이제 좀 나아졌어요 .",
+        "roman": "gomawoyo , ije jom naajyeosseoyo ."
+      }
+    ],
+    "work_school": [
+      {
+        "term": "오늘 학교에 가요 ?",
+        "roman": "oneul hakgyoe gayo ?"
+      },
+      {
+        "term": "네 , 저는 시험이 있어요 .",
+        "roman": "ne , jeoneun siheomi isseoyo ."
+      },
+      {
+        "term": "선생님이 좋아요 ?",
+        "roman": "seonsaengnimi joayo ?"
+      },
+      {
+        "term": "네 , 저는 학교가 좋아요 .",
+        "roman": "ne , jeoneun hakgyoga joayo ."
+      },
+      {
+        "term": "저는 새 책을 읽어요 .",
+        "roman": "jeoneun sae chaegeul ilgeoyo ."
+      },
+      {
+        "term": "저는 제 공책에 써요 .",
+        "roman": "jeoneun je gongchaege sseoyo ."
+      }
+    ],
+    "time_weather": [
+      {
+        "term": "오늘 날씨가 어때요 ?",
+        "roman": "oneul nalssiga eottaeyo ?"
+      },
+      {
+        "term": "오늘은 춥고 비가 와요 .",
+        "roman": "oneureun chupgo biga wayo ."
+      },
+      {
+        "term": "그러면 내일은요 ?",
+        "roman": "geureomyeon naeireunyo ?"
+      },
+      {
+        "term": "내일은 날씨가 좋을 거예요 .",
+        "roman": "naeireun nalssiga joeul geoyeyo ."
+      },
+      {
+        "term": "저는 아침을 좋아해요 .",
+        "roman": "jeoneun achimeul joahaeyo ."
+      },
+      {
+        "term": "지금 하늘이 파래요 .",
+        "roman": "jigeum haneuri paraeyo ."
+      }
+    ],
+    "travel": [
+      {
+        "term": "어디로 여행을 가요 ?",
+        "roman": "eodiro yeohaengeul gayo ?"
+      },
+      {
+        "term": "저는 기차로 도시에 가요 .",
+        "roman": "jeoneun gicharo dosie gayo ."
+      },
+      {
+        "term": "호텔이 어디에 있어요 ?",
+        "roman": "hoteri eodie isseoyo ?"
+      },
+      {
+        "term": "호텔은 바닷가 근처에 있어요 .",
+        "roman": "hotereun badatga geuncheoe isseoyo ."
+      },
+      {
+        "term": "표 있어요 ?",
+        "roman": "pyo isseoyo ?"
+      },
+      {
+        "term": "네 , 그리고 제 여권도 있어요 .",
+        "roman": "ne , geurigo je yeogwondo isseoyo ."
+      }
+    ],
+    "conversation": [
+      {
+        "term": "오늘 기분이 어때요 ?",
+        "roman": "oneul gibuni eottaeyo ?"
+      },
+      {
+        "term": "저는 정말 행복해요 !",
+        "roman": "jeoneun jeongmal haengbokhaeyo !"
+      },
+      {
+        "term": "왜요 ?",
+        "roman": "waeyo ?"
+      },
+      {
+        "term": "오늘은 좋은 날이니까요 .",
+        "roman": "oneureun joeun narinikkayo ."
+      },
+      {
+        "term": "저는 당신을 정말 좋아해요 .",
+        "roman": "jeoneun dangsineul jeongmal joahaeyo ."
+      },
+      {
+        "term": "당신은 좋은 친구예요 .",
+        "roman": "dangsineun joeun chinguyeyo ."
+      }
+    ]
+  }
+}

@@ -1,0 +1,1183 @@
+{
+  "code": "ko",
+  "themes": {
+    "greetings": [
+      {
+        "pt": "olá",
+        "term": "안녕하세요 (annyeonghaseyo)"
+      },
+      {
+        "pt": "tchau",
+        "term": "안녕히 가세요 (annyeonghi gaseyo)"
+      },
+      {
+        "pt": "obrigado(a)",
+        "term": "감사합니다 (gamsahamnida)"
+      },
+      {
+        "pt": "por favor",
+        "term": "제발 (jebal)"
+      },
+      {
+        "pt": "sim",
+        "term": "네 (ne)"
+      },
+      {
+        "pt": "não",
+        "term": "아니요 (aniyo)"
+      },
+      {
+        "pt": "bom dia",
+        "term": "좋은 아침이에요 (joeun achimieyo)"
+      },
+      {
+        "pt": "boa noite",
+        "term": "안녕히 주무세요 (annyeonghi jumuseyo)"
+      },
+      {
+        "pt": "desculpe",
+        "term": "죄송합니다 (joesonghamnida)"
+      },
+      {
+        "pt": "com licença",
+        "term": "실례합니다 (sillyehamnida)"
+      },
+      {
+        "pt": "boa tarde",
+        "term": "안녕하세요 (annyeonghaseyo)"
+      },
+      {
+        "pt": "prazer em conhecer",
+        "term": "만나서 반갑습니다 (mannaseo bangapseumnida)"
+      },
+      {
+        "pt": "tudo bem?",
+        "term": "잘 지내요? (jal jinaeyo?)"
+      },
+      {
+        "pt": "até logo",
+        "term": "또 봐요 (tto bwayo)"
+      },
+      {
+        "pt": "de nada",
+        "term": "천만에요 (cheonmaneyo)"
+      },
+      {
+        "pt": "com certeza",
+        "term": "물론이죠 (mullonijyo)"
+      }
+    ],
+    "numbers_colors": [
+      {
+        "pt": "um",
+        "term": "하나 (hana)"
+      },
+      {
+        "pt": "dois",
+        "term": "둘 (dul)"
+      },
+      {
+        "pt": "três",
+        "term": "셋 (set)"
+      },
+      {
+        "pt": "quatro",
+        "term": "넷 (net)"
+      },
+      {
+        "pt": "cinco",
+        "term": "다섯 (daseot)"
+      },
+      {
+        "pt": "vermelho",
+        "term": "빨간색 (ppalgansaek)"
+      },
+      {
+        "pt": "azul",
+        "term": "파란색 (paransaek)"
+      },
+      {
+        "pt": "verde",
+        "term": "초록색 (choroksaek)"
+      },
+      {
+        "pt": "amarelo",
+        "term": "노란색 (noransaek)"
+      },
+      {
+        "pt": "preto",
+        "term": "검은색 (geomeunsaek)"
+      },
+      {
+        "pt": "seis",
+        "term": "여섯 (yeoseot)"
+      },
+      {
+        "pt": "sete",
+        "term": "일곱 (ilgop)"
+      },
+      {
+        "pt": "oito",
+        "term": "여덟 (yeodeol)"
+      },
+      {
+        "pt": "nove",
+        "term": "아홉 (ahop)"
+      },
+      {
+        "pt": "dez",
+        "term": "열 (yeol)"
+      },
+      {
+        "pt": "branco",
+        "term": "흰색 (huinsaek)"
+      }
+    ],
+    "family": [
+      {
+        "pt": "mãe",
+        "term": "엄마 (eomma)"
+      },
+      {
+        "pt": "pai",
+        "term": "아빠 (appa)"
+      },
+      {
+        "pt": "irmão",
+        "term": "형제 (hyeongje)"
+      },
+      {
+        "pt": "irmã",
+        "term": "자매 (jamae)"
+      },
+      {
+        "pt": "avó",
+        "term": "할머니 (halmeoni)"
+      },
+      {
+        "pt": "avô",
+        "term": "할아버지 (harabeoji)"
+      },
+      {
+        "pt": "filho",
+        "term": "아들 (adeul)"
+      },
+      {
+        "pt": "filha",
+        "term": "딸 (ttal)"
+      },
+      {
+        "pt": "amigo",
+        "term": "친구 (chingu)"
+      },
+      {
+        "pt": "família",
+        "term": "가족 (gajok)"
+      },
+      {
+        "pt": "marido",
+        "term": "남편 (nampyeon)"
+      },
+      {
+        "pt": "esposa",
+        "term": "아내 (anae)"
+      },
+      {
+        "pt": "tio",
+        "term": "삼촌 (samchon)"
+      },
+      {
+        "pt": "tia",
+        "term": "이모 (imo)"
+      },
+      {
+        "pt": "primo",
+        "term": "사촌 (sachon)"
+      },
+      {
+        "pt": "bebê",
+        "term": "아기 (agi)"
+      }
+    ],
+    "food": [
+      {
+        "pt": "água",
+        "term": "물 (mul)"
+      },
+      {
+        "pt": "pão",
+        "term": "빵 (ppang)"
+      },
+      {
+        "pt": "maçã",
+        "term": "사과 (sagwa)"
+      },
+      {
+        "pt": "leite",
+        "term": "우유 (uyu)"
+      },
+      {
+        "pt": "café",
+        "term": "커피 (keopi)"
+      },
+      {
+        "pt": "arroz",
+        "term": "밥 (bap)"
+      },
+      {
+        "pt": "queijo",
+        "term": "치즈 (chijeu)"
+      },
+      {
+        "pt": "ovo",
+        "term": "계란 (gyeran)"
+      },
+      {
+        "pt": "fruta",
+        "term": "과일 (gwail)"
+      },
+      {
+        "pt": "carne",
+        "term": "고기 (gogi)"
+      },
+      {
+        "pt": "sopa",
+        "term": "수프 (supeu)"
+      },
+      {
+        "pt": "salada",
+        "term": "샐러드 (saelleodeu)"
+      },
+      {
+        "pt": "açúcar",
+        "term": "설탕 (seoltang)"
+      },
+      {
+        "pt": "sal",
+        "term": "소금 (sogeum)"
+      },
+      {
+        "pt": "suco",
+        "term": "주스 (juseu)"
+      },
+      {
+        "pt": "bolo",
+        "term": "케이크 (keikeu)"
+      }
+    ],
+    "animals_nature": [
+      {
+        "pt": "cachorro",
+        "term": "개 (gae)"
+      },
+      {
+        "pt": "gato",
+        "term": "고양이 (goyangi)"
+      },
+      {
+        "pt": "pássaro",
+        "term": "새 (sae)"
+      },
+      {
+        "pt": "peixe",
+        "term": "물고기 (mulgogi)"
+      },
+      {
+        "pt": "cavalo",
+        "term": "말 (mal)"
+      },
+      {
+        "pt": "árvore",
+        "term": "나무 (namu)"
+      },
+      {
+        "pt": "sol",
+        "term": "해 (hae)"
+      },
+      {
+        "pt": "lua",
+        "term": "달 (dal)"
+      },
+      {
+        "pt": "flor",
+        "term": "꽃 (kkot)"
+      },
+      {
+        "pt": "rio",
+        "term": "강 (gang)"
+      },
+      {
+        "pt": "vaca",
+        "term": "소 (so)"
+      },
+      {
+        "pt": "galinha",
+        "term": "닭 (dak)"
+      },
+      {
+        "pt": "coelho",
+        "term": "토끼 (tokki)"
+      },
+      {
+        "pt": "montanha",
+        "term": "산 (san)"
+      },
+      {
+        "pt": "mar",
+        "term": "바다 (bada)"
+      },
+      {
+        "pt": "estrela",
+        "term": "별 (byeol)"
+      }
+    ],
+    "home_daily": [
+      {
+        "pt": "casa",
+        "term": "집 (jip)"
+      },
+      {
+        "pt": "porta",
+        "term": "문 (mun)"
+      },
+      {
+        "pt": "mesa",
+        "term": "탁자 (takja)"
+      },
+      {
+        "pt": "cama",
+        "term": "침대 (chimdae)"
+      },
+      {
+        "pt": "cadeira",
+        "term": "의자 (uija)"
+      },
+      {
+        "pt": "janela",
+        "term": "창문 (changmun)"
+      },
+      {
+        "pt": "cozinha",
+        "term": "부엌 (bueok)"
+      },
+      {
+        "pt": "banheiro",
+        "term": "화장실 (hwajangsil)"
+      },
+      {
+        "pt": "chave",
+        "term": "열쇠 (yeolsoe)"
+      },
+      {
+        "pt": "relógio",
+        "term": "시계 (sigye)"
+      },
+      {
+        "pt": "sofá",
+        "term": "소파 (sopa)"
+      },
+      {
+        "pt": "espelho",
+        "term": "거울 (geoul)"
+      },
+      {
+        "pt": "prato",
+        "term": "접시 (jeopsi)"
+      },
+      {
+        "pt": "copo",
+        "term": "컵 (keop)"
+      },
+      {
+        "pt": "sabonete",
+        "term": "비누 (binu)"
+      },
+      {
+        "pt": "toalha",
+        "term": "수건 (sugeon)"
+      }
+    ],
+    "verbs_actions": [
+      {
+        "pt": "ser",
+        "term": "이다 (ida)"
+      },
+      {
+        "pt": "ter",
+        "term": "가지다 (gajida)"
+      },
+      {
+        "pt": "ir",
+        "term": "가다 (gada)"
+      },
+      {
+        "pt": "comer",
+        "term": "먹다 (meokda)"
+      },
+      {
+        "pt": "beber",
+        "term": "마시다 (masida)"
+      },
+      {
+        "pt": "falar",
+        "term": "말하다 (malhada)"
+      },
+      {
+        "pt": "ver",
+        "term": "보다 (boda)"
+      },
+      {
+        "pt": "ouvir",
+        "term": "듣다 (deutda)"
+      },
+      {
+        "pt": "ler",
+        "term": "읽다 (ikda)"
+      },
+      {
+        "pt": "escrever",
+        "term": "쓰다 (sseuda)"
+      },
+      {
+        "pt": "querer",
+        "term": "원하다 (wonhada)"
+      },
+      {
+        "pt": "fazer",
+        "term": "하다 (hada)"
+      },
+      {
+        "pt": "dormir",
+        "term": "자다 (jada)"
+      },
+      {
+        "pt": "andar",
+        "term": "걷다 (geotda)"
+      },
+      {
+        "pt": "comprar",
+        "term": "사다 (sada)"
+      },
+      {
+        "pt": "gostar",
+        "term": "좋아하다 (joahada)"
+      }
+    ],
+    "body_health": [
+      {
+        "pt": "cabeça",
+        "term": "머리 (meori)"
+      },
+      {
+        "pt": "cabelo",
+        "term": "머리카락 (meorikarak)"
+      },
+      {
+        "pt": "olho",
+        "term": "눈 (nun)"
+      },
+      {
+        "pt": "nariz",
+        "term": "코 (ko)"
+      },
+      {
+        "pt": "boca",
+        "term": "입 (ip)"
+      },
+      {
+        "pt": "dente",
+        "term": "이 (i)"
+      },
+      {
+        "pt": "orelha",
+        "term": "귀 (gwi)"
+      },
+      {
+        "pt": "mão",
+        "term": "손 (son)"
+      },
+      {
+        "pt": "braço",
+        "term": "팔 (pal)"
+      },
+      {
+        "pt": "perna",
+        "term": "다리 (dari)"
+      },
+      {
+        "pt": "pé",
+        "term": "발 (bal)"
+      },
+      {
+        "pt": "coração",
+        "term": "심장 (simjang)"
+      },
+      {
+        "pt": "médico",
+        "term": "의사 (uisa)"
+      },
+      {
+        "pt": "remédio",
+        "term": "약 (yak)"
+      },
+      {
+        "pt": "dor",
+        "term": "통증 (tongjeung)"
+      },
+      {
+        "pt": "saúde",
+        "term": "건강 (geongang)"
+      }
+    ],
+    "work_school": [
+      {
+        "pt": "escola",
+        "term": "학교 (hakgyo)"
+      },
+      {
+        "pt": "professor",
+        "term": "선생님 (seonsaengnim)"
+      },
+      {
+        "pt": "aluno",
+        "term": "학생 (haksaeng)"
+      },
+      {
+        "pt": "livro",
+        "term": "책 (chaek)"
+      },
+      {
+        "pt": "caneta",
+        "term": "펜 (pen)"
+      },
+      {
+        "pt": "papel",
+        "term": "종이 (jongi)"
+      },
+      {
+        "pt": "lápis",
+        "term": "연필 (yeonpil)"
+      },
+      {
+        "pt": "computador",
+        "term": "컴퓨터 (keompyuteo)"
+      },
+      {
+        "pt": "trabalho",
+        "term": "일 (il)"
+      },
+      {
+        "pt": "dinheiro",
+        "term": "돈 (don)"
+      },
+      {
+        "pt": "emprego",
+        "term": "직업 (jigeop)"
+      },
+      {
+        "pt": "aula",
+        "term": "수업 (sueop)"
+      },
+      {
+        "pt": "prova",
+        "term": "시험 (siheom)"
+      },
+      {
+        "pt": "escritório",
+        "term": "사무실 (samusil)"
+      },
+      {
+        "pt": "reunião",
+        "term": "회의 (hoeui)"
+      },
+      {
+        "pt": "ideia",
+        "term": "생각 (saenggak)"
+      }
+    ],
+    "time_weather": [
+      {
+        "pt": "dia",
+        "term": "날 (nal)"
+      },
+      {
+        "pt": "noite",
+        "term": "밤 (bam)"
+      },
+      {
+        "pt": "manhã",
+        "term": "아침 (achim)"
+      },
+      {
+        "pt": "tarde",
+        "term": "오후 (ohu)"
+      },
+      {
+        "pt": "semana",
+        "term": "주 (ju)"
+      },
+      {
+        "pt": "mês",
+        "term": "달 (dal)"
+      },
+      {
+        "pt": "ano",
+        "term": "년 (nyeon)"
+      },
+      {
+        "pt": "hora",
+        "term": "시간 (sigan)"
+      },
+      {
+        "pt": "minuto",
+        "term": "분 (bun)"
+      },
+      {
+        "pt": "chuva",
+        "term": "비 (bi)"
+      },
+      {
+        "pt": "neve",
+        "term": "눈 (nun)"
+      },
+      {
+        "pt": "vento",
+        "term": "바람 (baram)"
+      },
+      {
+        "pt": "calor",
+        "term": "더위 (deowi)"
+      },
+      {
+        "pt": "frio",
+        "term": "추위 (chuwi)"
+      },
+      {
+        "pt": "nuvem",
+        "term": "구름 (gureum)"
+      },
+      {
+        "pt": "céu",
+        "term": "하늘 (haneul)"
+      }
+    ],
+    "travel": [
+      {
+        "pt": "cidade",
+        "term": "도시 (dosi)"
+      },
+      {
+        "pt": "rua",
+        "term": "거리 (geori)"
+      },
+      {
+        "pt": "carro",
+        "term": "자동차 (jadongcha)"
+      },
+      {
+        "pt": "ônibus",
+        "term": "버스 (beoseu)"
+      },
+      {
+        "pt": "hotel",
+        "term": "호텔 (hotel)"
+      },
+      {
+        "pt": "mapa",
+        "term": "지도 (jido)"
+      },
+      {
+        "pt": "praia",
+        "term": "해변 (haebyeon)"
+      },
+      {
+        "pt": "aeroporto",
+        "term": "공항 (gonghang)"
+      },
+      {
+        "pt": "trem",
+        "term": "기차 (gicha)"
+      },
+      {
+        "pt": "bilhete",
+        "term": "표 (pyo)"
+      },
+      {
+        "pt": "avião",
+        "term": "비행기 (bihaenggi)"
+      },
+      {
+        "pt": "barco",
+        "term": "배 (bae)"
+      },
+      {
+        "pt": "estação",
+        "term": "역 (yeok)"
+      },
+      {
+        "pt": "passaporte",
+        "term": "여권 (yeogwon)"
+      },
+      {
+        "pt": "mala",
+        "term": "여행 가방 (yeohaeng gabang)"
+      },
+      {
+        "pt": "táxi",
+        "term": "택시 (taeksi)"
+      }
+    ],
+    "conversation": [
+      {
+        "pt": "amor",
+        "term": "사랑 (sarang)"
+      },
+      {
+        "pt": "feliz",
+        "term": "행복한 (haengbokan)"
+      },
+      {
+        "pt": "triste",
+        "term": "슬픈 (seulpeun)"
+      },
+      {
+        "pt": "hoje",
+        "term": "오늘 (oneul)"
+      },
+      {
+        "pt": "amanhã",
+        "term": "내일 (naeil)"
+      },
+      {
+        "pt": "bonito",
+        "term": "예쁜 (yeppeun)"
+      },
+      {
+        "pt": "grande",
+        "term": "큰 (keun)"
+      },
+      {
+        "pt": "pequeno",
+        "term": "작은 (jageun)"
+      },
+      {
+        "pt": "novo",
+        "term": "새로운 (saeroun)"
+      },
+      {
+        "pt": "bem",
+        "term": "잘 (jal)"
+      },
+      {
+        "pt": "ontem",
+        "term": "어제 (eoje)"
+      },
+      {
+        "pt": "agora",
+        "term": "지금 (jigeum)"
+      },
+      {
+        "pt": "aqui",
+        "term": "여기 (yeogi)"
+      },
+      {
+        "pt": "muito",
+        "term": "많이 (mani)"
+      },
+      {
+        "pt": "pouco",
+        "term": "조금 (jogeum)"
+      },
+      {
+        "pt": "também",
+        "term": "또한 (ttohan)"
+      }
+    ]
+  },
+  "sentences": {
+    "greetings": [
+      {
+        "pt": "Olá, tudo bem?",
+        "term": "안녕하세요, 잘 지내요?",
+        "roman": "annyeonghaseyo, jal jinaeyo?"
+      },
+      {
+        "pt": "Bom dia!",
+        "term": "좋은 아침이에요!",
+        "roman": "joeun achimieyo!"
+      },
+      {
+        "pt": "Muito obrigado.",
+        "term": "정말 감사합니다.",
+        "roman": "jeongmal gamsahamnida."
+      },
+      {
+        "pt": "Boa noite, mãe.",
+        "term": "안녕히 주무세요, 엄마.",
+        "roman": "annyeonghi jumuseyo, eomma."
+      },
+      {
+        "pt": "Até logo, amigo!",
+        "term": "또 봐요, 친구!",
+        "roman": "tto bwayo, chingu!"
+      },
+      {
+        "pt": "Sim, por favor.",
+        "term": "네, 부탁해요.",
+        "roman": "ne, butakhaeyo."
+      }
+    ],
+    "numbers_colors": [
+      {
+        "pt": "Eu tenho dois gatos.",
+        "term": "저는 고양이 두 마리가 있어요.",
+        "roman": "jeoneun goyangi du mariga isseoyo."
+      },
+      {
+        "pt": "A casa é azul.",
+        "term": "집은 파란색이에요.",
+        "roman": "jibeun paransaegieyo."
+      },
+      {
+        "pt": "Eu vejo três flores.",
+        "term": "저는 꽃 세 송이를 봐요.",
+        "roman": "jeoneun kkot se songireul bwayo."
+      },
+      {
+        "pt": "O carro é vermelho.",
+        "term": "차는 빨간색이에요.",
+        "roman": "chaneun ppalgansaegieyo."
+      },
+      {
+        "pt": "Tenho cinco amigos.",
+        "term": "저는 친구가 다섯 명 있어요.",
+        "roman": "jeoneun chinguga daseot myeong isseoyo."
+      },
+      {
+        "pt": "A porta é branca.",
+        "term": "문은 흰색이에요.",
+        "roman": "muneun huinsaegieyo."
+      }
+    ],
+    "family": [
+      {
+        "pt": "Esta é a minha mãe.",
+        "term": "이분은 저의 어머니예요.",
+        "roman": "ibuneun jeoui eomeoniyeyo."
+      },
+      {
+        "pt": "Eu amo a minha família.",
+        "term": "저는 가족을 사랑해요.",
+        "roman": "jeoneun gajogeul saranghaeyo."
+      },
+      {
+        "pt": "O meu pai é grande.",
+        "term": "저의 아버지는 키가 커요.",
+        "roman": "jeoui abeojineun kiga keoyo."
+      },
+      {
+        "pt": "Tenho um irmão e uma irmã.",
+        "term": "저는 형과 누나가 있어요.",
+        "roman": "jeoneun hyeonggwa nunaga isseoyo."
+      },
+      {
+        "pt": "A minha avó é bonita.",
+        "term": "저의 할머니는 예뻐요.",
+        "roman": "jeoui halmeonineun yeppeoyo."
+      },
+      {
+        "pt": "O bebê dorme agora.",
+        "term": "아기가 지금 자요.",
+        "roman": "agiga jigeum jayo."
+      }
+    ],
+    "food": [
+      {
+        "pt": "Eu bebo água.",
+        "term": "저는 물을 마셔요.",
+        "roman": "jeoneun mureul masyeoyo."
+      },
+      {
+        "pt": "Eu como pão.",
+        "term": "저는 빵을 먹어요.",
+        "roman": "jeoneun ppangeul meogeoyo."
+      },
+      {
+        "pt": "Eu gosto de café.",
+        "term": "저는 커피를 좋아해요.",
+        "roman": "jeoneun keopireul joahaeyo."
+      },
+      {
+        "pt": "Quero uma maçã.",
+        "term": "저는 사과를 원해요.",
+        "roman": "jeoneun sagwareul wonhaeyo."
+      },
+      {
+        "pt": "A sopa é boa.",
+        "term": "국이 맛있어요.",
+        "roman": "gugi masisseoyo."
+      },
+      {
+        "pt": "Você quer suco?",
+        "term": "주스를 원해요?",
+        "roman": "juseureul wonhaeyo?"
+      }
+    ],
+    "animals_nature": [
+      {
+        "pt": "O cachorro é grande.",
+        "term": "개가 커요.",
+        "roman": "gaega keoyo."
+      },
+      {
+        "pt": "Eu vejo um pássaro.",
+        "term": "저는 새를 봐요.",
+        "roman": "jeoneun saereul bwayo."
+      },
+      {
+        "pt": "O gato dorme na cama.",
+        "term": "고양이가 침대에서 자요.",
+        "roman": "goyangiga chimdaeeseo jayo."
+      },
+      {
+        "pt": "O sol é amarelo.",
+        "term": "해는 노란색이에요.",
+        "roman": "haeneun noransaegieyo."
+      },
+      {
+        "pt": "A árvore é grande.",
+        "term": "나무가 커요.",
+        "roman": "namuga keoyo."
+      },
+      {
+        "pt": "O peixe está no rio.",
+        "term": "물고기가 강에 있어요.",
+        "roman": "mulgogiga gange isseoyo."
+      }
+    ],
+    "home_daily": [
+      {
+        "pt": "A chave está na mesa.",
+        "term": "열쇠가 책상에 있어요.",
+        "roman": "yeolsoega chaeksange isseoyo."
+      },
+      {
+        "pt": "A cama é grande.",
+        "term": "침대가 커요.",
+        "roman": "chimdaega keoyo."
+      },
+      {
+        "pt": "Eu como na cozinha.",
+        "term": "저는 부엌에서 먹어요.",
+        "roman": "jeoneun bueokeseo meogeoyo."
+      },
+      {
+        "pt": "O copo está na mesa.",
+        "term": "컵이 책상에 있어요.",
+        "roman": "keobi chaeksange isseoyo."
+      },
+      {
+        "pt": "A janela é pequena.",
+        "term": "창문이 작아요.",
+        "roman": "changmuni jagayo."
+      },
+      {
+        "pt": "Eu gosto da minha casa.",
+        "term": "저는 저의 집을 좋아해요.",
+        "roman": "jeoneun jeoui jibeul joahaeyo."
+      }
+    ],
+    "verbs_actions": [
+      {
+        "pt": "Eu quero comer.",
+        "term": "저는 먹고 싶어요.",
+        "roman": "jeoneun meokgo sipeoyo."
+      },
+      {
+        "pt": "Você gosta de ler?",
+        "term": "당신은 읽는 것을 좋아해요?",
+        "roman": "dangsineun ingneun geoseul joahaeyo?"
+      },
+      {
+        "pt": "Nós vamos andar.",
+        "term": "우리는 걸을 거예요.",
+        "roman": "urineun georeul geoyeyo."
+      },
+      {
+        "pt": "Ele quer dormir.",
+        "term": "그는 자고 싶어요.",
+        "roman": "geuneun jago sipeoyo."
+      },
+      {
+        "pt": "Eu gosto de falar.",
+        "term": "저는 말하는 것을 좋아해요.",
+        "roman": "jeoneun malhaneun geoseul joahaeyo."
+      },
+      {
+        "pt": "Eu vou comprar pão.",
+        "term": "저는 빵을 살 거예요.",
+        "roman": "jeoneun ppangeul sal geoyeyo."
+      }
+    ],
+    "body_health": [
+      {
+        "pt": "Eu tenho dor de cabeça.",
+        "term": "저는 머리가 아파요.",
+        "roman": "jeoneun meoriga apayo."
+      },
+      {
+        "pt": "O médico é bom.",
+        "term": "의사 선생님이 좋아요.",
+        "roman": "uisa seonsaengnimi joayo."
+      },
+      {
+        "pt": "Eu tenho dois olhos.",
+        "term": "저는 눈이 두 개 있어요.",
+        "roman": "jeoneun nuni du gae isseoyo."
+      },
+      {
+        "pt": "As minhas mãos estão frias.",
+        "term": "저의 손이 차가워요.",
+        "roman": "jeoui soni chagawoyo."
+      },
+      {
+        "pt": "O meu coração é grande.",
+        "term": "저는 마음이 넓어요.",
+        "roman": "jeoneun maeumi neolbeoyo."
+      },
+      {
+        "pt": "Eu quero saúde.",
+        "term": "저는 건강을 원해요.",
+        "roman": "jeoneun geongangeul wonhaeyo."
+      }
+    ],
+    "work_school": [
+      {
+        "pt": "Eu vou à escola.",
+        "term": "저는 학교에 가요.",
+        "roman": "jeoneun hakgyoe gayo."
+      },
+      {
+        "pt": "O professor é bom.",
+        "term": "선생님이 좋아요.",
+        "roman": "seonsaengnimi joayo."
+      },
+      {
+        "pt": "Eu leio um livro.",
+        "term": "저는 책을 읽어요.",
+        "roman": "jeoneun chaegeul ilgeoyo."
+      },
+      {
+        "pt": "Eu gosto da escola.",
+        "term": "저는 학교를 좋아해요.",
+        "roman": "jeoneun hakgyoreul joahaeyo."
+      },
+      {
+        "pt": "Tenho uma caneta nova.",
+        "term": "저는 새 펜이 있어요.",
+        "roman": "jeoneun sae peni isseoyo."
+      },
+      {
+        "pt": "Eu escrevo no papel.",
+        "term": "저는 종이에 써요.",
+        "roman": "jeoneun jongie sseoyo."
+      }
+    ],
+    "time_weather": [
+      {
+        "pt": "Hoje está frio.",
+        "term": "오늘은 추워요.",
+        "roman": "oneureun chuwoyo."
+      },
+      {
+        "pt": "Hoje tem chuva.",
+        "term": "오늘은 비가 와요.",
+        "roman": "oneureun biga wayo."
+      },
+      {
+        "pt": "O dia está bonito.",
+        "term": "날씨가 좋아요.",
+        "roman": "nalssiga joayo."
+      },
+      {
+        "pt": "A manhã está fria.",
+        "term": "아침이 추워요.",
+        "roman": "achimi chuwoyo."
+      },
+      {
+        "pt": "Gosto da noite.",
+        "term": "저는 밤을 좋아해요.",
+        "roman": "jeoneun bameul joahaeyo."
+      },
+      {
+        "pt": "O céu é azul.",
+        "term": "하늘이 파란색이에요.",
+        "roman": "haneuri paransaegieyo."
+      }
+    ],
+    "travel": [
+      {
+        "pt": "Onde fica o hotel?",
+        "term": "호텔이 어디에 있어요?",
+        "roman": "hoteri eodie isseoyo?"
+      },
+      {
+        "pt": "Eu vou de carro.",
+        "term": "저는 차로 가요.",
+        "roman": "jeoneun charo gayo."
+      },
+      {
+        "pt": "A praia é bonita.",
+        "term": "바다가 예뻐요.",
+        "roman": "badaga yeppeoyo."
+      },
+      {
+        "pt": "Quero um bilhete, por favor.",
+        "term": "표 한 장 주세요.",
+        "roman": "pyo han jang juseyo."
+      },
+      {
+        "pt": "O trem é grande.",
+        "term": "기차가 커요.",
+        "roman": "gichaga keoyo."
+      },
+      {
+        "pt": "A cidade é bonita.",
+        "term": "도시가 아름다워요.",
+        "roman": "dosiga areumdawoyo."
+      }
+    ],
+    "conversation": [
+      {
+        "pt": "Eu estou feliz hoje.",
+        "term": "저는 오늘 행복해요.",
+        "roman": "jeoneun oneul haengbokhaeyo."
+      },
+      {
+        "pt": "Amanhã eu vou.",
+        "term": "저는 내일 가요.",
+        "roman": "jeoneun naeil gayo."
+      },
+      {
+        "pt": "Eu gosto muito de você.",
+        "term": "저는 당신을 많이 좋아해요.",
+        "roman": "jeoneun dangsineul mani joahaeyo."
+      },
+      {
+        "pt": "Hoje é um bom dia.",
+        "term": "오늘은 좋은 날이에요.",
+        "roman": "oneureun joeun narieyo."
+      },
+      {
+        "pt": "Eu estou aqui agora.",
+        "term": "저는 지금 여기에 있어요.",
+        "roman": "jeoneun jigeum yeogie isseoyo."
+      },
+      {
+        "pt": "Você é muito bonito.",
+        "term": "당신은 정말 멋있어요.",
+        "roman": "dangsineun jeongmal meosisseoyo."
+      }
+    ]
+  }
+}

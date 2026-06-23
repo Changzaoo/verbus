@@ -1,0 +1,110 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* ==========================================================================
+   DevLingo — Design tokens (resolvidos por tema via classes no <html>)
+   rgb triplets para suportar a sintaxe rgb(var(--x) / <alpha-value>) do Tailwind
+   ========================================================================== */
+:root,
+.theme-light {
+  --bg: 255 255 255;
+  --surface: 247 247 247;
+  --border: 229 229 229;
+  --text: 60 60 60;
+  --text-muted: 175 175 175;
+}
+
+.dark,
+.theme-dark {
+  --bg: 19 31 36;
+  --surface: 31 48 55;
+  --border: 43 66 85;
+  --text: 255 255 255;
+  --text-muted: 124 143 153;
+}
+
+.theme-terminal {
+  --bg: 12 14 12;
+  --surface: 18 24 18;
+  --border: 30 60 30;
+  --text: 126 231 135;
+  --text-muted: 86 150 92;
+}
+
+* {
+  -webkit-tap-highlight-color: transparent;
+}
+
+html,
+body,
+#root {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  font-family: 'Inter', system-ui, sans-serif;
+  background-color: rgb(var(--bg));
+  color: rgb(var(--text));
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+  overscroll-behavior-y: none;
+}
+
+.theme-terminal body,
+.theme-terminal .font-ui {
+  font-family: 'JetBrains Mono', ui-monospace, monospace;
+}
+
+/* Scrollbar discreta */
+::-webkit-scrollbar {
+  width: 10px;
+  height: 10px;
+}
+::-webkit-scrollbar-thumb {
+  background: rgb(var(--border));
+  border-radius: 999px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+@layer components {
+  .btn {
+    @apply inline-flex items-center justify-center gap-2 rounded-2xl px-5 py-3 font-bold uppercase tracking-wide
+           transition-all duration-100 active:translate-y-[2px] active:shadow-btn-sm disabled:opacity-50
+           disabled:cursor-not-allowed select-none;
+  }
+  .btn-primary {
+    @apply btn bg-brand text-white shadow-btn hover:bg-brand-dark border-b-0;
+  }
+  .btn-secondary {
+    @apply btn bg-surface text-ink border-2 border-edge shadow-btn-sm hover:brightness-95;
+  }
+  .btn-danger {
+    @apply btn bg-wrong text-white shadow-btn;
+  }
+  .btn-ghost {
+    @apply btn bg-transparent text-muted hover:text-ink;
+  }
+  .card {
+    @apply rounded-2xl border-2 border-edge bg-surface p-4;
+  }
+  .input {
+    @apply w-full rounded-2xl border-2 border-edge bg-surface px-4 py-3 text-base font-medium text-ink
+           outline-none placeholder:text-muted focus:border-brand;
+  }
+  .pill {
+    @apply inline-flex items-center gap-1 rounded-full px-3 py-1 text-sm font-bold;
+  }
+}
+
+/* Esconde a barra de rolagem mantendo o scroll (trilha) */
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+.no-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}

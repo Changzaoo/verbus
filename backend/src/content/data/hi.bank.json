@@ -1,0 +1,1183 @@
+{
+  "code": "hi",
+  "themes": {
+    "greetings": [
+      {
+        "pt": "olá",
+        "term": "नमस्ते (namaste)"
+      },
+      {
+        "pt": "tchau",
+        "term": "अलविदा (alvida)"
+      },
+      {
+        "pt": "obrigado(a)",
+        "term": "धन्यवाद (dhanyavaad)"
+      },
+      {
+        "pt": "por favor",
+        "term": "कृपया (kripaya)"
+      },
+      {
+        "pt": "sim",
+        "term": "हाँ (haan)"
+      },
+      {
+        "pt": "não",
+        "term": "नहीं (nahin)"
+      },
+      {
+        "pt": "bom dia",
+        "term": "सुप्रभात (suprabhat)"
+      },
+      {
+        "pt": "boa noite",
+        "term": "शुभ रात्रि (shubh raatri)"
+      },
+      {
+        "pt": "desculpe",
+        "term": "माफ़ कीजिए (maaf kijiye)"
+      },
+      {
+        "pt": "com licença",
+        "term": "सुनिए (suniye)"
+      },
+      {
+        "pt": "boa tarde",
+        "term": "शुभ दोपहर (shubh dopahar)"
+      },
+      {
+        "pt": "prazer em conhecer",
+        "term": "आपसे मिलकर खुशी हुई (aapse milkar khushi hui)"
+      },
+      {
+        "pt": "tudo bem?",
+        "term": "कैसे हो? (kaise ho?)"
+      },
+      {
+        "pt": "até logo",
+        "term": "फिर मिलेंगे (phir milenge)"
+      },
+      {
+        "pt": "de nada",
+        "term": "कोई बात नहीं (koi baat nahi)"
+      },
+      {
+        "pt": "com certeza",
+        "term": "ज़रूर (zaroor)"
+      }
+    ],
+    "numbers_colors": [
+      {
+        "pt": "um",
+        "term": "एक (ek)"
+      },
+      {
+        "pt": "dois",
+        "term": "दो (do)"
+      },
+      {
+        "pt": "três",
+        "term": "तीन (teen)"
+      },
+      {
+        "pt": "quatro",
+        "term": "चार (chaar)"
+      },
+      {
+        "pt": "cinco",
+        "term": "पाँच (paanch)"
+      },
+      {
+        "pt": "vermelho",
+        "term": "लाल (laal)"
+      },
+      {
+        "pt": "azul",
+        "term": "नीला (neela)"
+      },
+      {
+        "pt": "verde",
+        "term": "हरा (hara)"
+      },
+      {
+        "pt": "amarelo",
+        "term": "पीला (peela)"
+      },
+      {
+        "pt": "preto",
+        "term": "काला (kaala)"
+      },
+      {
+        "pt": "seis",
+        "term": "छह (chhah)"
+      },
+      {
+        "pt": "sete",
+        "term": "सात (saat)"
+      },
+      {
+        "pt": "oito",
+        "term": "आठ (aath)"
+      },
+      {
+        "pt": "nove",
+        "term": "नौ (nau)"
+      },
+      {
+        "pt": "dez",
+        "term": "दस (das)"
+      },
+      {
+        "pt": "branco",
+        "term": "सफ़ेद (safed)"
+      }
+    ],
+    "family": [
+      {
+        "pt": "mãe",
+        "term": "माँ (maa)"
+      },
+      {
+        "pt": "pai",
+        "term": "पिता (pita)"
+      },
+      {
+        "pt": "irmão",
+        "term": "भाई (bhai)"
+      },
+      {
+        "pt": "irmã",
+        "term": "बहन (bahan)"
+      },
+      {
+        "pt": "avó",
+        "term": "दादी (dadi)"
+      },
+      {
+        "pt": "avô",
+        "term": "दादा (dada)"
+      },
+      {
+        "pt": "filho",
+        "term": "बेटा (beta)"
+      },
+      {
+        "pt": "filha",
+        "term": "बेटी (beti)"
+      },
+      {
+        "pt": "amigo",
+        "term": "दोस्त (dost)"
+      },
+      {
+        "pt": "família",
+        "term": "परिवार (parivar)"
+      },
+      {
+        "pt": "marido",
+        "term": "पति (pati)"
+      },
+      {
+        "pt": "esposa",
+        "term": "पत्नी (patni)"
+      },
+      {
+        "pt": "tio",
+        "term": "चाचा (chacha)"
+      },
+      {
+        "pt": "tia",
+        "term": "चाची (chachi)"
+      },
+      {
+        "pt": "primo",
+        "term": "चचेरा भाई (chachera bhai)"
+      },
+      {
+        "pt": "bebê",
+        "term": "शिशु (shishu)"
+      }
+    ],
+    "food": [
+      {
+        "pt": "água",
+        "term": "पानी (paani)"
+      },
+      {
+        "pt": "pão",
+        "term": "रोटी (roti)"
+      },
+      {
+        "pt": "maçã",
+        "term": "सेब (seb)"
+      },
+      {
+        "pt": "leite",
+        "term": "दूध (doodh)"
+      },
+      {
+        "pt": "café",
+        "term": "कॉफ़ी (kofi)"
+      },
+      {
+        "pt": "arroz",
+        "term": "चावल (chawal)"
+      },
+      {
+        "pt": "queijo",
+        "term": "पनीर (paneer)"
+      },
+      {
+        "pt": "ovo",
+        "term": "अंडा (anda)"
+      },
+      {
+        "pt": "fruta",
+        "term": "फल (phal)"
+      },
+      {
+        "pt": "carne",
+        "term": "मांस (maans)"
+      },
+      {
+        "pt": "sopa",
+        "term": "सूप (soop)"
+      },
+      {
+        "pt": "salada",
+        "term": "सलाद (salaad)"
+      },
+      {
+        "pt": "açúcar",
+        "term": "चीनी (cheeni)"
+      },
+      {
+        "pt": "sal",
+        "term": "नमक (namak)"
+      },
+      {
+        "pt": "suco",
+        "term": "रस (ras)"
+      },
+      {
+        "pt": "bolo",
+        "term": "केक (kek)"
+      }
+    ],
+    "animals_nature": [
+      {
+        "pt": "cachorro",
+        "term": "कुत्ता (kutta)"
+      },
+      {
+        "pt": "gato",
+        "term": "बिल्ली (billi)"
+      },
+      {
+        "pt": "pássaro",
+        "term": "पक्षी (pakshi)"
+      },
+      {
+        "pt": "peixe",
+        "term": "मछली (machhli)"
+      },
+      {
+        "pt": "cavalo",
+        "term": "घोड़ा (ghoda)"
+      },
+      {
+        "pt": "árvore",
+        "term": "पेड़ (ped)"
+      },
+      {
+        "pt": "sol",
+        "term": "सूरज (sooraj)"
+      },
+      {
+        "pt": "lua",
+        "term": "चाँद (chaand)"
+      },
+      {
+        "pt": "flor",
+        "term": "फूल (phool)"
+      },
+      {
+        "pt": "rio",
+        "term": "नदी (nadi)"
+      },
+      {
+        "pt": "vaca",
+        "term": "गाय (gaay)"
+      },
+      {
+        "pt": "galinha",
+        "term": "मुर्गी (murgi)"
+      },
+      {
+        "pt": "coelho",
+        "term": "खरगोश (khargosh)"
+      },
+      {
+        "pt": "montanha",
+        "term": "पहाड़ (pahaad)"
+      },
+      {
+        "pt": "mar",
+        "term": "समुद्र (samudra)"
+      },
+      {
+        "pt": "estrela",
+        "term": "तारा (taara)"
+      }
+    ],
+    "home_daily": [
+      {
+        "pt": "casa",
+        "term": "घर (ghar)"
+      },
+      {
+        "pt": "porta",
+        "term": "दरवाज़ा (darwaza)"
+      },
+      {
+        "pt": "mesa",
+        "term": "मेज़ (mez)"
+      },
+      {
+        "pt": "cama",
+        "term": "बिस्तर (bistar)"
+      },
+      {
+        "pt": "cadeira",
+        "term": "कुर्सी (kursi)"
+      },
+      {
+        "pt": "janela",
+        "term": "खिड़की (khidki)"
+      },
+      {
+        "pt": "cozinha",
+        "term": "रसोई (rasoi)"
+      },
+      {
+        "pt": "banheiro",
+        "term": "बाथरूम (baathroom)"
+      },
+      {
+        "pt": "chave",
+        "term": "चाबी (chaabi)"
+      },
+      {
+        "pt": "relógio",
+        "term": "घड़ी (ghadi)"
+      },
+      {
+        "pt": "sofá",
+        "term": "सोफ़ा (sofa)"
+      },
+      {
+        "pt": "espelho",
+        "term": "आईना (aaina)"
+      },
+      {
+        "pt": "prato",
+        "term": "थाली (thaali)"
+      },
+      {
+        "pt": "copo",
+        "term": "गिलास (gilaas)"
+      },
+      {
+        "pt": "sabonete",
+        "term": "साबुन (saabun)"
+      },
+      {
+        "pt": "toalha",
+        "term": "तौलिया (tauliya)"
+      }
+    ],
+    "verbs_actions": [
+      {
+        "pt": "ser",
+        "term": "होना (hona)"
+      },
+      {
+        "pt": "ter",
+        "term": "रखना (rakhna)"
+      },
+      {
+        "pt": "ir",
+        "term": "जाना (jaana)"
+      },
+      {
+        "pt": "comer",
+        "term": "खाना (khaana)"
+      },
+      {
+        "pt": "beber",
+        "term": "पीना (peena)"
+      },
+      {
+        "pt": "falar",
+        "term": "बोलना (bolna)"
+      },
+      {
+        "pt": "ver",
+        "term": "देखना (dekhna)"
+      },
+      {
+        "pt": "ouvir",
+        "term": "सुनना (sunna)"
+      },
+      {
+        "pt": "ler",
+        "term": "पढ़ना (padhna)"
+      },
+      {
+        "pt": "escrever",
+        "term": "लिखना (likhna)"
+      },
+      {
+        "pt": "querer",
+        "term": "चाहना (chaahna)"
+      },
+      {
+        "pt": "fazer",
+        "term": "करना (karna)"
+      },
+      {
+        "pt": "dormir",
+        "term": "सोना (sona)"
+      },
+      {
+        "pt": "andar",
+        "term": "चलना (chalna)"
+      },
+      {
+        "pt": "comprar",
+        "term": "खरीदना (khareedna)"
+      },
+      {
+        "pt": "gostar",
+        "term": "पसंद करना (pasand karna)"
+      }
+    ],
+    "body_health": [
+      {
+        "pt": "cabeça",
+        "term": "सिर (sir)"
+      },
+      {
+        "pt": "cabelo",
+        "term": "बाल (baal)"
+      },
+      {
+        "pt": "olho",
+        "term": "आँख (aankh)"
+      },
+      {
+        "pt": "nariz",
+        "term": "नाक (naak)"
+      },
+      {
+        "pt": "boca",
+        "term": "मुँह (munh)"
+      },
+      {
+        "pt": "dente",
+        "term": "दाँत (daant)"
+      },
+      {
+        "pt": "orelha",
+        "term": "कान (kaan)"
+      },
+      {
+        "pt": "mão",
+        "term": "हाथ (haath)"
+      },
+      {
+        "pt": "braço",
+        "term": "बाँह (baanh)"
+      },
+      {
+        "pt": "perna",
+        "term": "टाँग (taang)"
+      },
+      {
+        "pt": "pé",
+        "term": "पैर (pair)"
+      },
+      {
+        "pt": "coração",
+        "term": "दिल (dil)"
+      },
+      {
+        "pt": "médico",
+        "term": "डॉक्टर (daaktar)"
+      },
+      {
+        "pt": "remédio",
+        "term": "दवा (dawa)"
+      },
+      {
+        "pt": "dor",
+        "term": "दर्द (dard)"
+      },
+      {
+        "pt": "saúde",
+        "term": "सेहत (sehat)"
+      }
+    ],
+    "work_school": [
+      {
+        "pt": "escola",
+        "term": "स्कूल (skool)"
+      },
+      {
+        "pt": "professor",
+        "term": "शिक्षक (shikshak)"
+      },
+      {
+        "pt": "aluno",
+        "term": "छात्र (chhatra)"
+      },
+      {
+        "pt": "livro",
+        "term": "किताब (kitaab)"
+      },
+      {
+        "pt": "caneta",
+        "term": "कलम (kalam)"
+      },
+      {
+        "pt": "papel",
+        "term": "कागज़ (kaagaz)"
+      },
+      {
+        "pt": "lápis",
+        "term": "पेंसिल (pensil)"
+      },
+      {
+        "pt": "computador",
+        "term": "कंप्यूटर (kampyootar)"
+      },
+      {
+        "pt": "trabalho",
+        "term": "काम (kaam)"
+      },
+      {
+        "pt": "dinheiro",
+        "term": "पैसा (paisa)"
+      },
+      {
+        "pt": "emprego",
+        "term": "नौकरी (naukri)"
+      },
+      {
+        "pt": "aula",
+        "term": "कक्षा (kaksha)"
+      },
+      {
+        "pt": "prova",
+        "term": "परीक्षा (pareeksha)"
+      },
+      {
+        "pt": "escritório",
+        "term": "दफ़्तर (daftar)"
+      },
+      {
+        "pt": "reunião",
+        "term": "बैठक (baithak)"
+      },
+      {
+        "pt": "ideia",
+        "term": "विचार (vichaar)"
+      }
+    ],
+    "time_weather": [
+      {
+        "pt": "dia",
+        "term": "दिन (din)"
+      },
+      {
+        "pt": "noite",
+        "term": "रात (raat)"
+      },
+      {
+        "pt": "manhã",
+        "term": "सुबह (subah)"
+      },
+      {
+        "pt": "tarde",
+        "term": "दोपहर (dopahar)"
+      },
+      {
+        "pt": "semana",
+        "term": "सप्ताह (saptaah)"
+      },
+      {
+        "pt": "mês",
+        "term": "महीना (maheena)"
+      },
+      {
+        "pt": "ano",
+        "term": "साल (saal)"
+      },
+      {
+        "pt": "hora",
+        "term": "घंटा (ghanta)"
+      },
+      {
+        "pt": "minuto",
+        "term": "मिनट (minat)"
+      },
+      {
+        "pt": "chuva",
+        "term": "बारिश (baarish)"
+      },
+      {
+        "pt": "neve",
+        "term": "बर्फ़ (barf)"
+      },
+      {
+        "pt": "vento",
+        "term": "हवा (hawa)"
+      },
+      {
+        "pt": "calor",
+        "term": "गर्मी (garmi)"
+      },
+      {
+        "pt": "frio",
+        "term": "ठंड (thand)"
+      },
+      {
+        "pt": "nuvem",
+        "term": "बादल (baadal)"
+      },
+      {
+        "pt": "céu",
+        "term": "आसमान (aasmaan)"
+      }
+    ],
+    "travel": [
+      {
+        "pt": "cidade",
+        "term": "शहर (shahar)"
+      },
+      {
+        "pt": "rua",
+        "term": "सड़क (sadak)"
+      },
+      {
+        "pt": "carro",
+        "term": "कार (kaar)"
+      },
+      {
+        "pt": "ônibus",
+        "term": "बस (bas)"
+      },
+      {
+        "pt": "hotel",
+        "term": "होटल (hotal)"
+      },
+      {
+        "pt": "mapa",
+        "term": "नक्शा (naksha)"
+      },
+      {
+        "pt": "praia",
+        "term": "समुद्र तट (samudra tat)"
+      },
+      {
+        "pt": "aeroporto",
+        "term": "हवाई अड्डा (hawai adda)"
+      },
+      {
+        "pt": "trem",
+        "term": "ट्रेन (tren)"
+      },
+      {
+        "pt": "bilhete",
+        "term": "टिकट (tikat)"
+      },
+      {
+        "pt": "avião",
+        "term": "हवाई जहाज़ (hawai jahaaz)"
+      },
+      {
+        "pt": "barco",
+        "term": "नाव (naav)"
+      },
+      {
+        "pt": "estação",
+        "term": "स्टेशन (steshan)"
+      },
+      {
+        "pt": "passaporte",
+        "term": "पासपोर्ट (paasport)"
+      },
+      {
+        "pt": "mala",
+        "term": "सूटकेस (sootkes)"
+      },
+      {
+        "pt": "táxi",
+        "term": "टैक्सी (taiksi)"
+      }
+    ],
+    "conversation": [
+      {
+        "pt": "amor",
+        "term": "प्यार (pyaar)"
+      },
+      {
+        "pt": "feliz",
+        "term": "खुश (khush)"
+      },
+      {
+        "pt": "triste",
+        "term": "उदास (udaas)"
+      },
+      {
+        "pt": "hoje",
+        "term": "आज (aaj)"
+      },
+      {
+        "pt": "amanhã",
+        "term": "कल (kal)"
+      },
+      {
+        "pt": "bonito",
+        "term": "सुंदर (sundar)"
+      },
+      {
+        "pt": "grande",
+        "term": "बड़ा (bada)"
+      },
+      {
+        "pt": "pequeno",
+        "term": "छोटा (chhota)"
+      },
+      {
+        "pt": "novo",
+        "term": "नया (naya)"
+      },
+      {
+        "pt": "bem",
+        "term": "अच्छा (achha)"
+      },
+      {
+        "pt": "ontem",
+        "term": "कल (kal)"
+      },
+      {
+        "pt": "agora",
+        "term": "अभी (abhi)"
+      },
+      {
+        "pt": "aqui",
+        "term": "यहाँ (yahaan)"
+      },
+      {
+        "pt": "muito",
+        "term": "बहुत (bahut)"
+      },
+      {
+        "pt": "pouco",
+        "term": "थोड़ा (thoda)"
+      },
+      {
+        "pt": "também",
+        "term": "भी (bhi)"
+      }
+    ]
+  },
+  "sentences": {
+    "greetings": [
+      {
+        "pt": "Olá, tudo bem?",
+        "term": "नमस्ते , सब ठीक है ?",
+        "roman": "namaste, sab thik hai?"
+      },
+      {
+        "pt": "Bom dia!",
+        "term": "सुप्रभात !",
+        "roman": "suprabhat!"
+      },
+      {
+        "pt": "Muito obrigado.",
+        "term": "बहुत धन्यवाद ।",
+        "roman": "bahut dhanyavad."
+      },
+      {
+        "pt": "Boa noite, mãe.",
+        "term": "शुभ रात्रि , माँ ।",
+        "roman": "shubh ratri, maa."
+      },
+      {
+        "pt": "Até logo, amigo!",
+        "term": "फिर मिलेंगे , दोस्त !",
+        "roman": "phir milenge, dost!"
+      },
+      {
+        "pt": "Sim, por favor.",
+        "term": "हाँ , कृपया ।",
+        "roman": "haan, kripya."
+      }
+    ],
+    "numbers_colors": [
+      {
+        "pt": "Eu tenho dois gatos.",
+        "term": "मेरे पास दो बिल्लियाँ हैं ।",
+        "roman": "mere paas do billiyan hain."
+      },
+      {
+        "pt": "A casa é azul.",
+        "term": "घर नीला है ।",
+        "roman": "ghar nila hai."
+      },
+      {
+        "pt": "Eu vejo três flores.",
+        "term": "मैं तीन फूल देखता हूँ ।",
+        "roman": "main tin phul dekhta hun."
+      },
+      {
+        "pt": "O carro é vermelho.",
+        "term": "कार लाल है ।",
+        "roman": "kaar laal hai."
+      },
+      {
+        "pt": "Tenho cinco amigos.",
+        "term": "मेरे पास पाँच दोस्त हैं ।",
+        "roman": "mere paas paanch dost hain."
+      },
+      {
+        "pt": "A porta é branca.",
+        "term": "दरवाज़ा सफ़ेद है ।",
+        "roman": "darvaza safed hai."
+      }
+    ],
+    "family": [
+      {
+        "pt": "Esta é a minha mãe.",
+        "term": "यह मेरी माँ है ।",
+        "roman": "yah meri maa hai."
+      },
+      {
+        "pt": "Eu amo a minha família.",
+        "term": "मैं अपने परिवार से प्यार करता हूँ ।",
+        "roman": "main apne parivar se pyar karta hun."
+      },
+      {
+        "pt": "O meu pai é grande.",
+        "term": "मेरे पिता बड़े हैं ।",
+        "roman": "mere pita bade hain."
+      },
+      {
+        "pt": "Tenho um irmão e uma irmã.",
+        "term": "मेरा एक भाई और एक बहन है ।",
+        "roman": "mera ek bhai aur ek bahan hai."
+      },
+      {
+        "pt": "A minha avó é bonita.",
+        "term": "मेरी दादी सुंदर हैं ।",
+        "roman": "meri dadi sundar hain."
+      },
+      {
+        "pt": "O bebê dorme agora.",
+        "term": "बच्चा अभी सो रहा है ।",
+        "roman": "bachcha abhi so raha hai."
+      }
+    ],
+    "food": [
+      {
+        "pt": "Eu bebo água.",
+        "term": "मैं पानी पीता हूँ ।",
+        "roman": "main pani pita hun."
+      },
+      {
+        "pt": "Eu como pão.",
+        "term": "मैं रोटी खाता हूँ ।",
+        "roman": "main roti khata hun."
+      },
+      {
+        "pt": "Eu gosto de café.",
+        "term": "मुझे कॉफ़ी पसंद है ।",
+        "roman": "mujhe kofi pasand hai."
+      },
+      {
+        "pt": "Quero uma maçã.",
+        "term": "मुझे एक सेब चाहिए ।",
+        "roman": "mujhe ek seb chahiye."
+      },
+      {
+        "pt": "A sopa é boa.",
+        "term": "सूप अच्छा है ।",
+        "roman": "soop accha hai."
+      },
+      {
+        "pt": "Você quer suco?",
+        "term": "क्या तुम्हें जूस चाहिए ?",
+        "roman": "kya tumhen joos chahiye?"
+      }
+    ],
+    "animals_nature": [
+      {
+        "pt": "O cachorro é grande.",
+        "term": "कुत्ता बड़ा है ।",
+        "roman": "kutta bada hai."
+      },
+      {
+        "pt": "Eu vejo um pássaro.",
+        "term": "मैं एक पक्षी देखता हूँ ।",
+        "roman": "main ek pakshi dekhta hun."
+      },
+      {
+        "pt": "O gato dorme na cama.",
+        "term": "बिल्ली बिस्तर पर सोती है ।",
+        "roman": "billi bistar par soti hai."
+      },
+      {
+        "pt": "O sol é amarelo.",
+        "term": "सूरज पीला है ।",
+        "roman": "suraj pila hai."
+      },
+      {
+        "pt": "A árvore é grande.",
+        "term": "पेड़ बड़ा है ।",
+        "roman": "ped bada hai."
+      },
+      {
+        "pt": "O peixe está no rio.",
+        "term": "मछली नदी में है ।",
+        "roman": "machhli nadi mein hai."
+      }
+    ],
+    "home_daily": [
+      {
+        "pt": "A chave está na mesa.",
+        "term": "चाबी मेज़ पर है ।",
+        "roman": "chabi mez par hai."
+      },
+      {
+        "pt": "A cama é grande.",
+        "term": "बिस्तर बड़ा है ।",
+        "roman": "bistar bada hai."
+      },
+      {
+        "pt": "Eu como na cozinha.",
+        "term": "मैं रसोई में खाता हूँ ।",
+        "roman": "main rasoi mein khata hun."
+      },
+      {
+        "pt": "O copo está na mesa.",
+        "term": "गिलास मेज़ पर है ।",
+        "roman": "gilas mez par hai."
+      },
+      {
+        "pt": "A janela é pequena.",
+        "term": "खिड़की छोटी है ।",
+        "roman": "khidki chhoti hai."
+      },
+      {
+        "pt": "Eu gosto da minha casa.",
+        "term": "मुझे अपना घर पसंद है ।",
+        "roman": "mujhe apna ghar pasand hai."
+      }
+    ],
+    "verbs_actions": [
+      {
+        "pt": "Eu quero comer.",
+        "term": "मैं खाना चाहता हूँ ।",
+        "roman": "main khana chahta hun."
+      },
+      {
+        "pt": "Você gosta de ler?",
+        "term": "क्या तुम्हें पढ़ना पसंद है ?",
+        "roman": "kya tumhen padhna pasand hai?"
+      },
+      {
+        "pt": "Nós vamos andar.",
+        "term": "हम चलेंगे ।",
+        "roman": "ham chalenge."
+      },
+      {
+        "pt": "Ele quer dormir.",
+        "term": "वह सोना चाहता है ।",
+        "roman": "vah sona chahta hai."
+      },
+      {
+        "pt": "Eu gosto de falar.",
+        "term": "मुझे बोलना पसंद है ।",
+        "roman": "mujhe bolna pasand hai."
+      },
+      {
+        "pt": "Eu vou comprar pão.",
+        "term": "मैं रोटी खरीदूँगा ।",
+        "roman": "main roti kharidunga."
+      }
+    ],
+    "body_health": [
+      {
+        "pt": "Eu tenho dor de cabeça.",
+        "term": "मेरे सिर में दर्द है ।",
+        "roman": "mere sir mein dard hai."
+      },
+      {
+        "pt": "O médico é bom.",
+        "term": "डॉक्टर अच्छा है ।",
+        "roman": "daktar accha hai."
+      },
+      {
+        "pt": "Eu tenho dois olhos.",
+        "term": "मेरी दो आँखें हैं ।",
+        "roman": "meri do aankhen hain."
+      },
+      {
+        "pt": "As minhas mãos estão frias.",
+        "term": "मेरे हाथ ठंडे हैं ।",
+        "roman": "mere hath thande hain."
+      },
+      {
+        "pt": "O meu coração é grande.",
+        "term": "मेरा दिल बड़ा है ।",
+        "roman": "mera dil bada hai."
+      },
+      {
+        "pt": "Eu quero saúde.",
+        "term": "मुझे सेहत चाहिए ।",
+        "roman": "mujhe sehat chahiye."
+      }
+    ],
+    "work_school": [
+      {
+        "pt": "Eu vou à escola.",
+        "term": "मैं स्कूल जाता हूँ ।",
+        "roman": "main skool jata hun."
+      },
+      {
+        "pt": "O professor é bom.",
+        "term": "शिक्षक अच्छा है ।",
+        "roman": "shikshak accha hai."
+      },
+      {
+        "pt": "Eu leio um livro.",
+        "term": "मैं एक किताब पढ़ता हूँ ।",
+        "roman": "main ek kitab padhta hun."
+      },
+      {
+        "pt": "Eu gosto da escola.",
+        "term": "मुझे स्कूल पसंद है ।",
+        "roman": "mujhe skool pasand hai."
+      },
+      {
+        "pt": "Tenho uma caneta nova.",
+        "term": "मेरे पास एक नई कलम है ।",
+        "roman": "mere paas ek nai kalam hai."
+      },
+      {
+        "pt": "Eu escrevo no papel.",
+        "term": "मैं कागज़ पर लिखता हूँ ।",
+        "roman": "main kagaz par likhta hun."
+      }
+    ],
+    "time_weather": [
+      {
+        "pt": "Hoje está frio.",
+        "term": "आज ठंड है ।",
+        "roman": "aaj thand hai."
+      },
+      {
+        "pt": "Hoje tem chuva.",
+        "term": "आज बारिश है ।",
+        "roman": "aaj barish hai."
+      },
+      {
+        "pt": "O dia está bonito.",
+        "term": "दिन सुंदर है ।",
+        "roman": "din sundar hai."
+      },
+      {
+        "pt": "A manhã está fria.",
+        "term": "सुबह ठंडी है ।",
+        "roman": "subah thandi hai."
+      },
+      {
+        "pt": "Gosto da noite.",
+        "term": "मुझे रात पसंद है ।",
+        "roman": "mujhe raat pasand hai."
+      },
+      {
+        "pt": "O céu é azul.",
+        "term": "आसमान नीला है ।",
+        "roman": "aasman nila hai."
+      }
+    ],
+    "travel": [
+      {
+        "pt": "Onde fica o hotel?",
+        "term": "होटल कहाँ है ?",
+        "roman": "hotal kahan hai?"
+      },
+      {
+        "pt": "Eu vou de carro.",
+        "term": "मैं कार से जाता हूँ ।",
+        "roman": "main kaar se jata hun."
+      },
+      {
+        "pt": "A praia é bonita.",
+        "term": "समुद्र तट सुंदर है ।",
+        "roman": "samudra tat sundar hai."
+      },
+      {
+        "pt": "Quero um bilhete, por favor.",
+        "term": "मुझे एक टिकट चाहिए , कृपया ।",
+        "roman": "mujhe ek tikat chahiye, kripya."
+      },
+      {
+        "pt": "O trem é grande.",
+        "term": "रेलगाड़ी बड़ी है ।",
+        "roman": "relgadi badi hai."
+      },
+      {
+        "pt": "A cidade é bonita.",
+        "term": "शहर सुंदर है ।",
+        "roman": "shahar sundar hai."
+      }
+    ],
+    "conversation": [
+      {
+        "pt": "Eu estou feliz hoje.",
+        "term": "मैं आज खुश हूँ ।",
+        "roman": "main aaj khush hun."
+      },
+      {
+        "pt": "Amanhã eu vou.",
+        "term": "मैं कल जाऊँगा ।",
+        "roman": "main kal jaunga."
+      },
+      {
+        "pt": "Eu gosto muito de você.",
+        "term": "मुझे तुम बहुत पसंद हो ।",
+        "roman": "mujhe tum bahut pasand ho."
+      },
+      {
+        "pt": "Hoje é um bom dia.",
+        "term": "आज एक अच्छा दिन है ।",
+        "roman": "aaj ek accha din hai."
+      },
+      {
+        "pt": "Eu estou aqui agora.",
+        "term": "मैं अभी यहाँ हूँ ।",
+        "roman": "main abhi yahan hun."
+      },
+      {
+        "pt": "Você é muito bonito.",
+        "term": "तुम बहुत सुंदर हो ।",
+        "roman": "tum bahut sundar ho."
+      }
+    ]
+  }
+}

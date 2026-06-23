@@ -1,0 +1,245 @@
+{
+  "code": "fr",
+  "lines": {
+    "greetings": [
+      {
+        "term": "Salut ! Bonjour !"
+      },
+      {
+        "term": "Bonjour ! Ça va ?"
+      },
+      {
+        "term": "Ça va , merci ! Et toi ?"
+      },
+      {
+        "term": "Je vais bien ! Ravie de te voir ."
+      },
+      {
+        "term": "À bientôt , mon amie !"
+      },
+      {
+        "term": "Salut ! À bientôt !"
+      }
+    ],
+    "numbers_colors": [
+      {
+        "term": "Combien de chats as-tu ?"
+      },
+      {
+        "term": "J'ai deux chats ."
+      },
+      {
+        "term": "De quelle couleur est ta maison ?"
+      },
+      {
+        "term": "Ma maison est bleue ."
+      },
+      {
+        "term": "Je vois trois fleurs rouges ."
+      },
+      {
+        "term": "Que c'est joli !"
+      }
+    ],
+    "family": [
+      {
+        "term": "C'est ta famille ?"
+      },
+      {
+        "term": "Oui , c'est ma mère ."
+      },
+      {
+        "term": "Et lui , qui est-ce ?"
+      },
+      {
+        "term": "C'est mon père . J'ai un frère aussi ."
+      },
+      {
+        "term": "Ta famille est grande !"
+      },
+      {
+        "term": "J'aime ma famille ."
+      }
+    ],
+    "food": [
+      {
+        "term": "Tu veux manger ?"
+      },
+      {
+        "term": "Oui , je mange du pain et du fromage ."
+      },
+      {
+        "term": "Tu veux boire de l'eau ?"
+      },
+      {
+        "term": "Non , j'aime le café ."
+      },
+      {
+        "term": "La soupe est prête !"
+      },
+      {
+        "term": "Merci , la soupe est bonne ."
+      }
+    ],
+    "animals_nature": [
+      {
+        "term": "Regarde , je vois un oiseau !"
+      },
+      {
+        "term": "L'oiseau est dans l'arbre ."
+      },
+      {
+        "term": "Ton chien est grand ?"
+      },
+      {
+        "term": "Oui , et le chat dort sur le lit ."
+      },
+      {
+        "term": "Le soleil est beau aujourd'hui ."
+      },
+      {
+        "term": "J'aime la rivière et les fleurs ."
+      }
+    ],
+    "home_daily": [
+      {
+        "term": "Où est la clé ?"
+      },
+      {
+        "term": "La clé est sur la table ."
+      },
+      {
+        "term": "Ta maison est grande ?"
+      },
+      {
+        "term": "La maison est petite , mais je l'aime bien ."
+      },
+      {
+        "term": "Où manges-tu ?"
+      },
+      {
+        "term": "Je mange dans la cuisine ."
+      }
+    ],
+    "verbs_actions": [
+      {
+        "term": "Qu'est-ce que tu veux faire aujourd'hui ?"
+      },
+      {
+        "term": "Je veux manger et dormir ."
+      },
+      {
+        "term": "Tu aimes lire ?"
+      },
+      {
+        "term": "Oui , j'aime lire et écrire ."
+      },
+      {
+        "term": "On va se promener en ville ?"
+      },
+      {
+        "term": "Oui , allons-y !"
+      }
+    ],
+    "body_health": [
+      {
+        "term": "Ça va ?"
+      },
+      {
+        "term": "Non , j'ai mal à la tête ."
+      },
+      {
+        "term": "Tu as besoin d'un médecin ?"
+      },
+      {
+        "term": "Oui , je veux un médicament ."
+      },
+      {
+        "term": "Prends soin de ta santé !"
+      },
+      {
+        "term": "Merci , maintenant je vais mieux ."
+      }
+    ],
+    "work_school": [
+      {
+        "term": "Tu vas à l'école aujourd'hui ?"
+      },
+      {
+        "term": "Oui , j'ai un examen ."
+      },
+      {
+        "term": "Le professeur est bon ?"
+      },
+      {
+        "term": "Oui , j'aime l'école ."
+      },
+      {
+        "term": "Je lis un nouveau livre ."
+      },
+      {
+        "term": "J'écris dans mon cahier ."
+      }
+    ],
+    "time_weather": [
+      {
+        "term": "Quel temps fait-il aujourd'hui ?"
+      },
+      {
+        "term": "Aujourd'hui il fait froid et il pleut ."
+      },
+      {
+        "term": "Et demain ?"
+      },
+      {
+        "term": "Demain il fera beau ."
+      },
+      {
+        "term": "J'aime le matin ."
+      },
+      {
+        "term": "Le ciel est bleu maintenant ."
+      }
+    ],
+    "travel": [
+      {
+        "term": "Où vas-tu voyager ?"
+      },
+      {
+        "term": "Je vais en ville en train ."
+      },
+      {
+        "term": "Où est l'hôtel ?"
+      },
+      {
+        "term": "L'hôtel est près de la plage ."
+      },
+      {
+        "term": "Tu as le billet ?"
+      },
+      {
+        "term": "Oui , et mon passeport aussi ."
+      }
+    ],
+    "conversation": [
+      {
+        "term": "Comment vas-tu aujourd'hui ?"
+      },
+      {
+        "term": "Je suis très heureuse !"
+      },
+      {
+        "term": "Pourquoi ?"
+      },
+      {
+        "term": "Parce qu'aujourd'hui , c'est un bon jour ."
+      },
+      {
+        "term": "Je t'aime beaucoup ."
+      },
+      {
+        "term": "Tu es une bonne amie ."
+      }
+    ]
+  }
+}

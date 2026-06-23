@@ -1,0 +1,245 @@
+{
+  "code": "sv",
+  "lines": {
+    "greetings": [
+      {
+        "term": "Hej ! God morgon !"
+      },
+      {
+        "term": "God morgon ! Hur mår du ?"
+      },
+      {
+        "term": "Jag mår bra , tack ! Och du ?"
+      },
+      {
+        "term": "Jag mår bra ! Kul att se dig ."
+      },
+      {
+        "term": "Vi ses snart , vännen !"
+      },
+      {
+        "term": "Hej då ! Vi ses !"
+      }
+    ],
+    "numbers_colors": [
+      {
+        "term": "Hur många katter har du ?"
+      },
+      {
+        "term": "Jag har två katter ."
+      },
+      {
+        "term": "Vilken färg har ditt hus ?"
+      },
+      {
+        "term": "Mitt hus är blått ."
+      },
+      {
+        "term": "Jag ser tre röda blommor ."
+      },
+      {
+        "term": "Vad fint !"
+      }
+    ],
+    "family": [
+      {
+        "term": "Är det här din familj ?"
+      },
+      {
+        "term": "Ja , det här är min mamma ."
+      },
+      {
+        "term": "Och vem är han ?"
+      },
+      {
+        "term": "Han är min pappa . Jag har en bror också ."
+      },
+      {
+        "term": "Din familj är stor !"
+      },
+      {
+        "term": "Jag älskar min familj ."
+      }
+    ],
+    "food": [
+      {
+        "term": "Vill du äta ?"
+      },
+      {
+        "term": "Ja , jag äter bröd och ost ."
+      },
+      {
+        "term": "Vill du dricka vatten ?"
+      },
+      {
+        "term": "Nej , jag gillar kaffe ."
+      },
+      {
+        "term": "Soppan är klar !"
+      },
+      {
+        "term": "Tack , soppan är god ."
+      }
+    ],
+    "animals_nature": [
+      {
+        "term": "Titta , jag ser en fågel !"
+      },
+      {
+        "term": "Fågeln sitter i trädet ."
+      },
+      {
+        "term": "Är din hund stor ?"
+      },
+      {
+        "term": "Ja , och katten sover i sängen ."
+      },
+      {
+        "term": "Solen är vacker idag ."
+      },
+      {
+        "term": "Jag gillar floden och blommorna ."
+      }
+    ],
+    "home_daily": [
+      {
+        "term": "Var är nyckeln ?"
+      },
+      {
+        "term": "Nyckeln ligger på bordet ."
+      },
+      {
+        "term": "Är ditt hus stort ?"
+      },
+      {
+        "term": "Huset är litet , men jag gillar det ."
+      },
+      {
+        "term": "Var äter du ?"
+      },
+      {
+        "term": "Jag äter i köket ."
+      }
+    ],
+    "verbs_actions": [
+      {
+        "term": "Vad vill du göra idag ?"
+      },
+      {
+        "term": "Jag vill äta och sova ."
+      },
+      {
+        "term": "Gillar du att läsa ?"
+      },
+      {
+        "term": "Ja , jag gillar att läsa och skriva ."
+      },
+      {
+        "term": "Ska vi gå en runda i stan ?"
+      },
+      {
+        "term": "Ja , nu går vi !"
+      }
+    ],
+    "body_health": [
+      {
+        "term": "Mår du bra ?"
+      },
+      {
+        "term": "Nej , jag har huvudvärk ."
+      },
+      {
+        "term": "Behöver du en läkare ?"
+      },
+      {
+        "term": "Ja , jag vill ha medicin ."
+      },
+      {
+        "term": "Ta hand om din hälsa !"
+      },
+      {
+        "term": "Tack , nu mår jag bättre ."
+      }
+    ],
+    "work_school": [
+      {
+        "term": "Ska du till skolan idag ?"
+      },
+      {
+        "term": "Ja , jag har ett prov ."
+      },
+      {
+        "term": "Är läraren bra ?"
+      },
+      {
+        "term": "Ja , jag gillar skolan ."
+      },
+      {
+        "term": "Jag läser en ny bok ."
+      },
+      {
+        "term": "Jag skriver i mitt block ."
+      }
+    ],
+    "time_weather": [
+      {
+        "term": "Hur är vädret idag ?"
+      },
+      {
+        "term": "Idag är det kallt och det regnar ."
+      },
+      {
+        "term": "Och imorgon ?"
+      },
+      {
+        "term": "Imorgon blir det en fin dag ."
+      },
+      {
+        "term": "Jag gillar morgonen ."
+      },
+      {
+        "term": "Himlen är blå nu ."
+      }
+    ],
+    "travel": [
+      {
+        "term": "Vart ska du resa ?"
+      },
+      {
+        "term": "Jag åker till staden med tåg ."
+      },
+      {
+        "term": "Var ligger hotellet ?"
+      },
+      {
+        "term": "Hotellet ligger nära stranden ."
+      },
+      {
+        "term": "Har du biljetten ?"
+      },
+      {
+        "term": "Ja , och mitt pass också ."
+      }
+    ],
+    "conversation": [
+      {
+        "term": "Hur mår du idag ?"
+      },
+      {
+        "term": "Jag är mycket glad !"
+      },
+      {
+        "term": "Varför ?"
+      },
+      {
+        "term": "För att idag är en bra dag ."
+      },
+      {
+        "term": "Jag tycker mycket om dig ."
+      },
+      {
+        "term": "Du är en bra vän ."
+      }
+    ]
+  }
+}

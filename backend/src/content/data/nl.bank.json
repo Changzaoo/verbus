@@ -1,0 +1,1111 @@
+{
+  "code": "nl",
+  "themes": {
+    "greetings": [
+      {
+        "pt": "olá",
+        "term": "hallo"
+      },
+      {
+        "pt": "tchau",
+        "term": "doei"
+      },
+      {
+        "pt": "obrigado(a)",
+        "term": "dank je wel"
+      },
+      {
+        "pt": "por favor",
+        "term": "alsjeblieft"
+      },
+      {
+        "pt": "sim",
+        "term": "ja"
+      },
+      {
+        "pt": "não",
+        "term": "nee"
+      },
+      {
+        "pt": "bom dia",
+        "term": "goedemorgen"
+      },
+      {
+        "pt": "boa noite",
+        "term": "goedenavond"
+      },
+      {
+        "pt": "desculpe",
+        "term": "sorry"
+      },
+      {
+        "pt": "com licença",
+        "term": "pardon"
+      },
+      {
+        "pt": "boa tarde",
+        "term": "goedemiddag"
+      },
+      {
+        "pt": "prazer em conhecer",
+        "term": "aangenaam kennis te maken"
+      },
+      {
+        "pt": "tudo bem?",
+        "term": "alles goed?"
+      },
+      {
+        "pt": "até logo",
+        "term": "tot ziens"
+      },
+      {
+        "pt": "de nada",
+        "term": "graag gedaan"
+      },
+      {
+        "pt": "com certeza",
+        "term": "zeker weten"
+      }
+    ],
+    "numbers_colors": [
+      {
+        "pt": "um",
+        "term": "een"
+      },
+      {
+        "pt": "dois",
+        "term": "twee"
+      },
+      {
+        "pt": "três",
+        "term": "drie"
+      },
+      {
+        "pt": "quatro",
+        "term": "vier"
+      },
+      {
+        "pt": "cinco",
+        "term": "vijf"
+      },
+      {
+        "pt": "vermelho",
+        "term": "rood"
+      },
+      {
+        "pt": "azul",
+        "term": "blauw"
+      },
+      {
+        "pt": "verde",
+        "term": "groen"
+      },
+      {
+        "pt": "amarelo",
+        "term": "geel"
+      },
+      {
+        "pt": "preto",
+        "term": "zwart"
+      },
+      {
+        "pt": "seis",
+        "term": "zes"
+      },
+      {
+        "pt": "sete",
+        "term": "zeven"
+      },
+      {
+        "pt": "oito",
+        "term": "acht"
+      },
+      {
+        "pt": "nove",
+        "term": "negen"
+      },
+      {
+        "pt": "dez",
+        "term": "tien"
+      },
+      {
+        "pt": "branco",
+        "term": "wit"
+      }
+    ],
+    "family": [
+      {
+        "pt": "mãe",
+        "term": "moeder"
+      },
+      {
+        "pt": "pai",
+        "term": "vader"
+      },
+      {
+        "pt": "irmão",
+        "term": "broer"
+      },
+      {
+        "pt": "irmã",
+        "term": "zus"
+      },
+      {
+        "pt": "avó",
+        "term": "oma"
+      },
+      {
+        "pt": "avô",
+        "term": "opa"
+      },
+      {
+        "pt": "filho",
+        "term": "zoon"
+      },
+      {
+        "pt": "filha",
+        "term": "dochter"
+      },
+      {
+        "pt": "amigo",
+        "term": "vriend"
+      },
+      {
+        "pt": "família",
+        "term": "familie"
+      },
+      {
+        "pt": "marido",
+        "term": "echtgenoot"
+      },
+      {
+        "pt": "esposa",
+        "term": "echtgenote"
+      },
+      {
+        "pt": "tio",
+        "term": "oom"
+      },
+      {
+        "pt": "tia",
+        "term": "tante"
+      },
+      {
+        "pt": "primo",
+        "term": "neef"
+      },
+      {
+        "pt": "bebê",
+        "term": "baby"
+      }
+    ],
+    "food": [
+      {
+        "pt": "água",
+        "term": "water"
+      },
+      {
+        "pt": "pão",
+        "term": "brood"
+      },
+      {
+        "pt": "maçã",
+        "term": "appel"
+      },
+      {
+        "pt": "leite",
+        "term": "melk"
+      },
+      {
+        "pt": "café",
+        "term": "koffie"
+      },
+      {
+        "pt": "arroz",
+        "term": "rijst"
+      },
+      {
+        "pt": "queijo",
+        "term": "kaas"
+      },
+      {
+        "pt": "ovo",
+        "term": "ei"
+      },
+      {
+        "pt": "fruta",
+        "term": "fruit"
+      },
+      {
+        "pt": "carne",
+        "term": "vlees"
+      },
+      {
+        "pt": "sopa",
+        "term": "soep"
+      },
+      {
+        "pt": "salada",
+        "term": "salade"
+      },
+      {
+        "pt": "açúcar",
+        "term": "suiker"
+      },
+      {
+        "pt": "sal",
+        "term": "zout"
+      },
+      {
+        "pt": "suco",
+        "term": "sap"
+      },
+      {
+        "pt": "bolo",
+        "term": "taart"
+      }
+    ],
+    "animals_nature": [
+      {
+        "pt": "cachorro",
+        "term": "hond"
+      },
+      {
+        "pt": "gato",
+        "term": "kat"
+      },
+      {
+        "pt": "pássaro",
+        "term": "vogel"
+      },
+      {
+        "pt": "peixe",
+        "term": "vis"
+      },
+      {
+        "pt": "cavalo",
+        "term": "paard"
+      },
+      {
+        "pt": "árvore",
+        "term": "boom"
+      },
+      {
+        "pt": "sol",
+        "term": "zon"
+      },
+      {
+        "pt": "lua",
+        "term": "maan"
+      },
+      {
+        "pt": "flor",
+        "term": "bloem"
+      },
+      {
+        "pt": "rio",
+        "term": "rivier"
+      },
+      {
+        "pt": "vaca",
+        "term": "koe"
+      },
+      {
+        "pt": "galinha",
+        "term": "kip"
+      },
+      {
+        "pt": "coelho",
+        "term": "konijn"
+      },
+      {
+        "pt": "montanha",
+        "term": "berg"
+      },
+      {
+        "pt": "mar",
+        "term": "zee"
+      },
+      {
+        "pt": "estrela",
+        "term": "ster"
+      }
+    ],
+    "home_daily": [
+      {
+        "pt": "casa",
+        "term": "huis"
+      },
+      {
+        "pt": "porta",
+        "term": "deur"
+      },
+      {
+        "pt": "mesa",
+        "term": "tafel"
+      },
+      {
+        "pt": "cama",
+        "term": "bed"
+      },
+      {
+        "pt": "cadeira",
+        "term": "stoel"
+      },
+      {
+        "pt": "janela",
+        "term": "raam"
+      },
+      {
+        "pt": "cozinha",
+        "term": "keuken"
+      },
+      {
+        "pt": "banheiro",
+        "term": "badkamer"
+      },
+      {
+        "pt": "chave",
+        "term": "sleutel"
+      },
+      {
+        "pt": "relógio",
+        "term": "klok"
+      },
+      {
+        "pt": "sofá",
+        "term": "bank"
+      },
+      {
+        "pt": "espelho",
+        "term": "spiegel"
+      },
+      {
+        "pt": "prato",
+        "term": "bord"
+      },
+      {
+        "pt": "copo",
+        "term": "glas"
+      },
+      {
+        "pt": "sabonete",
+        "term": "zeep"
+      },
+      {
+        "pt": "toalha",
+        "term": "handdoek"
+      }
+    ],
+    "verbs_actions": [
+      {
+        "pt": "ser",
+        "term": "zijn"
+      },
+      {
+        "pt": "ter",
+        "term": "hebben"
+      },
+      {
+        "pt": "ir",
+        "term": "gaan"
+      },
+      {
+        "pt": "comer",
+        "term": "eten"
+      },
+      {
+        "pt": "beber",
+        "term": "drinken"
+      },
+      {
+        "pt": "falar",
+        "term": "praten"
+      },
+      {
+        "pt": "ver",
+        "term": "zien"
+      },
+      {
+        "pt": "ouvir",
+        "term": "horen"
+      },
+      {
+        "pt": "ler",
+        "term": "lezen"
+      },
+      {
+        "pt": "escrever",
+        "term": "schrijven"
+      },
+      {
+        "pt": "querer",
+        "term": "willen"
+      },
+      {
+        "pt": "fazer",
+        "term": "doen"
+      },
+      {
+        "pt": "dormir",
+        "term": "slapen"
+      },
+      {
+        "pt": "andar",
+        "term": "lopen"
+      },
+      {
+        "pt": "comprar",
+        "term": "kopen"
+      },
+      {
+        "pt": "gostar",
+        "term": "leuk vinden"
+      }
+    ],
+    "body_health": [
+      {
+        "pt": "cabeça",
+        "term": "hoofd"
+      },
+      {
+        "pt": "cabelo",
+        "term": "haar"
+      },
+      {
+        "pt": "olho",
+        "term": "oog"
+      },
+      {
+        "pt": "nariz",
+        "term": "neus"
+      },
+      {
+        "pt": "boca",
+        "term": "mond"
+      },
+      {
+        "pt": "dente",
+        "term": "tand"
+      },
+      {
+        "pt": "orelha",
+        "term": "oor"
+      },
+      {
+        "pt": "mão",
+        "term": "hand"
+      },
+      {
+        "pt": "braço",
+        "term": "arm"
+      },
+      {
+        "pt": "perna",
+        "term": "been"
+      },
+      {
+        "pt": "pé",
+        "term": "voet"
+      },
+      {
+        "pt": "coração",
+        "term": "hart"
+      },
+      {
+        "pt": "médico",
+        "term": "dokter"
+      },
+      {
+        "pt": "remédio",
+        "term": "medicijn"
+      },
+      {
+        "pt": "dor",
+        "term": "pijn"
+      },
+      {
+        "pt": "saúde",
+        "term": "gezondheid"
+      }
+    ],
+    "work_school": [
+      {
+        "pt": "escola",
+        "term": "school"
+      },
+      {
+        "pt": "professor",
+        "term": "leraar"
+      },
+      {
+        "pt": "aluno",
+        "term": "leerling"
+      },
+      {
+        "pt": "livro",
+        "term": "boek"
+      },
+      {
+        "pt": "caneta",
+        "term": "pen"
+      },
+      {
+        "pt": "papel",
+        "term": "papier"
+      },
+      {
+        "pt": "lápis",
+        "term": "potlood"
+      },
+      {
+        "pt": "computador",
+        "term": "computer"
+      },
+      {
+        "pt": "trabalho",
+        "term": "werk"
+      },
+      {
+        "pt": "dinheiro",
+        "term": "geld"
+      },
+      {
+        "pt": "emprego",
+        "term": "baan"
+      },
+      {
+        "pt": "aula",
+        "term": "les"
+      },
+      {
+        "pt": "prova",
+        "term": "toets"
+      },
+      {
+        "pt": "escritório",
+        "term": "kantoor"
+      },
+      {
+        "pt": "reunião",
+        "term": "vergadering"
+      },
+      {
+        "pt": "ideia",
+        "term": "idee"
+      }
+    ],
+    "time_weather": [
+      {
+        "pt": "dia",
+        "term": "dag"
+      },
+      {
+        "pt": "noite",
+        "term": "nacht"
+      },
+      {
+        "pt": "manhã",
+        "term": "ochtend"
+      },
+      {
+        "pt": "tarde",
+        "term": "middag"
+      },
+      {
+        "pt": "semana",
+        "term": "week"
+      },
+      {
+        "pt": "mês",
+        "term": "maand"
+      },
+      {
+        "pt": "ano",
+        "term": "jaar"
+      },
+      {
+        "pt": "hora",
+        "term": "uur"
+      },
+      {
+        "pt": "minuto",
+        "term": "minuut"
+      },
+      {
+        "pt": "chuva",
+        "term": "regen"
+      },
+      {
+        "pt": "neve",
+        "term": "sneeuw"
+      },
+      {
+        "pt": "vento",
+        "term": "wind"
+      },
+      {
+        "pt": "calor",
+        "term": "warmte"
+      },
+      {
+        "pt": "frio",
+        "term": "kou"
+      },
+      {
+        "pt": "nuvem",
+        "term": "wolk"
+      },
+      {
+        "pt": "céu",
+        "term": "lucht"
+      }
+    ],
+    "travel": [
+      {
+        "pt": "cidade",
+        "term": "stad"
+      },
+      {
+        "pt": "rua",
+        "term": "straat"
+      },
+      {
+        "pt": "carro",
+        "term": "auto"
+      },
+      {
+        "pt": "ônibus",
+        "term": "bus"
+      },
+      {
+        "pt": "hotel",
+        "term": "hotel"
+      },
+      {
+        "pt": "mapa",
+        "term": "kaart"
+      },
+      {
+        "pt": "praia",
+        "term": "strand"
+      },
+      {
+        "pt": "aeroporto",
+        "term": "vliegveld"
+      },
+      {
+        "pt": "trem",
+        "term": "trein"
+      },
+      {
+        "pt": "bilhete",
+        "term": "kaartje"
+      },
+      {
+        "pt": "avião",
+        "term": "vliegtuig"
+      },
+      {
+        "pt": "barco",
+        "term": "boot"
+      },
+      {
+        "pt": "estação",
+        "term": "station"
+      },
+      {
+        "pt": "passaporte",
+        "term": "paspoort"
+      },
+      {
+        "pt": "mala",
+        "term": "koffer"
+      },
+      {
+        "pt": "táxi",
+        "term": "taxi"
+      }
+    ],
+    "conversation": [
+      {
+        "pt": "amor",
+        "term": "liefde"
+      },
+      {
+        "pt": "feliz",
+        "term": "blij"
+      },
+      {
+        "pt": "triste",
+        "term": "verdrietig"
+      },
+      {
+        "pt": "hoje",
+        "term": "vandaag"
+      },
+      {
+        "pt": "amanhã",
+        "term": "morgen"
+      },
+      {
+        "pt": "bonito",
+        "term": "mooi"
+      },
+      {
+        "pt": "grande",
+        "term": "groot"
+      },
+      {
+        "pt": "pequeno",
+        "term": "klein"
+      },
+      {
+        "pt": "novo",
+        "term": "nieuw"
+      },
+      {
+        "pt": "bem",
+        "term": "goed"
+      },
+      {
+        "pt": "ontem",
+        "term": "gisteren"
+      },
+      {
+        "pt": "agora",
+        "term": "nu"
+      },
+      {
+        "pt": "aqui",
+        "term": "hier"
+      },
+      {
+        "pt": "muito",
+        "term": "veel"
+      },
+      {
+        "pt": "pouco",
+        "term": "weinig"
+      },
+      {
+        "pt": "também",
+        "term": "ook"
+      }
+    ]
+  },
+  "sentences": {
+    "greetings": [
+      {
+        "pt": "Olá, tudo bem?",
+        "term": "Hallo , alles goed ?"
+      },
+      {
+        "pt": "Bom dia!",
+        "term": "Goedemorgen !"
+      },
+      {
+        "pt": "Muito obrigado.",
+        "term": "Heel erg bedankt ."
+      },
+      {
+        "pt": "Boa noite, mãe.",
+        "term": "Welterusten , mama ."
+      },
+      {
+        "pt": "Até logo, amigo!",
+        "term": "Tot ziens , vriend !"
+      },
+      {
+        "pt": "Sim, por favor.",
+        "term": "Ja , alsjeblieft ."
+      }
+    ],
+    "numbers_colors": [
+      {
+        "pt": "Eu tenho dois gatos.",
+        "term": "Ik heb twee katten ."
+      },
+      {
+        "pt": "A casa é azul.",
+        "term": "Het huis is blauw ."
+      },
+      {
+        "pt": "Eu vejo três flores.",
+        "term": "Ik zie drie bloemen ."
+      },
+      {
+        "pt": "O carro é vermelho.",
+        "term": "De auto is rood ."
+      },
+      {
+        "pt": "Tenho cinco amigos.",
+        "term": "Ik heb vijf vrienden ."
+      },
+      {
+        "pt": "A porta é branca.",
+        "term": "De deur is wit ."
+      }
+    ],
+    "family": [
+      {
+        "pt": "Esta é a minha mãe.",
+        "term": "Dit is mijn moeder ."
+      },
+      {
+        "pt": "Eu amo a minha família.",
+        "term": "Ik hou van mijn familie ."
+      },
+      {
+        "pt": "O meu pai é grande.",
+        "term": "Mijn vader is groot ."
+      },
+      {
+        "pt": "Tenho um irmão e uma irmã.",
+        "term": "Ik heb een broer en een zus ."
+      },
+      {
+        "pt": "A minha avó é bonita.",
+        "term": "Mijn oma is mooi ."
+      },
+      {
+        "pt": "O bebê dorme agora.",
+        "term": "De baby slaapt nu ."
+      }
+    ],
+    "food": [
+      {
+        "pt": "Eu bebo água.",
+        "term": "Ik drink water ."
+      },
+      {
+        "pt": "Eu como pão.",
+        "term": "Ik eet brood ."
+      },
+      {
+        "pt": "Eu gosto de café.",
+        "term": "Ik hou van koffie ."
+      },
+      {
+        "pt": "Quero uma maçã.",
+        "term": "Ik wil een appel ."
+      },
+      {
+        "pt": "A sopa é boa.",
+        "term": "De soep is lekker ."
+      },
+      {
+        "pt": "Você quer suco?",
+        "term": "Wil je sap ?"
+      }
+    ],
+    "animals_nature": [
+      {
+        "pt": "O cachorro é grande.",
+        "term": "De hond is groot ."
+      },
+      {
+        "pt": "Eu vejo um pássaro.",
+        "term": "Ik zie een vogel ."
+      },
+      {
+        "pt": "O gato dorme na cama.",
+        "term": "De kat slaapt op het bed ."
+      },
+      {
+        "pt": "O sol é amarelo.",
+        "term": "De zon is geel ."
+      },
+      {
+        "pt": "A árvore é grande.",
+        "term": "De boom is groot ."
+      },
+      {
+        "pt": "O peixe está no rio.",
+        "term": "De vis zit in de rivier ."
+      }
+    ],
+    "home_daily": [
+      {
+        "pt": "A chave está na mesa.",
+        "term": "De sleutel ligt op de tafel ."
+      },
+      {
+        "pt": "A cama é grande.",
+        "term": "Het bed is groot ."
+      },
+      {
+        "pt": "Eu como na cozinha.",
+        "term": "Ik eet in de keuken ."
+      },
+      {
+        "pt": "O copo está na mesa.",
+        "term": "Het glas staat op de tafel ."
+      },
+      {
+        "pt": "A janela é pequena.",
+        "term": "Het raam is klein ."
+      },
+      {
+        "pt": "Eu gosto da minha casa.",
+        "term": "Ik hou van mijn huis ."
+      }
+    ],
+    "verbs_actions": [
+      {
+        "pt": "Eu quero comer.",
+        "term": "Ik wil eten ."
+      },
+      {
+        "pt": "Você gosta de ler?",
+        "term": "Hou je van lezen ?"
+      },
+      {
+        "pt": "Nós vamos andar.",
+        "term": "Wij gaan lopen ."
+      },
+      {
+        "pt": "Ele quer dormir.",
+        "term": "Hij wil slapen ."
+      },
+      {
+        "pt": "Eu gosto de falar.",
+        "term": "Ik hou van praten ."
+      },
+      {
+        "pt": "Eu vou comprar pão.",
+        "term": "Ik ga brood kopen ."
+      }
+    ],
+    "body_health": [
+      {
+        "pt": "Eu tenho dor de cabeça.",
+        "term": "Ik heb hoofdpijn ."
+      },
+      {
+        "pt": "O médico é bom.",
+        "term": "De dokter is goed ."
+      },
+      {
+        "pt": "Eu tenho dois olhos.",
+        "term": "Ik heb twee ogen ."
+      },
+      {
+        "pt": "As minhas mãos estão frias.",
+        "term": "Mijn handen zijn koud ."
+      },
+      {
+        "pt": "O meu coração é grande.",
+        "term": "Mijn hart is groot ."
+      },
+      {
+        "pt": "Eu quero saúde.",
+        "term": "Ik wil gezondheid ."
+      }
+    ],
+    "work_school": [
+      {
+        "pt": "Eu vou à escola.",
+        "term": "Ik ga naar school ."
+      },
+      {
+        "pt": "O professor é bom.",
+        "term": "De leraar is goed ."
+      },
+      {
+        "pt": "Eu leio um livro.",
+        "term": "Ik lees een boek ."
+      },
+      {
+        "pt": "Eu gosto da escola.",
+        "term": "Ik hou van school ."
+      },
+      {
+        "pt": "Tenho uma caneta nova.",
+        "term": "Ik heb een nieuwe pen ."
+      },
+      {
+        "pt": "Eu escrevo no papel.",
+        "term": "Ik schrijf op het papier ."
+      }
+    ],
+    "time_weather": [
+      {
+        "pt": "Hoje está frio.",
+        "term": "Vandaag is het koud ."
+      },
+      {
+        "pt": "Hoje tem chuva.",
+        "term": "Vandaag regent het ."
+      },
+      {
+        "pt": "O dia está bonito.",
+        "term": "De dag is mooi ."
+      },
+      {
+        "pt": "A manhã está fria.",
+        "term": "De ochtend is koud ."
+      },
+      {
+        "pt": "Gosto da noite.",
+        "term": "Ik hou van de nacht ."
+      },
+      {
+        "pt": "O céu é azul.",
+        "term": "De lucht is blauw ."
+      }
+    ],
+    "travel": [
+      {
+        "pt": "Onde fica o hotel?",
+        "term": "Waar is het hotel ?"
+      },
+      {
+        "pt": "Eu vou de carro.",
+        "term": "Ik ga met de auto ."
+      },
+      {
+        "pt": "A praia é bonita.",
+        "term": "Het strand is mooi ."
+      },
+      {
+        "pt": "Quero um bilhete, por favor.",
+        "term": "Ik wil een kaartje , alsjeblieft ."
+      },
+      {
+        "pt": "O trem é grande.",
+        "term": "De trein is groot ."
+      },
+      {
+        "pt": "A cidade é bonita.",
+        "term": "De stad is mooi ."
+      }
+    ],
+    "conversation": [
+      {
+        "pt": "Eu estou feliz hoje.",
+        "term": "Ik ben vandaag blij ."
+      },
+      {
+        "pt": "Amanhã eu vou.",
+        "term": "Morgen ga ik ."
+      },
+      {
+        "pt": "Eu gosto muito de você.",
+        "term": "Ik hou heel veel van jou ."
+      },
+      {
+        "pt": "Hoje é um bom dia.",
+        "term": "Vandaag is een goede dag ."
+      },
+      {
+        "pt": "Eu estou aqui agora.",
+        "term": "Ik ben nu hier ."
+      },
+      {
+        "pt": "Você é muito bonito.",
+        "term": "Jij bent heel knap ."
+      }
+    ]
+  }
+}

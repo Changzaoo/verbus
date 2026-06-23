@@ -1,0 +1,317 @@
+{
+  "code": "zh",
+  "lines": {
+    "greetings": [
+      {
+        "term": "你好 ！ 早上 好 ！",
+        "roman": "Nǐ hǎo ! Zǎoshang hǎo !"
+      },
+      {
+        "term": "早上 好 ！ 你 好 吗 ？",
+        "roman": "Zǎoshang hǎo ! Nǐ hǎo ma ?"
+      },
+      {
+        "term": "我 很 好 ， 谢谢 ！ 你 呢 ？",
+        "roman": "Wǒ hěn hǎo , xièxie ! Nǐ ne ?"
+      },
+      {
+        "term": "我 很 好 ！ 很 高兴 见到 你 。",
+        "roman": "Wǒ hěn hǎo ! Hěn gāoxìng jiàndào nǐ ."
+      },
+      {
+        "term": "回头 见 ， 朋友 ！",
+        "roman": "Huítóu jiàn , péngyou !"
+      },
+      {
+        "term": "再见 ！ 回头 见 ！",
+        "roman": "Zàijiàn ! Huítóu jiàn !"
+      }
+    ],
+    "numbers_colors": [
+      {
+        "term": "你 养 了 几 只 猫 ？",
+        "roman": "Nǐ yǎng le jǐ zhī māo ?"
+      },
+      {
+        "term": "我 养 了 两 只 猫 。",
+        "roman": "Wǒ yǎng le liǎng zhī māo ."
+      },
+      {
+        "term": "你 的 房子 是 什么 颜色 的 ？",
+        "roman": "Nǐ de fángzi shì shénme yánsè de ?"
+      },
+      {
+        "term": "我 的 房子 是 蓝色 的 。",
+        "roman": "Wǒ de fángzi shì lánsè de ."
+      },
+      {
+        "term": "我 看到 三 朵 红色 的 花 。",
+        "roman": "Wǒ kàndào sān duǒ hóngsè de huā ."
+      },
+      {
+        "term": "真 漂亮 ！",
+        "roman": "Zhēn piàoliang !"
+      }
+    ],
+    "family": [
+      {
+        "term": "这 是 你 的 家人 吗 ？",
+        "roman": "Zhè shì nǐ de jiārén ma ?"
+      },
+      {
+        "term": "是 的 ， 这 是 我 妈妈 。",
+        "roman": "Shì de , zhè shì wǒ māma ."
+      },
+      {
+        "term": "那 他 是 谁 ？",
+        "roman": "Nà tā shì shéi ?"
+      },
+      {
+        "term": "他 是 我 爸爸 。 我 还 有 一 个 哥哥 。",
+        "roman": "Tā shì wǒ bàba . Wǒ hái yǒu yí gè gēge ."
+      },
+      {
+        "term": "你 的 家庭 真 大 ！",
+        "roman": "Nǐ de jiātíng zhēn dà !"
+      },
+      {
+        "term": "我 爱 我 的 家人 。",
+        "roman": "Wǒ ài wǒ de jiārén ."
+      }
+    ],
+    "food": [
+      {
+        "term": "你 想 吃 东西 吗 ？",
+        "roman": "Nǐ xiǎng chī dōngxi ma ?"
+      },
+      {
+        "term": "想 ， 我 吃 面包 和 奶酪 。",
+        "roman": "Xiǎng , wǒ chī miànbāo hé nǎilào ."
+      },
+      {
+        "term": "你 想 喝 水 吗 ？",
+        "roman": "Nǐ xiǎng hē shuǐ ma ?"
+      },
+      {
+        "term": "不 ， 我 喜欢 喝 咖啡 。",
+        "roman": "Bù , wǒ xǐhuan hē kāfēi ."
+      },
+      {
+        "term": "汤 做 好 了 ！",
+        "roman": "Tāng zuò hǎo le !"
+      },
+      {
+        "term": "谢谢 ， 这 汤 很 好喝 。",
+        "roman": "Xièxie , zhè tāng hěn hǎohē ."
+      }
+    ],
+    "animals_nature": [
+      {
+        "term": "看 ， 我 看到 一 只 鸟 ！",
+        "roman": "Kàn , wǒ kàndào yì zhī niǎo !"
+      },
+      {
+        "term": "那 只 鸟 在 树 上 。",
+        "roman": "Nà zhī niǎo zài shù shàng ."
+      },
+      {
+        "term": "你 的 狗 大 吗 ？",
+        "roman": "Nǐ de gǒu dà ma ?"
+      },
+      {
+        "term": "大 ， 而且 那 只 猫 在 床 上 睡觉 。",
+        "roman": "Dà , érqiě nà zhī māo zài chuáng shàng shuìjiào ."
+      },
+      {
+        "term": "今天 的 太阳 真 美 。",
+        "roman": "Jīntiān de tàiyáng zhēn měi ."
+      },
+      {
+        "term": "我 喜欢 这 条 河 和 这些 花 。",
+        "roman": "Wǒ xǐhuan zhè tiáo hé hé zhèxiē huā ."
+      }
+    ],
+    "home_daily": [
+      {
+        "term": "钥匙 在 哪里 ？",
+        "roman": "Yàoshi zài nǎlǐ ?"
+      },
+      {
+        "term": "钥匙 在 桌子 上 。",
+        "roman": "Yàoshi zài zhuōzi shàng ."
+      },
+      {
+        "term": "你 的 房子 大 吗 ？",
+        "roman": "Nǐ de fángzi dà ma ?"
+      },
+      {
+        "term": "房子 很 小 ， 但 我 喜欢 它 。",
+        "roman": "Fángzi hěn xiǎo , dàn wǒ xǐhuan tā ."
+      },
+      {
+        "term": "你 在 哪里 吃饭 ？",
+        "roman": "Nǐ zài nǎlǐ chīfàn ?"
+      },
+      {
+        "term": "我 在 厨房 吃饭 。",
+        "roman": "Wǒ zài chúfáng chīfàn ."
+      }
+    ],
+    "verbs_actions": [
+      {
+        "term": "你 今天 想 做 什么 ？",
+        "roman": "Nǐ jīntiān xiǎng zuò shénme ?"
+      },
+      {
+        "term": "我 想 吃饭 和 睡觉 。",
+        "roman": "Wǒ xiǎng chīfàn hé shuìjiào ."
+      },
+      {
+        "term": "你 喜欢 看书 吗 ？",
+        "roman": "Nǐ xǐhuan kànshū ma ?"
+      },
+      {
+        "term": "喜欢 ， 我 喜欢 看书 和 写字 。",
+        "roman": "Xǐhuan , wǒ xǐhuan kànshū hé xiězì ."
+      },
+      {
+        "term": "我们 去 城里 走走 吧 ？",
+        "roman": "Wǒmen qù chénglǐ zǒuzou ba ?"
+      },
+      {
+        "term": "好 ， 走 吧 ！",
+        "roman": "Hǎo , zǒu ba !"
+      }
+    ],
+    "body_health": [
+      {
+        "term": "你 还 好 吗 ？",
+        "roman": "Nǐ hái hǎo ma ?"
+      },
+      {
+        "term": "不 好 ， 我 头疼 。",
+        "roman": "Bù hǎo , wǒ tóuténg ."
+      },
+      {
+        "term": "你 需要 看 医生 吗 ？",
+        "roman": "Nǐ xūyào kàn yīshēng ma ?"
+      },
+      {
+        "term": "需要 ， 我 想 要 点 药 。",
+        "roman": "Xūyào , wǒ xiǎng yào diǎn yào ."
+      },
+      {
+        "term": "注意 身体 ！",
+        "roman": "Zhùyì shēntǐ !"
+      },
+      {
+        "term": "谢谢 ， 我 现在 好 多 了 。",
+        "roman": "Xièxie , wǒ xiànzài hǎo duō le ."
+      }
+    ],
+    "work_school": [
+      {
+        "term": "你 今天 去 学校 吗 ？",
+        "roman": "Nǐ jīntiān qù xuéxiào ma ?"
+      },
+      {
+        "term": "去 ， 我 有 一 场 考试 。",
+        "roman": "Qù , wǒ yǒu yì chǎng kǎoshì ."
+      },
+      {
+        "term": "老师 好 吗 ？",
+        "roman": "Lǎoshī hǎo ma ?"
+      },
+      {
+        "term": "好 ， 我 喜欢 学校 。",
+        "roman": "Hǎo , wǒ xǐhuan xuéxiào ."
+      },
+      {
+        "term": "我 在 读 一 本 新 书 。",
+        "roman": "Wǒ zài dú yì běn xīn shū ."
+      },
+      {
+        "term": "我 在 我 的 本子 上 写字 。",
+        "roman": "Wǒ zài wǒ de běnzi shàng xiězì ."
+      }
+    ],
+    "time_weather": [
+      {
+        "term": "今天 天气 怎么样 ？",
+        "roman": "Jīntiān tiānqì zěnmeyàng ?"
+      },
+      {
+        "term": "今天 很 冷 ， 还 下雨 。",
+        "roman": "Jīntiān hěn lěng , hái xiàyǔ ."
+      },
+      {
+        "term": "那 明天 呢 ？",
+        "roman": "Nà míngtiān ne ?"
+      },
+      {
+        "term": "明天 天气 会 很 好 。",
+        "roman": "Míngtiān tiānqì huì hěn hǎo ."
+      },
+      {
+        "term": "我 喜欢 早晨 。",
+        "roman": "Wǒ xǐhuan zǎochén ."
+      },
+      {
+        "term": "现在 天空 是 蓝色 的 。",
+        "roman": "Xiànzài tiānkōng shì lánsè de ."
+      }
+    ],
+    "travel": [
+      {
+        "term": "你 要 去 哪里 旅行 ？",
+        "roman": "Nǐ yào qù nǎlǐ lǚxíng ?"
+      },
+      {
+        "term": "我 要 坐 火车 去 城里 。",
+        "roman": "Wǒ yào zuò huǒchē qù chénglǐ ."
+      },
+      {
+        "term": "酒店 在 哪里 ？",
+        "roman": "Jiǔdiàn zài nǎlǐ ?"
+      },
+      {
+        "term": "酒店 在 海滩 附近 。",
+        "roman": "Jiǔdiàn zài hǎitān fùjìn ."
+      },
+      {
+        "term": "你 带 车票 了 吗 ？",
+        "roman": "Nǐ dài chēpiào le ma ?"
+      },
+      {
+        "term": "带 了 ， 我 的 护照 也 带 了 。",
+        "roman": "Dài le , wǒ de hùzhào yě dài le ."
+      }
+    ],
+    "conversation": [
+      {
+        "term": "你 今天 怎么样 ？",
+        "roman": "Nǐ jīntiān zěnmeyàng ?"
+      },
+      {
+        "term": "我 非常 开心 ！",
+        "roman": "Wǒ fēicháng kāixīn !"
+      },
+      {
+        "term": "为什么 ？",
+        "roman": "Wèishénme ?"
+      },
+      {
+        "term": "因为 今天 是 个 好 日子 。",
+        "roman": "Yīnwèi jīntiān shì gè hǎo rìzi ."
+      },
+      {
+        "term": "我 很 喜欢 你 。",
+        "roman": "Wǒ hěn xǐhuan nǐ ."
+      },
+      {
+        "term": "你 是 个 好 朋友 。",
+        "roman": "Nǐ shì gè hǎo péngyou ."
+      }
+    ]
+  }
+}

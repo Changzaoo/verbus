@@ -1,0 +1,317 @@
+{
+  "code": "ja",
+  "lines": {
+    "greetings": [
+      {
+        "term": "やあ ！ おはよう ！",
+        "roman": "yaa ! ohayou !"
+      },
+      {
+        "term": "おはよう ！ 元気 ？",
+        "roman": "ohayou ! genki ?"
+      },
+      {
+        "term": "元気 だ よ 、 ありがとう ！ 君 は ？",
+        "roman": "genki da yo , arigatou ! kimi wa ?"
+      },
+      {
+        "term": "元気 だ よ ！ 会え て うれしい な 。",
+        "roman": "genki da yo ! aete ureshii na ."
+      },
+      {
+        "term": "じゃあ ね 、 友達 ！",
+        "roman": "jaa ne , tomodachi !"
+      },
+      {
+        "term": "バイバイ ！ また ね ！",
+        "roman": "baibai ! mata ne !"
+      }
+    ],
+    "numbers_colors": [
+      {
+        "term": "猫 を 何 匹 飼っ て いる の ？",
+        "roman": "neko o nan biki katte iru no ?"
+      },
+      {
+        "term": "猫 を 二 匹 飼っ て いる よ 。",
+        "roman": "neko o ni hiki katte iru yo ."
+      },
+      {
+        "term": "君 の 家 は 何 色 ？",
+        "roman": "kimi no ie wa nani iro ?"
+      },
+      {
+        "term": "私 の 家 は 青い よ 。",
+        "roman": "watashi no ie wa aoi yo ."
+      },
+      {
+        "term": "赤い 花 が 三 つ 見える 。",
+        "roman": "akai hana ga mittsu mieru ."
+      },
+      {
+        "term": "きれい だ ね ！",
+        "roman": "kirei da ne !"
+      }
+    ],
+    "family": [
+      {
+        "term": "これ は 君 の 家族 ？",
+        "roman": "kore wa kimi no kazoku ?"
+      },
+      {
+        "term": "うん 、 これ は 私 の 母 だ よ 。",
+        "roman": "un , kore wa watashi no haha da yo ."
+      },
+      {
+        "term": "じゃあ 、 彼 は 誰 ？",
+        "roman": "jaa , kare wa dare ?"
+      },
+      {
+        "term": "彼 は 私 の 父 だ よ 。 兄 も いる の 。",
+        "roman": "kare wa watashi no chichi da yo . ani mo iru no ."
+      },
+      {
+        "term": "君 の 家族 は 大きい ね ！",
+        "roman": "kimi no kazoku wa ookii ne !"
+      },
+      {
+        "term": "私 は 家族 が 大好き 。",
+        "roman": "watashi wa kazoku ga daisuki ."
+      }
+    ],
+    "food": [
+      {
+        "term": "何 か 食べ たい ？",
+        "roman": "nanika tabetai ?"
+      },
+      {
+        "term": "うん 、 私 は パン と チーズ を 食べる よ 。",
+        "roman": "un , watashi wa pan to chiizu o taberu yo ."
+      },
+      {
+        "term": "水 を 飲み たい ？",
+        "roman": "mizu o nomitai ?"
+      },
+      {
+        "term": "ううん 、 私 は コーヒー が 好き 。",
+        "roman": "uun , watashi wa koohii ga suki ."
+      },
+      {
+        "term": "スープ が でき た よ ！",
+        "roman": "suupu ga dekita yo !"
+      },
+      {
+        "term": "ありがとう 、 スープ は おいしい ね 。",
+        "roman": "arigatou , suupu wa oishii ne ."
+      }
+    ],
+    "animals_nature": [
+      {
+        "term": "見て 、 鳥 が いる よ ！",
+        "roman": "mite , tori ga iru yo !"
+      },
+      {
+        "term": "鳥 が 木 に とまっ て いる ね 。",
+        "roman": "tori ga ki ni tomatte iru ne ."
+      },
+      {
+        "term": "君 の 犬 は 大きい の ？",
+        "roman": "kimi no inu wa ookii no ?"
+      },
+      {
+        "term": "うん 、 そして 猫 は ベッド で 寝 て いる よ 。",
+        "roman": "un , soshite neko wa beddo de nete iru yo ."
+      },
+      {
+        "term": "今日 は 太陽 が きれい だ ね 。",
+        "roman": "kyou wa taiyou ga kirei da ne ."
+      },
+      {
+        "term": "私 は 川 と 花 が 好き 。",
+        "roman": "watashi wa kawa to hana ga suki ."
+      }
+    ],
+    "home_daily": [
+      {
+        "term": "鍵 は どこ ？",
+        "roman": "kagi wa doko ?"
+      },
+      {
+        "term": "鍵 は テーブル の 上 に ある よ 。",
+        "roman": "kagi wa teeburu no ue ni aru yo ."
+      },
+      {
+        "term": "君 の 家 は 大きい の ？",
+        "roman": "kimi no ie wa ookii no ?"
+      },
+      {
+        "term": "家 は 小さい けど 、 私 は 気に入っ て いる の 。",
+        "roman": "ie wa chiisai kedo , watashi wa kiniitte iru no ."
+      },
+      {
+        "term": "君 は どこ で 食べる の ？",
+        "roman": "kimi wa doko de taberu no ?"
+      },
+      {
+        "term": "私 は 台所 で 食べる よ 。",
+        "roman": "watashi wa daidokoro de taberu yo ."
+      }
+    ],
+    "verbs_actions": [
+      {
+        "term": "今日 は 何 を し たい ？",
+        "roman": "kyou wa nani o shitai ?"
+      },
+      {
+        "term": "私 は 食べ て 寝 たい な 。",
+        "roman": "watashi wa tabete netai na ."
+      },
+      {
+        "term": "君 は 読書 が 好き ？",
+        "roman": "kimi wa dokusho ga suki ?"
+      },
+      {
+        "term": "うん 、 私 は 読ん だり 書い たり する の が 好き 。",
+        "roman": "un , watashi wa yondari kaitari suru no ga suki ."
+      },
+      {
+        "term": "町 を 歩か ない ？",
+        "roman": "machi o arukanai ?"
+      },
+      {
+        "term": "うん 、 行こう ！",
+        "roman": "un , ikou !"
+      }
+    ],
+    "body_health": [
+      {
+        "term": "大丈夫 ？",
+        "roman": "daijoubu ?"
+      },
+      {
+        "term": "ううん 、 頭 が 痛い の 。",
+        "roman": "uun , atama ga itai no ."
+      },
+      {
+        "term": "医者 が 必要 ？",
+        "roman": "isha ga hitsuyou ?"
+      },
+      {
+        "term": "うん 、 薬 が ほしい の 。",
+        "roman": "un , kusuri ga hoshii no ."
+      },
+      {
+        "term": "体 を 大事 に ね ！",
+        "roman": "karada o daiji ni ne !"
+      },
+      {
+        "term": "ありがとう 、 もう よく なっ た よ 。",
+        "roman": "arigatou , mou yoku natta yo ."
+      }
+    ],
+    "work_school": [
+      {
+        "term": "今日 は 学校 に 行く の ？",
+        "roman": "kyou wa gakkou ni iku no ?"
+      },
+      {
+        "term": "うん 、 テスト が ある の 。",
+        "roman": "un , tesuto ga aru no ."
+      },
+      {
+        "term": "先生 は いい 人 ？",
+        "roman": "sensei wa ii hito ?"
+      },
+      {
+        "term": "うん 、 私 は 学校 が 好き 。",
+        "roman": "un , watashi wa gakkou ga suki ."
+      },
+      {
+        "term": "私 は 新しい 本 を 読む の 。",
+        "roman": "watashi wa atarashii hon o yomu no ."
+      },
+      {
+        "term": "私 は ノート に 書く の 。",
+        "roman": "watashi wa nooto ni kaku no ."
+      }
+    ],
+    "time_weather": [
+      {
+        "term": "今日 の 天気 は どう ？",
+        "roman": "kyou no tenki wa dou ?"
+      },
+      {
+        "term": "今日 は 寒く て 雨 が 降っ て いる よ 。",
+        "roman": "kyou wa samukute ame ga futte iru yo ."
+      },
+      {
+        "term": "じゃあ 、 明日 は ？",
+        "roman": "jaa , ashita wa ?"
+      },
+      {
+        "term": "明日 は いい 天気 に なる よ 。",
+        "roman": "ashita wa ii tenki ni naru yo ."
+      },
+      {
+        "term": "私 は 朝 が 好き 。",
+        "roman": "watashi wa asa ga suki ."
+      },
+      {
+        "term": "今 、 空 が 青い ね 。",
+        "roman": "ima , sora ga aoi ne ."
+      }
+    ],
+    "travel": [
+      {
+        "term": "どこ へ 旅行 に 行く の ？",
+        "roman": "doko e ryokou ni iku no ?"
+      },
+      {
+        "term": "私 は 電車 で 町 へ 行く よ 。",
+        "roman": "watashi wa densha de machi e iku yo ."
+      },
+      {
+        "term": "ホテル は どこ に ある の ？",
+        "roman": "hoteru wa doko ni aru no ?"
+      },
+      {
+        "term": "ホテル は 海 の 近く に ある よ 。",
+        "roman": "hoteru wa umi no chikaku ni aru yo ."
+      },
+      {
+        "term": "切符 は 持っ て いる ？",
+        "roman": "kippu wa motte iru ?"
+      },
+      {
+        "term": "うん 、 パスポート も 持っ て いる よ 。",
+        "roman": "un , pasupooto mo motte iru yo ."
+      }
+    ],
+    "conversation": [
+      {
+        "term": "今日 は 元気 ？",
+        "roman": "kyou wa genki ?"
+      },
+      {
+        "term": "私 は とても 幸せ だ よ ！",
+        "roman": "watashi wa totemo shiawase da yo !"
+      },
+      {
+        "term": "どうして ？",
+        "roman": "doushite ?"
+      },
+      {
+        "term": "今日 は いい 日 だ から 。",
+        "roman": "kyou wa ii hi da kara ."
+      },
+      {
+        "term": "私 は 君 が 大好き 。",
+        "roman": "watashi wa kimi ga daisuki ."
+      },
+      {
+        "term": "君 は いい 友達 だ ね 。",
+        "roman": "kimi wa ii tomodachi da ne ."
+      }
+    ]
+  }
+}

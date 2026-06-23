@@ -1,0 +1,1183 @@
+{
+  "code": "zh",
+  "themes": {
+    "greetings": [
+      {
+        "pt": "olá",
+        "term": "你好 (nǐ hǎo)"
+      },
+      {
+        "pt": "tchau",
+        "term": "再见 (zài jiàn)"
+      },
+      {
+        "pt": "obrigado(a)",
+        "term": "谢谢 (xiè xie)"
+      },
+      {
+        "pt": "por favor",
+        "term": "请 (qǐng)"
+      },
+      {
+        "pt": "sim",
+        "term": "是 (shì)"
+      },
+      {
+        "pt": "não",
+        "term": "不 (bù)"
+      },
+      {
+        "pt": "bom dia",
+        "term": "早上好 (zǎo shang hǎo)"
+      },
+      {
+        "pt": "boa noite",
+        "term": "晚安 (wǎn ān)"
+      },
+      {
+        "pt": "desculpe",
+        "term": "对不起 (duì bu qǐ)"
+      },
+      {
+        "pt": "com licença",
+        "term": "打扰一下 (dǎ rǎo yí xià)"
+      },
+      {
+        "pt": "boa tarde",
+        "term": "下午好 (xiàwǔ hǎo)"
+      },
+      {
+        "pt": "prazer em conhecer",
+        "term": "很高兴认识你 (hěn gāoxìng rènshi nǐ)"
+      },
+      {
+        "pt": "tudo bem?",
+        "term": "你好吗？ (nǐ hǎo ma?)"
+      },
+      {
+        "pt": "até logo",
+        "term": "回头见 (huítóu jiàn)"
+      },
+      {
+        "pt": "de nada",
+        "term": "不客气 (bù kèqì)"
+      },
+      {
+        "pt": "com certeza",
+        "term": "当然 (dāngrán)"
+      }
+    ],
+    "numbers_colors": [
+      {
+        "pt": "um",
+        "term": "一 (yī)"
+      },
+      {
+        "pt": "dois",
+        "term": "二 (èr)"
+      },
+      {
+        "pt": "três",
+        "term": "三 (sān)"
+      },
+      {
+        "pt": "quatro",
+        "term": "四 (sì)"
+      },
+      {
+        "pt": "cinco",
+        "term": "五 (wǔ)"
+      },
+      {
+        "pt": "vermelho",
+        "term": "红色 (hóng sè)"
+      },
+      {
+        "pt": "azul",
+        "term": "蓝色 (lán sè)"
+      },
+      {
+        "pt": "verde",
+        "term": "绿色 (lǜ sè)"
+      },
+      {
+        "pt": "amarelo",
+        "term": "黄色 (huáng sè)"
+      },
+      {
+        "pt": "preto",
+        "term": "黑色 (hēi sè)"
+      },
+      {
+        "pt": "seis",
+        "term": "六 (liù)"
+      },
+      {
+        "pt": "sete",
+        "term": "七 (qī)"
+      },
+      {
+        "pt": "oito",
+        "term": "八 (bā)"
+      },
+      {
+        "pt": "nove",
+        "term": "九 (jiǔ)"
+      },
+      {
+        "pt": "dez",
+        "term": "十 (shí)"
+      },
+      {
+        "pt": "branco",
+        "term": "白色 (báisè)"
+      }
+    ],
+    "family": [
+      {
+        "pt": "mãe",
+        "term": "妈妈 (mā ma)"
+      },
+      {
+        "pt": "pai",
+        "term": "爸爸 (bà ba)"
+      },
+      {
+        "pt": "irmão",
+        "term": "哥哥 (gē ge)"
+      },
+      {
+        "pt": "irmã",
+        "term": "姐姐 (jiě jie)"
+      },
+      {
+        "pt": "avó",
+        "term": "奶奶 (nǎi nai)"
+      },
+      {
+        "pt": "avô",
+        "term": "爷爷 (yé ye)"
+      },
+      {
+        "pt": "filho",
+        "term": "儿子 (ér zi)"
+      },
+      {
+        "pt": "filha",
+        "term": "女儿 (nǚ ér)"
+      },
+      {
+        "pt": "amigo",
+        "term": "朋友 (péng you)"
+      },
+      {
+        "pt": "família",
+        "term": "家庭 (jiā tíng)"
+      },
+      {
+        "pt": "marido",
+        "term": "丈夫 (zhàngfu)"
+      },
+      {
+        "pt": "esposa",
+        "term": "妻子 (qīzi)"
+      },
+      {
+        "pt": "tio",
+        "term": "叔叔 (shūshu)"
+      },
+      {
+        "pt": "tia",
+        "term": "阿姨 (āyí)"
+      },
+      {
+        "pt": "primo",
+        "term": "表哥 (biǎogē)"
+      },
+      {
+        "pt": "bebê",
+        "term": "婴儿 (yīng'ér)"
+      }
+    ],
+    "food": [
+      {
+        "pt": "água",
+        "term": "水 (shuǐ)"
+      },
+      {
+        "pt": "pão",
+        "term": "面包 (miàn bāo)"
+      },
+      {
+        "pt": "maçã",
+        "term": "苹果 (píng guǒ)"
+      },
+      {
+        "pt": "leite",
+        "term": "牛奶 (niú nǎi)"
+      },
+      {
+        "pt": "café",
+        "term": "咖啡 (kā fēi)"
+      },
+      {
+        "pt": "arroz",
+        "term": "米饭 (mǐ fàn)"
+      },
+      {
+        "pt": "queijo",
+        "term": "奶酪 (nǎi lào)"
+      },
+      {
+        "pt": "ovo",
+        "term": "鸡蛋 (jī dàn)"
+      },
+      {
+        "pt": "fruta",
+        "term": "水果 (shuǐ guǒ)"
+      },
+      {
+        "pt": "carne",
+        "term": "肉 (ròu)"
+      },
+      {
+        "pt": "sopa",
+        "term": "汤 (tāng)"
+      },
+      {
+        "pt": "salada",
+        "term": "沙拉 (shālā)"
+      },
+      {
+        "pt": "açúcar",
+        "term": "糖 (táng)"
+      },
+      {
+        "pt": "sal",
+        "term": "盐 (yán)"
+      },
+      {
+        "pt": "suco",
+        "term": "果汁 (guǒzhī)"
+      },
+      {
+        "pt": "bolo",
+        "term": "蛋糕 (dàngāo)"
+      }
+    ],
+    "animals_nature": [
+      {
+        "pt": "cachorro",
+        "term": "狗 (gǒu)"
+      },
+      {
+        "pt": "gato",
+        "term": "猫 (māo)"
+      },
+      {
+        "pt": "pássaro",
+        "term": "鸟 (niǎo)"
+      },
+      {
+        "pt": "peixe",
+        "term": "鱼 (yú)"
+      },
+      {
+        "pt": "cavalo",
+        "term": "马 (mǎ)"
+      },
+      {
+        "pt": "árvore",
+        "term": "树 (shù)"
+      },
+      {
+        "pt": "sol",
+        "term": "太阳 (tài yáng)"
+      },
+      {
+        "pt": "lua",
+        "term": "月亮 (yuè liang)"
+      },
+      {
+        "pt": "flor",
+        "term": "花 (huā)"
+      },
+      {
+        "pt": "rio",
+        "term": "河 (hé)"
+      },
+      {
+        "pt": "vaca",
+        "term": "奶牛 (nǎiniú)"
+      },
+      {
+        "pt": "galinha",
+        "term": "鸡 (jī)"
+      },
+      {
+        "pt": "coelho",
+        "term": "兔子 (tùzi)"
+      },
+      {
+        "pt": "montanha",
+        "term": "山 (shān)"
+      },
+      {
+        "pt": "mar",
+        "term": "海 (hǎi)"
+      },
+      {
+        "pt": "estrela",
+        "term": "星星 (xīngxing)"
+      }
+    ],
+    "home_daily": [
+      {
+        "pt": "casa",
+        "term": "家 (jiā)"
+      },
+      {
+        "pt": "porta",
+        "term": "门 (mén)"
+      },
+      {
+        "pt": "mesa",
+        "term": "桌子 (zhuō zi)"
+      },
+      {
+        "pt": "cama",
+        "term": "床 (chuáng)"
+      },
+      {
+        "pt": "cadeira",
+        "term": "椅子 (yǐ zi)"
+      },
+      {
+        "pt": "janela",
+        "term": "窗户 (chuāng hu)"
+      },
+      {
+        "pt": "cozinha",
+        "term": "厨房 (chú fáng)"
+      },
+      {
+        "pt": "banheiro",
+        "term": "浴室 (yù shì)"
+      },
+      {
+        "pt": "chave",
+        "term": "钥匙 (yào shi)"
+      },
+      {
+        "pt": "relógio",
+        "term": "钟 (zhōng)"
+      },
+      {
+        "pt": "sofá",
+        "term": "沙发 (shāfā)"
+      },
+      {
+        "pt": "espelho",
+        "term": "镜子 (jìngzi)"
+      },
+      {
+        "pt": "prato",
+        "term": "盘子 (pánzi)"
+      },
+      {
+        "pt": "copo",
+        "term": "杯子 (bēizi)"
+      },
+      {
+        "pt": "sabonete",
+        "term": "香皂 (xiāngzào)"
+      },
+      {
+        "pt": "toalha",
+        "term": "毛巾 (máojīn)"
+      }
+    ],
+    "verbs_actions": [
+      {
+        "pt": "ser",
+        "term": "是 (shì)"
+      },
+      {
+        "pt": "ter",
+        "term": "有 (yǒu)"
+      },
+      {
+        "pt": "ir",
+        "term": "去 (qù)"
+      },
+      {
+        "pt": "comer",
+        "term": "吃 (chī)"
+      },
+      {
+        "pt": "beber",
+        "term": "喝 (hē)"
+      },
+      {
+        "pt": "falar",
+        "term": "说 (shuō)"
+      },
+      {
+        "pt": "ver",
+        "term": "看 (kàn)"
+      },
+      {
+        "pt": "ouvir",
+        "term": "听 (tīng)"
+      },
+      {
+        "pt": "ler",
+        "term": "读 (dú)"
+      },
+      {
+        "pt": "escrever",
+        "term": "写 (xiě)"
+      },
+      {
+        "pt": "querer",
+        "term": "想要 (xiǎngyào)"
+      },
+      {
+        "pt": "fazer",
+        "term": "做 (zuò)"
+      },
+      {
+        "pt": "dormir",
+        "term": "睡觉 (shuìjiào)"
+      },
+      {
+        "pt": "andar",
+        "term": "走 (zǒu)"
+      },
+      {
+        "pt": "comprar",
+        "term": "买 (mǎi)"
+      },
+      {
+        "pt": "gostar",
+        "term": "喜欢 (xǐhuān)"
+      }
+    ],
+    "body_health": [
+      {
+        "pt": "cabeça",
+        "term": "头 (tóu)"
+      },
+      {
+        "pt": "cabelo",
+        "term": "头发 (tóufa)"
+      },
+      {
+        "pt": "olho",
+        "term": "眼睛 (yǎnjing)"
+      },
+      {
+        "pt": "nariz",
+        "term": "鼻子 (bízi)"
+      },
+      {
+        "pt": "boca",
+        "term": "嘴巴 (zuǐba)"
+      },
+      {
+        "pt": "dente",
+        "term": "牙齿 (yáchǐ)"
+      },
+      {
+        "pt": "orelha",
+        "term": "耳朵 (ěrduo)"
+      },
+      {
+        "pt": "mão",
+        "term": "手 (shǒu)"
+      },
+      {
+        "pt": "braço",
+        "term": "手臂 (shǒubì)"
+      },
+      {
+        "pt": "perna",
+        "term": "腿 (tuǐ)"
+      },
+      {
+        "pt": "pé",
+        "term": "脚 (jiǎo)"
+      },
+      {
+        "pt": "coração",
+        "term": "心脏 (xīnzàng)"
+      },
+      {
+        "pt": "médico",
+        "term": "医生 (yīshēng)"
+      },
+      {
+        "pt": "remédio",
+        "term": "药 (yào)"
+      },
+      {
+        "pt": "dor",
+        "term": "疼痛 (téngtòng)"
+      },
+      {
+        "pt": "saúde",
+        "term": "健康 (jiànkāng)"
+      }
+    ],
+    "work_school": [
+      {
+        "pt": "escola",
+        "term": "学校 (xuéxiào)"
+      },
+      {
+        "pt": "professor",
+        "term": "老师 (lǎoshī)"
+      },
+      {
+        "pt": "aluno",
+        "term": "学生 (xuéshēng)"
+      },
+      {
+        "pt": "livro",
+        "term": "书 (shū)"
+      },
+      {
+        "pt": "caneta",
+        "term": "笔 (bǐ)"
+      },
+      {
+        "pt": "papel",
+        "term": "纸 (zhǐ)"
+      },
+      {
+        "pt": "lápis",
+        "term": "铅笔 (qiānbǐ)"
+      },
+      {
+        "pt": "computador",
+        "term": "电脑 (diànnǎo)"
+      },
+      {
+        "pt": "trabalho",
+        "term": "工作 (gōngzuò)"
+      },
+      {
+        "pt": "dinheiro",
+        "term": "钱 (qián)"
+      },
+      {
+        "pt": "emprego",
+        "term": "职业 (zhíyè)"
+      },
+      {
+        "pt": "aula",
+        "term": "课 (kè)"
+      },
+      {
+        "pt": "prova",
+        "term": "考试 (kǎoshì)"
+      },
+      {
+        "pt": "escritório",
+        "term": "办公室 (bàngōngshì)"
+      },
+      {
+        "pt": "reunião",
+        "term": "会议 (huìyì)"
+      },
+      {
+        "pt": "ideia",
+        "term": "主意 (zhǔyi)"
+      }
+    ],
+    "time_weather": [
+      {
+        "pt": "dia",
+        "term": "天 (tiān)"
+      },
+      {
+        "pt": "noite",
+        "term": "晚上 (wǎnshàng)"
+      },
+      {
+        "pt": "manhã",
+        "term": "早上 (zǎoshàng)"
+      },
+      {
+        "pt": "tarde",
+        "term": "下午 (xiàwǔ)"
+      },
+      {
+        "pt": "semana",
+        "term": "星期 (xīngqī)"
+      },
+      {
+        "pt": "mês",
+        "term": "月 (yuè)"
+      },
+      {
+        "pt": "ano",
+        "term": "年 (nián)"
+      },
+      {
+        "pt": "hora",
+        "term": "小时 (xiǎoshí)"
+      },
+      {
+        "pt": "minuto",
+        "term": "分钟 (fēnzhōng)"
+      },
+      {
+        "pt": "chuva",
+        "term": "雨 (yǔ)"
+      },
+      {
+        "pt": "neve",
+        "term": "雪 (xuě)"
+      },
+      {
+        "pt": "vento",
+        "term": "风 (fēng)"
+      },
+      {
+        "pt": "calor",
+        "term": "热 (rè)"
+      },
+      {
+        "pt": "frio",
+        "term": "冷 (lěng)"
+      },
+      {
+        "pt": "nuvem",
+        "term": "云 (yún)"
+      },
+      {
+        "pt": "céu",
+        "term": "天空 (tiānkōng)"
+      }
+    ],
+    "travel": [
+      {
+        "pt": "cidade",
+        "term": "城市 (chéng shì)"
+      },
+      {
+        "pt": "rua",
+        "term": "街道 (jiē dào)"
+      },
+      {
+        "pt": "carro",
+        "term": "汽车 (qì chē)"
+      },
+      {
+        "pt": "ônibus",
+        "term": "公共汽车 (gōng gòng qì chē)"
+      },
+      {
+        "pt": "hotel",
+        "term": "酒店 (jiǔ diàn)"
+      },
+      {
+        "pt": "mapa",
+        "term": "地图 (dì tú)"
+      },
+      {
+        "pt": "praia",
+        "term": "海滩 (hǎi tān)"
+      },
+      {
+        "pt": "aeroporto",
+        "term": "机场 (jī chǎng)"
+      },
+      {
+        "pt": "trem",
+        "term": "火车 (huǒ chē)"
+      },
+      {
+        "pt": "bilhete",
+        "term": "票 (piào)"
+      },
+      {
+        "pt": "avião",
+        "term": "飞机 (fēijī)"
+      },
+      {
+        "pt": "barco",
+        "term": "船 (chuán)"
+      },
+      {
+        "pt": "estação",
+        "term": "车站 (chēzhàn)"
+      },
+      {
+        "pt": "passaporte",
+        "term": "护照 (hùzhào)"
+      },
+      {
+        "pt": "mala",
+        "term": "行李箱 (xínglǐxiāng)"
+      },
+      {
+        "pt": "táxi",
+        "term": "出租车 (chūzūchē)"
+      }
+    ],
+    "conversation": [
+      {
+        "pt": "amor",
+        "term": "爱 (ài)"
+      },
+      {
+        "pt": "feliz",
+        "term": "开心 (kāi xīn)"
+      },
+      {
+        "pt": "triste",
+        "term": "伤心 (shāng xīn)"
+      },
+      {
+        "pt": "hoje",
+        "term": "今天 (jīn tiān)"
+      },
+      {
+        "pt": "amanhã",
+        "term": "明天 (míng tiān)"
+      },
+      {
+        "pt": "bonito",
+        "term": "漂亮 (piào liang)"
+      },
+      {
+        "pt": "grande",
+        "term": "大 (dà)"
+      },
+      {
+        "pt": "pequeno",
+        "term": "小 (xiǎo)"
+      },
+      {
+        "pt": "novo",
+        "term": "新 (xīn)"
+      },
+      {
+        "pt": "bem",
+        "term": "好 (hǎo)"
+      },
+      {
+        "pt": "ontem",
+        "term": "昨天 (zuótiān)"
+      },
+      {
+        "pt": "agora",
+        "term": "现在 (xiànzài)"
+      },
+      {
+        "pt": "aqui",
+        "term": "这里 (zhèlǐ)"
+      },
+      {
+        "pt": "muito",
+        "term": "很多 (hěn duō)"
+      },
+      {
+        "pt": "pouco",
+        "term": "一点 (yìdiǎn)"
+      },
+      {
+        "pt": "também",
+        "term": "也 (yě)"
+      }
+    ]
+  },
+  "sentences": {
+    "greetings": [
+      {
+        "pt": "Olá, tudo bem?",
+        "term": "你好 ， 你 好 吗 ？",
+        "roman": "nǐ hǎo, nǐ hǎo ma?"
+      },
+      {
+        "pt": "Bom dia!",
+        "term": "早上 好 ！",
+        "roman": "zǎoshang hǎo!"
+      },
+      {
+        "pt": "Muito obrigado.",
+        "term": "非常 感谢 你 。",
+        "roman": "fēicháng gǎnxiè nǐ."
+      },
+      {
+        "pt": "Boa noite, mãe.",
+        "term": "晚安 ， 妈妈 。",
+        "roman": "wǎn'ān, māma."
+      },
+      {
+        "pt": "Até logo, amigo!",
+        "term": "再见 ， 朋友 ！",
+        "roman": "zàijiàn, péngyou!"
+      },
+      {
+        "pt": "Sim, por favor.",
+        "term": "好 的 ， 麻烦 你 了 。",
+        "roman": "hǎo de, máfan nǐ le."
+      }
+    ],
+    "numbers_colors": [
+      {
+        "pt": "Eu tenho dois gatos.",
+        "term": "我 有 两 只 猫 。",
+        "roman": "wǒ yǒu liǎng zhī māo."
+      },
+      {
+        "pt": "A casa é azul.",
+        "term": "房子 是 蓝色 的 。",
+        "roman": "fángzi shì lánsè de."
+      },
+      {
+        "pt": "Eu vejo três flores.",
+        "term": "我 看见 三 朵 花 。",
+        "roman": "wǒ kànjiàn sān duǒ huā."
+      },
+      {
+        "pt": "O carro é vermelho.",
+        "term": "车 是 红色 的 。",
+        "roman": "chē shì hóngsè de."
+      },
+      {
+        "pt": "Tenho cinco amigos.",
+        "term": "我 有 五 个 朋友 。",
+        "roman": "wǒ yǒu wǔ gè péngyou."
+      },
+      {
+        "pt": "A porta é branca.",
+        "term": "门 是 白色 的 。",
+        "roman": "mén shì báisè de."
+      }
+    ],
+    "family": [
+      {
+        "pt": "Esta é a minha mãe.",
+        "term": "这 是 我 的 妈妈 。",
+        "roman": "zhè shì wǒ de māma."
+      },
+      {
+        "pt": "Eu amo a minha família.",
+        "term": "我 爱 我 的 家人 。",
+        "roman": "wǒ ài wǒ de jiārén."
+      },
+      {
+        "pt": "O meu pai é grande.",
+        "term": "我 的 爸爸 很 高大 。",
+        "roman": "wǒ de bàba hěn gāodà."
+      },
+      {
+        "pt": "Tenho um irmão e uma irmã.",
+        "term": "我 有 一 个 哥哥 和 一 个 妹妹 。",
+        "roman": "wǒ yǒu yí gè gēge hé yí gè mèimei."
+      },
+      {
+        "pt": "A minha avó é bonita.",
+        "term": "我 的 奶奶 很 漂亮 。",
+        "roman": "wǒ de nǎinai hěn piàoliang."
+      },
+      {
+        "pt": "O bebê dorme agora.",
+        "term": "宝宝 现在 在 睡觉 。",
+        "roman": "bǎobao xiànzài zài shuìjiào."
+      }
+    ],
+    "food": [
+      {
+        "pt": "Eu bebo água.",
+        "term": "我 喝 水 。",
+        "roman": "wǒ hē shuǐ."
+      },
+      {
+        "pt": "Eu como pão.",
+        "term": "我 吃 面包 。",
+        "roman": "wǒ chī miànbāo."
+      },
+      {
+        "pt": "Eu gosto de café.",
+        "term": "我 喜欢 咖啡 。",
+        "roman": "wǒ xǐhuan kāfēi."
+      },
+      {
+        "pt": "Quero uma maçã.",
+        "term": "我 要 一 个 苹果 。",
+        "roman": "wǒ yào yí gè píngguǒ."
+      },
+      {
+        "pt": "A sopa é boa.",
+        "term": "汤 很 好喝 。",
+        "roman": "tāng hěn hǎohē."
+      },
+      {
+        "pt": "Você quer suco?",
+        "term": "你 要 果汁 吗 ？",
+        "roman": "nǐ yào guǒzhī ma?"
+      }
+    ],
+    "animals_nature": [
+      {
+        "pt": "O cachorro é grande.",
+        "term": "狗 很 大 。",
+        "roman": "gǒu hěn dà."
+      },
+      {
+        "pt": "Eu vejo um pássaro.",
+        "term": "我 看见 一 只 鸟 。",
+        "roman": "wǒ kànjiàn yì zhī niǎo."
+      },
+      {
+        "pt": "O gato dorme na cama.",
+        "term": "猫 在 床 上 睡觉 。",
+        "roman": "māo zài chuáng shàng shuìjiào."
+      },
+      {
+        "pt": "O sol é amarelo.",
+        "term": "太阳 是 黄色 的 。",
+        "roman": "tàiyáng shì huángsè de."
+      },
+      {
+        "pt": "A árvore é grande.",
+        "term": "树 很 大 。",
+        "roman": "shù hěn dà."
+      },
+      {
+        "pt": "O peixe está no rio.",
+        "term": "鱼 在 河 里 。",
+        "roman": "yú zài hé lǐ."
+      }
+    ],
+    "home_daily": [
+      {
+        "pt": "A chave está na mesa.",
+        "term": "钥匙 在 桌子 上 。",
+        "roman": "yàoshi zài zhuōzi shàng."
+      },
+      {
+        "pt": "A cama é grande.",
+        "term": "床 很 大 。",
+        "roman": "chuáng hěn dà."
+      },
+      {
+        "pt": "Eu como na cozinha.",
+        "term": "我 在 厨房 吃饭 。",
+        "roman": "wǒ zài chúfáng chīfàn."
+      },
+      {
+        "pt": "O copo está na mesa.",
+        "term": "杯子 在 桌子 上 。",
+        "roman": "bēizi zài zhuōzi shàng."
+      },
+      {
+        "pt": "A janela é pequena.",
+        "term": "窗户 很 小 。",
+        "roman": "chuānghu hěn xiǎo."
+      },
+      {
+        "pt": "Eu gosto da minha casa.",
+        "term": "我 喜欢 我 的 家 。",
+        "roman": "wǒ xǐhuan wǒ de jiā."
+      }
+    ],
+    "verbs_actions": [
+      {
+        "pt": "Eu quero comer.",
+        "term": "我 想 吃饭 。",
+        "roman": "wǒ xiǎng chīfàn."
+      },
+      {
+        "pt": "Você gosta de ler?",
+        "term": "你 喜欢 看书 吗 ？",
+        "roman": "nǐ xǐhuan kànshū ma?"
+      },
+      {
+        "pt": "Nós vamos andar.",
+        "term": "我们 去 走路 。",
+        "roman": "wǒmen qù zǒulù."
+      },
+      {
+        "pt": "Ele quer dormir.",
+        "term": "他 想 睡觉 。",
+        "roman": "tā xiǎng shuìjiào."
+      },
+      {
+        "pt": "Eu gosto de falar.",
+        "term": "我 喜欢 说话 。",
+        "roman": "wǒ xǐhuan shuōhuà."
+      },
+      {
+        "pt": "Eu vou comprar pão.",
+        "term": "我 去 买 面包 。",
+        "roman": "wǒ qù mǎi miànbāo."
+      }
+    ],
+    "body_health": [
+      {
+        "pt": "Eu tenho dor de cabeça.",
+        "term": "我 头疼 。",
+        "roman": "wǒ tóuténg."
+      },
+      {
+        "pt": "O médico é bom.",
+        "term": "医生 很 好 。",
+        "roman": "yīshēng hěn hǎo."
+      },
+      {
+        "pt": "Eu tenho dois olhos.",
+        "term": "我 有 两 只 眼睛 。",
+        "roman": "wǒ yǒu liǎng zhī yǎnjing."
+      },
+      {
+        "pt": "As minhas mãos estão frias.",
+        "term": "我 的 手 很 冷 。",
+        "roman": "wǒ de shǒu hěn lěng."
+      },
+      {
+        "pt": "O meu coração é grande.",
+        "term": "我 的 心 很 大 。",
+        "roman": "wǒ de xīn hěn dà."
+      },
+      {
+        "pt": "Eu quero saúde.",
+        "term": "我 想要 健康 。",
+        "roman": "wǒ xiǎngyào jiànkāng."
+      }
+    ],
+    "work_school": [
+      {
+        "pt": "Eu vou à escola.",
+        "term": "我 去 学校 。",
+        "roman": "wǒ qù xuéxiào."
+      },
+      {
+        "pt": "O professor é bom.",
+        "term": "老师 很 好 。",
+        "roman": "lǎoshī hěn hǎo."
+      },
+      {
+        "pt": "Eu leio um livro.",
+        "term": "我 看 一 本 书 。",
+        "roman": "wǒ kàn yì běn shū."
+      },
+      {
+        "pt": "Eu gosto da escola.",
+        "term": "我 喜欢 学校 。",
+        "roman": "wǒ xǐhuan xuéxiào."
+      },
+      {
+        "pt": "Tenho uma caneta nova.",
+        "term": "我 有 一 支 新 笔 。",
+        "roman": "wǒ yǒu yì zhī xīn bǐ."
+      },
+      {
+        "pt": "Eu escrevo no papel.",
+        "term": "我 在 纸 上 写字 。",
+        "roman": "wǒ zài zhǐ shàng xiězì."
+      }
+    ],
+    "time_weather": [
+      {
+        "pt": "Hoje está frio.",
+        "term": "今天 很 冷 。",
+        "roman": "jīntiān hěn lěng."
+      },
+      {
+        "pt": "Hoje tem chuva.",
+        "term": "今天 下雨 。",
+        "roman": "jīntiān xiàyǔ."
+      },
+      {
+        "pt": "O dia está bonito.",
+        "term": "今天 天气 很 好 。",
+        "roman": "jīntiān tiānqì hěn hǎo."
+      },
+      {
+        "pt": "A manhã está fria.",
+        "term": "早上 很 冷 。",
+        "roman": "zǎoshang hěn lěng."
+      },
+      {
+        "pt": "Gosto da noite.",
+        "term": "我 喜欢 晚上 。",
+        "roman": "wǒ xǐhuan wǎnshang."
+      },
+      {
+        "pt": "O céu é azul.",
+        "term": "天空 是 蓝色 的 。",
+        "roman": "tiānkōng shì lánsè de."
+      }
+    ],
+    "travel": [
+      {
+        "pt": "Onde fica o hotel?",
+        "term": "酒店 在 哪里 ？",
+        "roman": "jiǔdiàn zài nǎlǐ?"
+      },
+      {
+        "pt": "Eu vou de carro.",
+        "term": "我 坐 车 去 。",
+        "roman": "wǒ zuò chē qù."
+      },
+      {
+        "pt": "A praia é bonita.",
+        "term": "海滩 很 漂亮 。",
+        "roman": "hǎitān hěn piàoliang."
+      },
+      {
+        "pt": "Quero um bilhete, por favor.",
+        "term": "请 给 我 一 张 票 。",
+        "roman": "qǐng gěi wǒ yì zhāng piào."
+      },
+      {
+        "pt": "O trem é grande.",
+        "term": "火车 很 大 。",
+        "roman": "huǒchē hěn dà."
+      },
+      {
+        "pt": "A cidade é bonita.",
+        "term": "城市 很 漂亮 。",
+        "roman": "chéngshì hěn piàoliang."
+      }
+    ],
+    "conversation": [
+      {
+        "pt": "Eu estou feliz hoje.",
+        "term": "我 今天 很 开心 。",
+        "roman": "wǒ jīntiān hěn kāixīn."
+      },
+      {
+        "pt": "Amanhã eu vou.",
+        "term": "明天 我 去 。",
+        "roman": "míngtiān wǒ qù."
+      },
+      {
+        "pt": "Eu gosto muito de você.",
+        "term": "我 很 喜欢 你 。",
+        "roman": "wǒ hěn xǐhuan nǐ."
+      },
+      {
+        "pt": "Hoje é um bom dia.",
+        "term": "今天 是 个 好 日子 。",
+        "roman": "jīntiān shì gè hǎo rìzi."
+      },
+      {
+        "pt": "Eu estou aqui agora.",
+        "term": "我 现在 在 这里 。",
+        "roman": "wǒ xiànzài zài zhèlǐ."
+      },
+      {
+        "pt": "Você é muito bonito.",
+        "term": "你 很 帅 。",
+        "roman": "nǐ hěn shuài."
+      }
+    ]
+  }
+}

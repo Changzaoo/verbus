@@ -1,0 +1,1183 @@
+{
+  "code": "ru",
+  "themes": {
+    "greetings": [
+      {
+        "pt": "olá",
+        "term": "привет (privet)"
+      },
+      {
+        "pt": "tchau",
+        "term": "пока (poka)"
+      },
+      {
+        "pt": "obrigado(a)",
+        "term": "спасибо (spasibo)"
+      },
+      {
+        "pt": "por favor",
+        "term": "пожалуйста (pozhaluysta)"
+      },
+      {
+        "pt": "sim",
+        "term": "да (da)"
+      },
+      {
+        "pt": "não",
+        "term": "нет (net)"
+      },
+      {
+        "pt": "bom dia",
+        "term": "доброе утро (dobroye utro)"
+      },
+      {
+        "pt": "boa noite",
+        "term": "спокойной ночи (spokoynoy nochi)"
+      },
+      {
+        "pt": "desculpe",
+        "term": "извините (izvinite)"
+      },
+      {
+        "pt": "com licença",
+        "term": "простите (prostite)"
+      },
+      {
+        "pt": "boa tarde",
+        "term": "добрый день (dobryy den')"
+      },
+      {
+        "pt": "prazer em conhecer",
+        "term": "приятно познакомиться (priyatno poznakomit'sya)"
+      },
+      {
+        "pt": "tudo bem?",
+        "term": "как дела? (kak dela?)"
+      },
+      {
+        "pt": "até logo",
+        "term": "до скорого (do skorogo)"
+      },
+      {
+        "pt": "de nada",
+        "term": "пожалуйста (pozhaluysta)"
+      },
+      {
+        "pt": "com certeza",
+        "term": "конечно (konechno)"
+      }
+    ],
+    "numbers_colors": [
+      {
+        "pt": "um",
+        "term": "один (odin)"
+      },
+      {
+        "pt": "dois",
+        "term": "два (dva)"
+      },
+      {
+        "pt": "três",
+        "term": "три (tri)"
+      },
+      {
+        "pt": "quatro",
+        "term": "четыре (chetyre)"
+      },
+      {
+        "pt": "cinco",
+        "term": "пять (pyat')"
+      },
+      {
+        "pt": "vermelho",
+        "term": "красный (krasnyy)"
+      },
+      {
+        "pt": "azul",
+        "term": "синий (siniy)"
+      },
+      {
+        "pt": "verde",
+        "term": "зелёный (zelyonyy)"
+      },
+      {
+        "pt": "amarelo",
+        "term": "жёлтый (zhyoltyy)"
+      },
+      {
+        "pt": "preto",
+        "term": "чёрный (chyornyy)"
+      },
+      {
+        "pt": "seis",
+        "term": "шесть (shest')"
+      },
+      {
+        "pt": "sete",
+        "term": "семь (sem')"
+      },
+      {
+        "pt": "oito",
+        "term": "восемь (vosem')"
+      },
+      {
+        "pt": "nove",
+        "term": "девять (devyat')"
+      },
+      {
+        "pt": "dez",
+        "term": "десять (desyat')"
+      },
+      {
+        "pt": "branco",
+        "term": "белый (belyy)"
+      }
+    ],
+    "family": [
+      {
+        "pt": "mãe",
+        "term": "мама (mama)"
+      },
+      {
+        "pt": "pai",
+        "term": "папа (papa)"
+      },
+      {
+        "pt": "irmão",
+        "term": "брат (brat)"
+      },
+      {
+        "pt": "irmã",
+        "term": "сестра (sestra)"
+      },
+      {
+        "pt": "avó",
+        "term": "бабушка (babushka)"
+      },
+      {
+        "pt": "avô",
+        "term": "дедушка (dedushka)"
+      },
+      {
+        "pt": "filho",
+        "term": "сын (syn)"
+      },
+      {
+        "pt": "filha",
+        "term": "дочь (doch')"
+      },
+      {
+        "pt": "amigo",
+        "term": "друг (drug)"
+      },
+      {
+        "pt": "família",
+        "term": "семья (sem'ya)"
+      },
+      {
+        "pt": "marido",
+        "term": "муж (muzh)"
+      },
+      {
+        "pt": "esposa",
+        "term": "жена (zhena)"
+      },
+      {
+        "pt": "tio",
+        "term": "дядя (dyadya)"
+      },
+      {
+        "pt": "tia",
+        "term": "тётя (tyotya)"
+      },
+      {
+        "pt": "primo",
+        "term": "двоюродный брат (dvoyurodnyy brat)"
+      },
+      {
+        "pt": "bebê",
+        "term": "младенец (mladenets)"
+      }
+    ],
+    "food": [
+      {
+        "pt": "água",
+        "term": "вода (voda)"
+      },
+      {
+        "pt": "pão",
+        "term": "хлеб (khleb)"
+      },
+      {
+        "pt": "maçã",
+        "term": "яблоко (yabloko)"
+      },
+      {
+        "pt": "leite",
+        "term": "молоко (moloko)"
+      },
+      {
+        "pt": "café",
+        "term": "кофе (kofe)"
+      },
+      {
+        "pt": "arroz",
+        "term": "рис (ris)"
+      },
+      {
+        "pt": "queijo",
+        "term": "сыр (syr)"
+      },
+      {
+        "pt": "ovo",
+        "term": "яйцо (yaytso)"
+      },
+      {
+        "pt": "fruta",
+        "term": "фрукт (frukt)"
+      },
+      {
+        "pt": "carne",
+        "term": "мясо (myaso)"
+      },
+      {
+        "pt": "sopa",
+        "term": "суп (sup)"
+      },
+      {
+        "pt": "salada",
+        "term": "салат (salat)"
+      },
+      {
+        "pt": "açúcar",
+        "term": "сахар (sakhar)"
+      },
+      {
+        "pt": "sal",
+        "term": "соль (sol')"
+      },
+      {
+        "pt": "suco",
+        "term": "сок (sok)"
+      },
+      {
+        "pt": "bolo",
+        "term": "торт (tort)"
+      }
+    ],
+    "animals_nature": [
+      {
+        "pt": "cachorro",
+        "term": "собака (sobaka)"
+      },
+      {
+        "pt": "gato",
+        "term": "кошка (koshka)"
+      },
+      {
+        "pt": "pássaro",
+        "term": "птица (ptitsa)"
+      },
+      {
+        "pt": "peixe",
+        "term": "рыба (ryba)"
+      },
+      {
+        "pt": "cavalo",
+        "term": "лошадь (loshad')"
+      },
+      {
+        "pt": "árvore",
+        "term": "дерево (derevo)"
+      },
+      {
+        "pt": "sol",
+        "term": "солнце (solntse)"
+      },
+      {
+        "pt": "lua",
+        "term": "луна (luna)"
+      },
+      {
+        "pt": "flor",
+        "term": "цветок (tsvetok)"
+      },
+      {
+        "pt": "rio",
+        "term": "река (reka)"
+      },
+      {
+        "pt": "vaca",
+        "term": "корова (korova)"
+      },
+      {
+        "pt": "galinha",
+        "term": "курица (kuritsa)"
+      },
+      {
+        "pt": "coelho",
+        "term": "кролик (krolik)"
+      },
+      {
+        "pt": "montanha",
+        "term": "гора (gora)"
+      },
+      {
+        "pt": "mar",
+        "term": "море (more)"
+      },
+      {
+        "pt": "estrela",
+        "term": "звезда (zvezda)"
+      }
+    ],
+    "home_daily": [
+      {
+        "pt": "casa",
+        "term": "дом (dom)"
+      },
+      {
+        "pt": "porta",
+        "term": "дверь (dver')"
+      },
+      {
+        "pt": "mesa",
+        "term": "стол (stol)"
+      },
+      {
+        "pt": "cama",
+        "term": "кровать (krovat')"
+      },
+      {
+        "pt": "cadeira",
+        "term": "стул (stul)"
+      },
+      {
+        "pt": "janela",
+        "term": "окно (okno)"
+      },
+      {
+        "pt": "cozinha",
+        "term": "кухня (kukhnya)"
+      },
+      {
+        "pt": "banheiro",
+        "term": "ванная (vannaya)"
+      },
+      {
+        "pt": "chave",
+        "term": "ключ (klyuch)"
+      },
+      {
+        "pt": "relógio",
+        "term": "часы (chasy)"
+      },
+      {
+        "pt": "sofá",
+        "term": "диван (divan)"
+      },
+      {
+        "pt": "espelho",
+        "term": "зеркало (zerkalo)"
+      },
+      {
+        "pt": "prato",
+        "term": "тарелка (tarelka)"
+      },
+      {
+        "pt": "copo",
+        "term": "стакан (stakan)"
+      },
+      {
+        "pt": "sabonete",
+        "term": "мыло (mylo)"
+      },
+      {
+        "pt": "toalha",
+        "term": "полотенце (polotentse)"
+      }
+    ],
+    "verbs_actions": [
+      {
+        "pt": "ser",
+        "term": "быть (byt')"
+      },
+      {
+        "pt": "ter",
+        "term": "иметь (imet')"
+      },
+      {
+        "pt": "ir",
+        "term": "идти (idti)"
+      },
+      {
+        "pt": "comer",
+        "term": "есть (yest')"
+      },
+      {
+        "pt": "beber",
+        "term": "пить (pit')"
+      },
+      {
+        "pt": "falar",
+        "term": "говорить (govorit')"
+      },
+      {
+        "pt": "ver",
+        "term": "видеть (videt')"
+      },
+      {
+        "pt": "ouvir",
+        "term": "слышать (slyshat')"
+      },
+      {
+        "pt": "ler",
+        "term": "читать (chitat')"
+      },
+      {
+        "pt": "escrever",
+        "term": "писать (pisat')"
+      },
+      {
+        "pt": "querer",
+        "term": "хотеть (khotet')"
+      },
+      {
+        "pt": "fazer",
+        "term": "делать (delat')"
+      },
+      {
+        "pt": "dormir",
+        "term": "спать (spat')"
+      },
+      {
+        "pt": "andar",
+        "term": "ходить (khodit')"
+      },
+      {
+        "pt": "comprar",
+        "term": "покупать (pokupat')"
+      },
+      {
+        "pt": "gostar",
+        "term": "нравиться (nravit'sya)"
+      }
+    ],
+    "body_health": [
+      {
+        "pt": "cabeça",
+        "term": "голова (golova)"
+      },
+      {
+        "pt": "cabelo",
+        "term": "волосы (volosy)"
+      },
+      {
+        "pt": "olho",
+        "term": "глаз (glaz)"
+      },
+      {
+        "pt": "nariz",
+        "term": "нос (nos)"
+      },
+      {
+        "pt": "boca",
+        "term": "рот (rot)"
+      },
+      {
+        "pt": "dente",
+        "term": "зуб (zub)"
+      },
+      {
+        "pt": "orelha",
+        "term": "ухо (ukho)"
+      },
+      {
+        "pt": "mão",
+        "term": "рука (ruka)"
+      },
+      {
+        "pt": "braço",
+        "term": "рука (ruka)"
+      },
+      {
+        "pt": "perna",
+        "term": "нога (noga)"
+      },
+      {
+        "pt": "pé",
+        "term": "стопа (stopa)"
+      },
+      {
+        "pt": "coração",
+        "term": "сердце (serdtse)"
+      },
+      {
+        "pt": "médico",
+        "term": "врач (vrach)"
+      },
+      {
+        "pt": "remédio",
+        "term": "лекарство (lekarstvo)"
+      },
+      {
+        "pt": "dor",
+        "term": "боль (bol')"
+      },
+      {
+        "pt": "saúde",
+        "term": "здоровье (zdorov'ye)"
+      }
+    ],
+    "work_school": [
+      {
+        "pt": "escola",
+        "term": "школа (shkola)"
+      },
+      {
+        "pt": "professor",
+        "term": "учитель (uchitel')"
+      },
+      {
+        "pt": "aluno",
+        "term": "ученик (uchenik)"
+      },
+      {
+        "pt": "livro",
+        "term": "книга (kniga)"
+      },
+      {
+        "pt": "caneta",
+        "term": "ручка (ruchka)"
+      },
+      {
+        "pt": "papel",
+        "term": "бумага (bumaga)"
+      },
+      {
+        "pt": "lápis",
+        "term": "карандаш (karandash)"
+      },
+      {
+        "pt": "computador",
+        "term": "компьютер (komp'yuter)"
+      },
+      {
+        "pt": "trabalho",
+        "term": "работа (rabota)"
+      },
+      {
+        "pt": "dinheiro",
+        "term": "деньги (den'gi)"
+      },
+      {
+        "pt": "emprego",
+        "term": "работа (rabota)"
+      },
+      {
+        "pt": "aula",
+        "term": "урок (urok)"
+      },
+      {
+        "pt": "prova",
+        "term": "экзамен (ekzamen)"
+      },
+      {
+        "pt": "escritório",
+        "term": "офис (ofis)"
+      },
+      {
+        "pt": "reunião",
+        "term": "встреча (vstrecha)"
+      },
+      {
+        "pt": "ideia",
+        "term": "идея (ideya)"
+      }
+    ],
+    "time_weather": [
+      {
+        "pt": "dia",
+        "term": "день (den')"
+      },
+      {
+        "pt": "noite",
+        "term": "ночь (noch')"
+      },
+      {
+        "pt": "manhã",
+        "term": "утро (utro)"
+      },
+      {
+        "pt": "tarde",
+        "term": "день (den')"
+      },
+      {
+        "pt": "semana",
+        "term": "неделя (nedelya)"
+      },
+      {
+        "pt": "mês",
+        "term": "месяц (mesyats)"
+      },
+      {
+        "pt": "ano",
+        "term": "год (god)"
+      },
+      {
+        "pt": "hora",
+        "term": "час (chas)"
+      },
+      {
+        "pt": "minuto",
+        "term": "минута (minuta)"
+      },
+      {
+        "pt": "chuva",
+        "term": "дождь (dozhd')"
+      },
+      {
+        "pt": "neve",
+        "term": "снег (sneg)"
+      },
+      {
+        "pt": "vento",
+        "term": "ветер (veter)"
+      },
+      {
+        "pt": "calor",
+        "term": "жара (zhara)"
+      },
+      {
+        "pt": "frio",
+        "term": "холод (kholod)"
+      },
+      {
+        "pt": "nuvem",
+        "term": "облако (oblako)"
+      },
+      {
+        "pt": "céu",
+        "term": "небо (nebo)"
+      }
+    ],
+    "travel": [
+      {
+        "pt": "cidade",
+        "term": "город (gorod)"
+      },
+      {
+        "pt": "rua",
+        "term": "улица (ulitsa)"
+      },
+      {
+        "pt": "carro",
+        "term": "машина (mashina)"
+      },
+      {
+        "pt": "ônibus",
+        "term": "автобус (avtobus)"
+      },
+      {
+        "pt": "hotel",
+        "term": "отель (otel')"
+      },
+      {
+        "pt": "mapa",
+        "term": "карта (karta)"
+      },
+      {
+        "pt": "praia",
+        "term": "пляж (plyazh)"
+      },
+      {
+        "pt": "aeroporto",
+        "term": "аэропорт (aeroport)"
+      },
+      {
+        "pt": "trem",
+        "term": "поезд (poyezd)"
+      },
+      {
+        "pt": "bilhete",
+        "term": "билет (bilet)"
+      },
+      {
+        "pt": "avião",
+        "term": "самолёт (samolyot)"
+      },
+      {
+        "pt": "barco",
+        "term": "лодка (lodka)"
+      },
+      {
+        "pt": "estação",
+        "term": "станция (stantsiya)"
+      },
+      {
+        "pt": "passaporte",
+        "term": "паспорт (pasport)"
+      },
+      {
+        "pt": "mala",
+        "term": "чемодан (chemodan)"
+      },
+      {
+        "pt": "táxi",
+        "term": "такси (taksi)"
+      }
+    ],
+    "conversation": [
+      {
+        "pt": "amor",
+        "term": "любовь (lyubov')"
+      },
+      {
+        "pt": "feliz",
+        "term": "счастливый (schastlivyy)"
+      },
+      {
+        "pt": "triste",
+        "term": "грустный (grustnyy)"
+      },
+      {
+        "pt": "hoje",
+        "term": "сегодня (segodnya)"
+      },
+      {
+        "pt": "amanhã",
+        "term": "завтра (zavtra)"
+      },
+      {
+        "pt": "bonito",
+        "term": "красивый (krasivyy)"
+      },
+      {
+        "pt": "grande",
+        "term": "большой (bol'shoy)"
+      },
+      {
+        "pt": "pequeno",
+        "term": "маленький (malen'kiy)"
+      },
+      {
+        "pt": "novo",
+        "term": "новый (novyy)"
+      },
+      {
+        "pt": "bem",
+        "term": "хорошо (khorosho)"
+      },
+      {
+        "pt": "ontem",
+        "term": "вчера (vchera)"
+      },
+      {
+        "pt": "agora",
+        "term": "сейчас (seychas)"
+      },
+      {
+        "pt": "aqui",
+        "term": "здесь (zdes')"
+      },
+      {
+        "pt": "muito",
+        "term": "много (mnogo)"
+      },
+      {
+        "pt": "pouco",
+        "term": "мало (malo)"
+      },
+      {
+        "pt": "também",
+        "term": "тоже (tozhe)"
+      }
+    ]
+  },
+  "sentences": {
+    "greetings": [
+      {
+        "pt": "Olá, tudo bem?",
+        "term": "Привет, как дела?",
+        "roman": "Privet, kak dela?"
+      },
+      {
+        "pt": "Bom dia!",
+        "term": "Доброе утро!",
+        "roman": "Dobroe utro!"
+      },
+      {
+        "pt": "Muito obrigado.",
+        "term": "Большое спасибо.",
+        "roman": "Bolshoe spasibo."
+      },
+      {
+        "pt": "Boa noite, mãe.",
+        "term": "Спокойной ночи, мама.",
+        "roman": "Spokoynoy nochi, mama."
+      },
+      {
+        "pt": "Até logo, amigo!",
+        "term": "До свидания, друг!",
+        "roman": "Do svidaniya, drug!"
+      },
+      {
+        "pt": "Sim, por favor.",
+        "term": "Да, пожалуйста.",
+        "roman": "Da, pozhaluysta."
+      }
+    ],
+    "numbers_colors": [
+      {
+        "pt": "Eu tenho dois gatos.",
+        "term": "У меня два кота.",
+        "roman": "U menya dva kota."
+      },
+      {
+        "pt": "A casa é azul.",
+        "term": "Дом синий.",
+        "roman": "Dom siniy."
+      },
+      {
+        "pt": "Eu vejo três flores.",
+        "term": "Я вижу три цветка.",
+        "roman": "Ya vizhu tri tsvetka."
+      },
+      {
+        "pt": "O carro é vermelho.",
+        "term": "Машина красная.",
+        "roman": "Mashina krasnaya."
+      },
+      {
+        "pt": "Tenho cinco amigos.",
+        "term": "У меня пять друзей.",
+        "roman": "U menya pyat druzey."
+      },
+      {
+        "pt": "A porta é branca.",
+        "term": "Дверь белая.",
+        "roman": "Dver belaya."
+      }
+    ],
+    "family": [
+      {
+        "pt": "Esta é a minha mãe.",
+        "term": "Это моя мама.",
+        "roman": "Eto moya mama."
+      },
+      {
+        "pt": "Eu amo a minha família.",
+        "term": "Я люблю свою семью.",
+        "roman": "Ya lyublyu svoyu semyu."
+      },
+      {
+        "pt": "O meu pai é grande.",
+        "term": "Мой папа большой.",
+        "roman": "Moy papa bolshoy."
+      },
+      {
+        "pt": "Tenho um irmão e uma irmã.",
+        "term": "У меня есть брат и сестра.",
+        "roman": "U menya est brat i sestra."
+      },
+      {
+        "pt": "A minha avó é bonita.",
+        "term": "Моя бабушка красивая.",
+        "roman": "Moya babushka krasivaya."
+      },
+      {
+        "pt": "O bebê dorme agora.",
+        "term": "Малыш сейчас спит.",
+        "roman": "Malysh seychas spit."
+      }
+    ],
+    "food": [
+      {
+        "pt": "Eu bebo água.",
+        "term": "Я пью воду.",
+        "roman": "Ya pyu vodu."
+      },
+      {
+        "pt": "Eu como pão.",
+        "term": "Я ем хлеб.",
+        "roman": "Ya em khleb."
+      },
+      {
+        "pt": "Eu gosto de café.",
+        "term": "Я люблю кофе.",
+        "roman": "Ya lyublyu kofe."
+      },
+      {
+        "pt": "Quero uma maçã.",
+        "term": "Я хочу яблоко.",
+        "roman": "Ya khochu yabloko."
+      },
+      {
+        "pt": "A sopa é boa.",
+        "term": "Суп вкусный.",
+        "roman": "Sup vkusnyy."
+      },
+      {
+        "pt": "Você quer suco?",
+        "term": "Ты хочешь сок?",
+        "roman": "Ty khochesh sok?"
+      }
+    ],
+    "animals_nature": [
+      {
+        "pt": "O cachorro é grande.",
+        "term": "Собака большая.",
+        "roman": "Sobaka bolshaya."
+      },
+      {
+        "pt": "Eu vejo um pássaro.",
+        "term": "Я вижу птицу.",
+        "roman": "Ya vizhu ptitsu."
+      },
+      {
+        "pt": "O gato dorme na cama.",
+        "term": "Кот спит на кровати.",
+        "roman": "Kot spit na krovati."
+      },
+      {
+        "pt": "O sol é amarelo.",
+        "term": "Солнце жёлтое.",
+        "roman": "Solntse zhyoltoe."
+      },
+      {
+        "pt": "A árvore é grande.",
+        "term": "Дерево большое.",
+        "roman": "Derevo bolshoe."
+      },
+      {
+        "pt": "O peixe está no rio.",
+        "term": "Рыба в реке.",
+        "roman": "Ryba v reke."
+      }
+    ],
+    "home_daily": [
+      {
+        "pt": "A chave está na mesa.",
+        "term": "Ключ на столе.",
+        "roman": "Klyuch na stole."
+      },
+      {
+        "pt": "A cama é grande.",
+        "term": "Кровать большая.",
+        "roman": "Krovat bolshaya."
+      },
+      {
+        "pt": "Eu como na cozinha.",
+        "term": "Я ем на кухне.",
+        "roman": "Ya em na kukhne."
+      },
+      {
+        "pt": "O copo está na mesa.",
+        "term": "Стакан на столе.",
+        "roman": "Stakan na stole."
+      },
+      {
+        "pt": "A janela é pequena.",
+        "term": "Окно маленькое.",
+        "roman": "Okno malenkoe."
+      },
+      {
+        "pt": "Eu gosto da minha casa.",
+        "term": "Я люблю свой дом.",
+        "roman": "Ya lyublyu svoy dom."
+      }
+    ],
+    "verbs_actions": [
+      {
+        "pt": "Eu quero comer.",
+        "term": "Я хочу есть.",
+        "roman": "Ya khochu est."
+      },
+      {
+        "pt": "Você gosta de ler?",
+        "term": "Ты любишь читать?",
+        "roman": "Ty lyubish chitat?"
+      },
+      {
+        "pt": "Nós vamos andar.",
+        "term": "Мы будем гулять.",
+        "roman": "My budem gulyat."
+      },
+      {
+        "pt": "Ele quer dormir.",
+        "term": "Он хочет спать.",
+        "roman": "On khochet spat."
+      },
+      {
+        "pt": "Eu gosto de falar.",
+        "term": "Я люблю говорить.",
+        "roman": "Ya lyublyu govorit."
+      },
+      {
+        "pt": "Eu vou comprar pão.",
+        "term": "Я куплю хлеб.",
+        "roman": "Ya kuplyu khleb."
+      }
+    ],
+    "body_health": [
+      {
+        "pt": "Eu tenho dor de cabeça.",
+        "term": "У меня болит голова.",
+        "roman": "U menya bolit golova."
+      },
+      {
+        "pt": "O médico é bom.",
+        "term": "Врач хороший.",
+        "roman": "Vrach khoroshiy."
+      },
+      {
+        "pt": "Eu tenho dois olhos.",
+        "term": "У меня два глаза.",
+        "roman": "U menya dva glaza."
+      },
+      {
+        "pt": "As minhas mãos estão frias.",
+        "term": "Мои руки холодные.",
+        "roman": "Moi ruki kholodnye."
+      },
+      {
+        "pt": "O meu coração é grande.",
+        "term": "Моё сердце большое.",
+        "roman": "Moyo serdtse bolshoe."
+      },
+      {
+        "pt": "Eu quero saúde.",
+        "term": "Я хочу здоровья.",
+        "roman": "Ya khochu zdorovya."
+      }
+    ],
+    "work_school": [
+      {
+        "pt": "Eu vou à escola.",
+        "term": "Я иду в школу.",
+        "roman": "Ya idu v shkolu."
+      },
+      {
+        "pt": "O professor é bom.",
+        "term": "Учитель хороший.",
+        "roman": "Uchitel khoroshiy."
+      },
+      {
+        "pt": "Eu leio um livro.",
+        "term": "Я читаю книгу.",
+        "roman": "Ya chitayu knigu."
+      },
+      {
+        "pt": "Eu gosto da escola.",
+        "term": "Я люблю школу.",
+        "roman": "Ya lyublyu shkolu."
+      },
+      {
+        "pt": "Tenho uma caneta nova.",
+        "term": "У меня новая ручка.",
+        "roman": "U menya novaya ruchka."
+      },
+      {
+        "pt": "Eu escrevo no papel.",
+        "term": "Я пишу на бумаге.",
+        "roman": "Ya pishu na bumage."
+      }
+    ],
+    "time_weather": [
+      {
+        "pt": "Hoje está frio.",
+        "term": "Сегодня холодно.",
+        "roman": "Segodnya kholodno."
+      },
+      {
+        "pt": "Hoje tem chuva.",
+        "term": "Сегодня идёт дождь.",
+        "roman": "Segodnya idyot dozhd."
+      },
+      {
+        "pt": "O dia está bonito.",
+        "term": "День прекрасный.",
+        "roman": "Den prekrasnyy."
+      },
+      {
+        "pt": "A manhã está fria.",
+        "term": "Утро холодное.",
+        "roman": "Utro kholodnoe."
+      },
+      {
+        "pt": "Gosto da noite.",
+        "term": "Я люблю ночь.",
+        "roman": "Ya lyublyu noch."
+      },
+      {
+        "pt": "O céu é azul.",
+        "term": "Небо синее.",
+        "roman": "Nebo sinee."
+      }
+    ],
+    "travel": [
+      {
+        "pt": "Onde fica o hotel?",
+        "term": "Где находится отель?",
+        "roman": "Gde nakhoditsya otel?"
+      },
+      {
+        "pt": "Eu vou de carro.",
+        "term": "Я еду на машине.",
+        "roman": "Ya edu na mashine."
+      },
+      {
+        "pt": "A praia é bonita.",
+        "term": "Пляж красивый.",
+        "roman": "Plyazh krasivyy."
+      },
+      {
+        "pt": "Quero um bilhete, por favor.",
+        "term": "Я хочу билет, пожалуйста.",
+        "roman": "Ya khochu bilet, pozhaluysta."
+      },
+      {
+        "pt": "O trem é grande.",
+        "term": "Поезд большой.",
+        "roman": "Poezd bolshoy."
+      },
+      {
+        "pt": "A cidade é bonita.",
+        "term": "Город красивый.",
+        "roman": "Gorod krasivyy."
+      }
+    ],
+    "conversation": [
+      {
+        "pt": "Eu estou feliz hoje.",
+        "term": "Я сегодня счастлив.",
+        "roman": "Ya segodnya schastliv."
+      },
+      {
+        "pt": "Amanhã eu vou.",
+        "term": "Завтра я пойду.",
+        "roman": "Zavtra ya poydu."
+      },
+      {
+        "pt": "Eu gosto muito de você.",
+        "term": "Ты мне очень нравишься.",
+        "roman": "Ty mne ochen nravishsya."
+      },
+      {
+        "pt": "Hoje é um bom dia.",
+        "term": "Сегодня хороший день.",
+        "roman": "Segodnya khoroshiy den."
+      },
+      {
+        "pt": "Eu estou aqui agora.",
+        "term": "Я сейчас здесь.",
+        "roman": "Ya seychas zdes."
+      },
+      {
+        "pt": "Você é muito bonito.",
+        "term": "Ты очень красивый.",
+        "roman": "Ty ochen krasivyy."
+      }
+    ]
+  }
+}

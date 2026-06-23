@@ -1,0 +1,1183 @@
+{
+  "code": "ja",
+  "themes": {
+    "greetings": [
+      {
+        "pt": "olá",
+        "term": "こんにちは (konnichiwa)"
+      },
+      {
+        "pt": "tchau",
+        "term": "さようなら (sayōnara)"
+      },
+      {
+        "pt": "obrigado(a)",
+        "term": "ありがとう (arigatō)"
+      },
+      {
+        "pt": "por favor",
+        "term": "お願いします (onegaishimasu)"
+      },
+      {
+        "pt": "sim",
+        "term": "はい (hai)"
+      },
+      {
+        "pt": "não",
+        "term": "いいえ (iie)"
+      },
+      {
+        "pt": "bom dia",
+        "term": "おはようございます (ohayō gozaimasu)"
+      },
+      {
+        "pt": "boa noite",
+        "term": "おやすみなさい (oyasuminasai)"
+      },
+      {
+        "pt": "desculpe",
+        "term": "ごめんなさい (gomennasai)"
+      },
+      {
+        "pt": "com licença",
+        "term": "すみません (sumimasen)"
+      },
+      {
+        "pt": "boa tarde",
+        "term": "こんにちは (konnichiwa)"
+      },
+      {
+        "pt": "prazer em conhecer",
+        "term": "はじめまして (hajimemashite)"
+      },
+      {
+        "pt": "tudo bem?",
+        "term": "元気ですか (genki desu ka)"
+      },
+      {
+        "pt": "até logo",
+        "term": "またね (mata ne)"
+      },
+      {
+        "pt": "de nada",
+        "term": "どういたしまして (dou itashimashite)"
+      },
+      {
+        "pt": "com certeza",
+        "term": "もちろん (mochiron)"
+      }
+    ],
+    "numbers_colors": [
+      {
+        "pt": "um",
+        "term": "一 (ichi)"
+      },
+      {
+        "pt": "dois",
+        "term": "二 (ni)"
+      },
+      {
+        "pt": "três",
+        "term": "三 (san)"
+      },
+      {
+        "pt": "quatro",
+        "term": "四 (yon)"
+      },
+      {
+        "pt": "cinco",
+        "term": "五 (go)"
+      },
+      {
+        "pt": "vermelho",
+        "term": "赤 (aka)"
+      },
+      {
+        "pt": "azul",
+        "term": "青 (ao)"
+      },
+      {
+        "pt": "verde",
+        "term": "緑 (midori)"
+      },
+      {
+        "pt": "amarelo",
+        "term": "黄色 (kiiro)"
+      },
+      {
+        "pt": "preto",
+        "term": "黒 (kuro)"
+      },
+      {
+        "pt": "seis",
+        "term": "六 (roku)"
+      },
+      {
+        "pt": "sete",
+        "term": "七 (nana)"
+      },
+      {
+        "pt": "oito",
+        "term": "八 (hachi)"
+      },
+      {
+        "pt": "nove",
+        "term": "九 (kyuu)"
+      },
+      {
+        "pt": "dez",
+        "term": "十 (juu)"
+      },
+      {
+        "pt": "branco",
+        "term": "白 (shiro)"
+      }
+    ],
+    "family": [
+      {
+        "pt": "mãe",
+        "term": "お母さん (okāsan)"
+      },
+      {
+        "pt": "pai",
+        "term": "お父さん (otōsan)"
+      },
+      {
+        "pt": "irmão",
+        "term": "兄弟 (kyōdai)"
+      },
+      {
+        "pt": "irmã",
+        "term": "姉妹 (shimai)"
+      },
+      {
+        "pt": "avó",
+        "term": "おばあさん (obāsan)"
+      },
+      {
+        "pt": "avô",
+        "term": "おじいさん (ojīsan)"
+      },
+      {
+        "pt": "filho",
+        "term": "息子 (musuko)"
+      },
+      {
+        "pt": "filha",
+        "term": "娘 (musume)"
+      },
+      {
+        "pt": "amigo",
+        "term": "友達 (tomodachi)"
+      },
+      {
+        "pt": "família",
+        "term": "家族 (kazoku)"
+      },
+      {
+        "pt": "marido",
+        "term": "夫 (otto)"
+      },
+      {
+        "pt": "esposa",
+        "term": "妻 (tsuma)"
+      },
+      {
+        "pt": "tio",
+        "term": "おじ (oji)"
+      },
+      {
+        "pt": "tia",
+        "term": "おば (oba)"
+      },
+      {
+        "pt": "primo",
+        "term": "いとこ (itoko)"
+      },
+      {
+        "pt": "bebê",
+        "term": "赤ちゃん (akachan)"
+      }
+    ],
+    "food": [
+      {
+        "pt": "água",
+        "term": "水 (mizu)"
+      },
+      {
+        "pt": "pão",
+        "term": "パン (pan)"
+      },
+      {
+        "pt": "maçã",
+        "term": "りんご (ringo)"
+      },
+      {
+        "pt": "leite",
+        "term": "牛乳 (gyūnyū)"
+      },
+      {
+        "pt": "café",
+        "term": "コーヒー (kōhī)"
+      },
+      {
+        "pt": "arroz",
+        "term": "ご飯 (gohan)"
+      },
+      {
+        "pt": "queijo",
+        "term": "チーズ (chīzu)"
+      },
+      {
+        "pt": "ovo",
+        "term": "卵 (tamago)"
+      },
+      {
+        "pt": "fruta",
+        "term": "果物 (kudamono)"
+      },
+      {
+        "pt": "carne",
+        "term": "肉 (niku)"
+      },
+      {
+        "pt": "sopa",
+        "term": "スープ (suupu)"
+      },
+      {
+        "pt": "salada",
+        "term": "サラダ (sarada)"
+      },
+      {
+        "pt": "açúcar",
+        "term": "砂糖 (satou)"
+      },
+      {
+        "pt": "sal",
+        "term": "塩 (shio)"
+      },
+      {
+        "pt": "suco",
+        "term": "ジュース (juusu)"
+      },
+      {
+        "pt": "bolo",
+        "term": "ケーキ (keeki)"
+      }
+    ],
+    "animals_nature": [
+      {
+        "pt": "cachorro",
+        "term": "犬 (inu)"
+      },
+      {
+        "pt": "gato",
+        "term": "猫 (neko)"
+      },
+      {
+        "pt": "pássaro",
+        "term": "鳥 (tori)"
+      },
+      {
+        "pt": "peixe",
+        "term": "魚 (sakana)"
+      },
+      {
+        "pt": "cavalo",
+        "term": "馬 (uma)"
+      },
+      {
+        "pt": "árvore",
+        "term": "木 (ki)"
+      },
+      {
+        "pt": "sol",
+        "term": "太陽 (taiyō)"
+      },
+      {
+        "pt": "lua",
+        "term": "月 (tsuki)"
+      },
+      {
+        "pt": "flor",
+        "term": "花 (hana)"
+      },
+      {
+        "pt": "rio",
+        "term": "川 (kawa)"
+      },
+      {
+        "pt": "vaca",
+        "term": "牛 (ushi)"
+      },
+      {
+        "pt": "galinha",
+        "term": "鶏 (niwatori)"
+      },
+      {
+        "pt": "coelho",
+        "term": "うさぎ (usagi)"
+      },
+      {
+        "pt": "montanha",
+        "term": "山 (yama)"
+      },
+      {
+        "pt": "mar",
+        "term": "海 (umi)"
+      },
+      {
+        "pt": "estrela",
+        "term": "星 (hoshi)"
+      }
+    ],
+    "home_daily": [
+      {
+        "pt": "casa",
+        "term": "家 (ie)"
+      },
+      {
+        "pt": "porta",
+        "term": "ドア (doa)"
+      },
+      {
+        "pt": "mesa",
+        "term": "テーブル (tēburu)"
+      },
+      {
+        "pt": "cama",
+        "term": "ベッド (beddo)"
+      },
+      {
+        "pt": "cadeira",
+        "term": "椅子 (isu)"
+      },
+      {
+        "pt": "janela",
+        "term": "窓 (mado)"
+      },
+      {
+        "pt": "cozinha",
+        "term": "台所 (daidokoro)"
+      },
+      {
+        "pt": "banheiro",
+        "term": "トイレ (toire)"
+      },
+      {
+        "pt": "chave",
+        "term": "鍵 (kagi)"
+      },
+      {
+        "pt": "relógio",
+        "term": "時計 (tokei)"
+      },
+      {
+        "pt": "sofá",
+        "term": "ソファ (sofa)"
+      },
+      {
+        "pt": "espelho",
+        "term": "鏡 (kagami)"
+      },
+      {
+        "pt": "prato",
+        "term": "皿 (sara)"
+      },
+      {
+        "pt": "copo",
+        "term": "コップ (koppu)"
+      },
+      {
+        "pt": "sabonete",
+        "term": "石鹸 (sekken)"
+      },
+      {
+        "pt": "toalha",
+        "term": "タオル (taoru)"
+      }
+    ],
+    "verbs_actions": [
+      {
+        "pt": "ser",
+        "term": "だ (da)"
+      },
+      {
+        "pt": "ter",
+        "term": "持つ (motsu)"
+      },
+      {
+        "pt": "ir",
+        "term": "行く (iku)"
+      },
+      {
+        "pt": "comer",
+        "term": "食べる (taberu)"
+      },
+      {
+        "pt": "beber",
+        "term": "飲む (nomu)"
+      },
+      {
+        "pt": "falar",
+        "term": "話す (hanasu)"
+      },
+      {
+        "pt": "ver",
+        "term": "見る (miru)"
+      },
+      {
+        "pt": "ouvir",
+        "term": "聞く (kiku)"
+      },
+      {
+        "pt": "ler",
+        "term": "読む (yomu)"
+      },
+      {
+        "pt": "escrever",
+        "term": "書く (kaku)"
+      },
+      {
+        "pt": "querer",
+        "term": "欲しい (hoshii)"
+      },
+      {
+        "pt": "fazer",
+        "term": "する (suru)"
+      },
+      {
+        "pt": "dormir",
+        "term": "寝る (neru)"
+      },
+      {
+        "pt": "andar",
+        "term": "歩く (aruku)"
+      },
+      {
+        "pt": "comprar",
+        "term": "買う (kau)"
+      },
+      {
+        "pt": "gostar",
+        "term": "好む (konomu)"
+      }
+    ],
+    "body_health": [
+      {
+        "pt": "cabeça",
+        "term": "頭 (atama)"
+      },
+      {
+        "pt": "cabelo",
+        "term": "髪 (kami)"
+      },
+      {
+        "pt": "olho",
+        "term": "目 (me)"
+      },
+      {
+        "pt": "nariz",
+        "term": "鼻 (hana)"
+      },
+      {
+        "pt": "boca",
+        "term": "口 (kuchi)"
+      },
+      {
+        "pt": "dente",
+        "term": "歯 (ha)"
+      },
+      {
+        "pt": "orelha",
+        "term": "耳 (mimi)"
+      },
+      {
+        "pt": "mão",
+        "term": "手 (te)"
+      },
+      {
+        "pt": "braço",
+        "term": "腕 (ude)"
+      },
+      {
+        "pt": "perna",
+        "term": "足 (ashi)"
+      },
+      {
+        "pt": "pé",
+        "term": "足 (ashi)"
+      },
+      {
+        "pt": "coração",
+        "term": "心臓 (shinzou)"
+      },
+      {
+        "pt": "médico",
+        "term": "医者 (isha)"
+      },
+      {
+        "pt": "remédio",
+        "term": "薬 (kusuri)"
+      },
+      {
+        "pt": "dor",
+        "term": "痛み (itami)"
+      },
+      {
+        "pt": "saúde",
+        "term": "健康 (kenkou)"
+      }
+    ],
+    "work_school": [
+      {
+        "pt": "escola",
+        "term": "学校 (gakkou)"
+      },
+      {
+        "pt": "professor",
+        "term": "先生 (sensei)"
+      },
+      {
+        "pt": "aluno",
+        "term": "生徒 (seito)"
+      },
+      {
+        "pt": "livro",
+        "term": "本 (hon)"
+      },
+      {
+        "pt": "caneta",
+        "term": "ペン (pen)"
+      },
+      {
+        "pt": "papel",
+        "term": "紙 (kami)"
+      },
+      {
+        "pt": "lápis",
+        "term": "鉛筆 (enpitsu)"
+      },
+      {
+        "pt": "computador",
+        "term": "コンピューター (konpyuutaa)"
+      },
+      {
+        "pt": "trabalho",
+        "term": "仕事 (shigoto)"
+      },
+      {
+        "pt": "dinheiro",
+        "term": "お金 (okane)"
+      },
+      {
+        "pt": "emprego",
+        "term": "職 (shoku)"
+      },
+      {
+        "pt": "aula",
+        "term": "授業 (jugyou)"
+      },
+      {
+        "pt": "prova",
+        "term": "試験 (shiken)"
+      },
+      {
+        "pt": "escritório",
+        "term": "事務所 (jimusho)"
+      },
+      {
+        "pt": "reunião",
+        "term": "会議 (kaigi)"
+      },
+      {
+        "pt": "ideia",
+        "term": "アイデア (aidea)"
+      }
+    ],
+    "time_weather": [
+      {
+        "pt": "dia",
+        "term": "日 (hi)"
+      },
+      {
+        "pt": "noite",
+        "term": "夜 (yoru)"
+      },
+      {
+        "pt": "manhã",
+        "term": "朝 (asa)"
+      },
+      {
+        "pt": "tarde",
+        "term": "午後 (gogo)"
+      },
+      {
+        "pt": "semana",
+        "term": "週 (shuu)"
+      },
+      {
+        "pt": "mês",
+        "term": "月 (tsuki)"
+      },
+      {
+        "pt": "ano",
+        "term": "年 (toshi)"
+      },
+      {
+        "pt": "hora",
+        "term": "時間 (jikan)"
+      },
+      {
+        "pt": "minuto",
+        "term": "分 (fun)"
+      },
+      {
+        "pt": "chuva",
+        "term": "雨 (ame)"
+      },
+      {
+        "pt": "neve",
+        "term": "雪 (yuki)"
+      },
+      {
+        "pt": "vento",
+        "term": "風 (kaze)"
+      },
+      {
+        "pt": "calor",
+        "term": "暑さ (atsusa)"
+      },
+      {
+        "pt": "frio",
+        "term": "寒さ (samusa)"
+      },
+      {
+        "pt": "nuvem",
+        "term": "雲 (kumo)"
+      },
+      {
+        "pt": "céu",
+        "term": "空 (sora)"
+      }
+    ],
+    "travel": [
+      {
+        "pt": "cidade",
+        "term": "町 (machi)"
+      },
+      {
+        "pt": "rua",
+        "term": "通り (tōri)"
+      },
+      {
+        "pt": "carro",
+        "term": "車 (kuruma)"
+      },
+      {
+        "pt": "ônibus",
+        "term": "バス (basu)"
+      },
+      {
+        "pt": "hotel",
+        "term": "ホテル (hoteru)"
+      },
+      {
+        "pt": "mapa",
+        "term": "地図 (chizu)"
+      },
+      {
+        "pt": "praia",
+        "term": "海岸 (kaigan)"
+      },
+      {
+        "pt": "aeroporto",
+        "term": "空港 (kūkō)"
+      },
+      {
+        "pt": "trem",
+        "term": "電車 (densha)"
+      },
+      {
+        "pt": "bilhete",
+        "term": "切符 (kippu)"
+      },
+      {
+        "pt": "avião",
+        "term": "飛行機 (hikouki)"
+      },
+      {
+        "pt": "barco",
+        "term": "船 (fune)"
+      },
+      {
+        "pt": "estação",
+        "term": "駅 (eki)"
+      },
+      {
+        "pt": "passaporte",
+        "term": "パスポート (pasupooto)"
+      },
+      {
+        "pt": "mala",
+        "term": "スーツケース (suutsukeesu)"
+      },
+      {
+        "pt": "táxi",
+        "term": "タクシー (takushii)"
+      }
+    ],
+    "conversation": [
+      {
+        "pt": "amor",
+        "term": "愛 (ai)"
+      },
+      {
+        "pt": "feliz",
+        "term": "嬉しい (ureshii)"
+      },
+      {
+        "pt": "triste",
+        "term": "悲しい (kanashii)"
+      },
+      {
+        "pt": "hoje",
+        "term": "今日 (kyō)"
+      },
+      {
+        "pt": "amanhã",
+        "term": "明日 (ashita)"
+      },
+      {
+        "pt": "bonito",
+        "term": "きれい (kirei)"
+      },
+      {
+        "pt": "grande",
+        "term": "大きい (ōkii)"
+      },
+      {
+        "pt": "pequeno",
+        "term": "小さい (chiisai)"
+      },
+      {
+        "pt": "novo",
+        "term": "新しい (atarashii)"
+      },
+      {
+        "pt": "bem",
+        "term": "元気 (genki)"
+      },
+      {
+        "pt": "ontem",
+        "term": "昨日 (kinou)"
+      },
+      {
+        "pt": "agora",
+        "term": "今 (ima)"
+      },
+      {
+        "pt": "aqui",
+        "term": "ここ (koko)"
+      },
+      {
+        "pt": "muito",
+        "term": "とても (totemo)"
+      },
+      {
+        "pt": "pouco",
+        "term": "少し (sukoshi)"
+      },
+      {
+        "pt": "também",
+        "term": "も (mo)"
+      }
+    ]
+  },
+  "sentences": {
+    "greetings": [
+      {
+        "pt": "Olá, tudo bem?",
+        "term": "こんにちは 、 元気 ですか ？",
+        "roman": "Konnichiwa, genki desu ka?"
+      },
+      {
+        "pt": "Bom dia!",
+        "term": "おはよう ございます ！",
+        "roman": "Ohayou gozaimasu!"
+      },
+      {
+        "pt": "Muito obrigado.",
+        "term": "どうも ありがとう ございます 。",
+        "roman": "Doumo arigatou gozaimasu."
+      },
+      {
+        "pt": "Boa noite, mãe.",
+        "term": "おやすみなさい 、 お母さん 。",
+        "roman": "Oyasuminasai, okaasan."
+      },
+      {
+        "pt": "Até logo, amigo!",
+        "term": "また ね 、 友達 ！",
+        "roman": "Mata ne, tomodachi!"
+      },
+      {
+        "pt": "Sim, por favor.",
+        "term": "はい 、 お願い します 。",
+        "roman": "Hai, onegai shimasu."
+      }
+    ],
+    "numbers_colors": [
+      {
+        "pt": "Eu tenho dois gatos.",
+        "term": "私 は 猫 を 二 匹 飼って います 。",
+        "roman": "Watashi wa neko o ni hiki katte imasu."
+      },
+      {
+        "pt": "A casa é azul.",
+        "term": "家 は 青い です 。",
+        "roman": "Ie wa aoi desu."
+      },
+      {
+        "pt": "Eu vejo três flores.",
+        "term": "私 は 花 を 三 本 見ます 。",
+        "roman": "Watashi wa hana o san bon mimasu."
+      },
+      {
+        "pt": "O carro é vermelho.",
+        "term": "車 は 赤い です 。",
+        "roman": "Kuruma wa akai desu."
+      },
+      {
+        "pt": "Tenho cinco amigos.",
+        "term": "私 は 友達 が 五 人 います 。",
+        "roman": "Watashi wa tomodachi ga go nin imasu."
+      },
+      {
+        "pt": "A porta é branca.",
+        "term": "ドア は 白い です 。",
+        "roman": "Doa wa shiroi desu."
+      }
+    ],
+    "family": [
+      {
+        "pt": "Esta é a minha mãe.",
+        "term": "これ は 私 の 母 です 。",
+        "roman": "Kore wa watashi no haha desu."
+      },
+      {
+        "pt": "Eu amo a minha família.",
+        "term": "私 は 家族 を 愛して います 。",
+        "roman": "Watashi wa kazoku o aishite imasu."
+      },
+      {
+        "pt": "O meu pai é grande.",
+        "term": "私 の 父 は 大きい です 。",
+        "roman": "Watashi no chichi wa ookii desu."
+      },
+      {
+        "pt": "Tenho um irmão e uma irmã.",
+        "term": "私 は 兄 と 姉 が います 。",
+        "roman": "Watashi wa ani to ane ga imasu."
+      },
+      {
+        "pt": "A minha avó é bonita.",
+        "term": "私 の 祖母 は きれい です 。",
+        "roman": "Watashi no sobo wa kirei desu."
+      },
+      {
+        "pt": "O bebê dorme agora.",
+        "term": "赤ちゃん は 今 寝て います 。",
+        "roman": "Akachan wa ima nete imasu."
+      }
+    ],
+    "food": [
+      {
+        "pt": "Eu bebo água.",
+        "term": "私 は 水 を 飲みます 。",
+        "roman": "Watashi wa mizu o nomimasu."
+      },
+      {
+        "pt": "Eu como pão.",
+        "term": "私 は パン を 食べます 。",
+        "roman": "Watashi wa pan o tabemasu."
+      },
+      {
+        "pt": "Eu gosto de café.",
+        "term": "私 は コーヒー が 好き です 。",
+        "roman": "Watashi wa koohii ga suki desu."
+      },
+      {
+        "pt": "Quero uma maçã.",
+        "term": "私 は りんご が 欲しい です 。",
+        "roman": "Watashi wa ringo ga hoshii desu."
+      },
+      {
+        "pt": "A sopa é boa.",
+        "term": "スープ は おいしい です 。",
+        "roman": "Suupu wa oishii desu."
+      },
+      {
+        "pt": "Você quer suco?",
+        "term": "ジュース が 欲しい です か ？",
+        "roman": "Juusu ga hoshii desu ka?"
+      }
+    ],
+    "animals_nature": [
+      {
+        "pt": "O cachorro é grande.",
+        "term": "犬 は 大きい です 。",
+        "roman": "Inu wa ookii desu."
+      },
+      {
+        "pt": "Eu vejo um pássaro.",
+        "term": "私 は 鳥 を 見ます 。",
+        "roman": "Watashi wa tori o mimasu."
+      },
+      {
+        "pt": "O gato dorme na cama.",
+        "term": "猫 は ベッド で 寝て います 。",
+        "roman": "Neko wa beddo de nete imasu."
+      },
+      {
+        "pt": "O sol é amarelo.",
+        "term": "太陽 は 黄色い です 。",
+        "roman": "Taiyou wa kiiroi desu."
+      },
+      {
+        "pt": "A árvore é grande.",
+        "term": "木 は 大きい です 。",
+        "roman": "Ki wa ookii desu."
+      },
+      {
+        "pt": "O peixe está no rio.",
+        "term": "魚 は 川 に います 。",
+        "roman": "Sakana wa kawa ni imasu."
+      }
+    ],
+    "home_daily": [
+      {
+        "pt": "A chave está na mesa.",
+        "term": "鍵 は テーブル の 上 に あります 。",
+        "roman": "Kagi wa teeburu no ue ni arimasu."
+      },
+      {
+        "pt": "A cama é grande.",
+        "term": "ベッド は 大きい です 。",
+        "roman": "Beddo wa ookii desu."
+      },
+      {
+        "pt": "Eu como na cozinha.",
+        "term": "私 は 台所 で 食べます 。",
+        "roman": "Watashi wa daidokoro de tabemasu."
+      },
+      {
+        "pt": "O copo está na mesa.",
+        "term": "コップ は テーブル の 上 に あります 。",
+        "roman": "Koppu wa teeburu no ue ni arimasu."
+      },
+      {
+        "pt": "A janela é pequena.",
+        "term": "窓 は 小さい です 。",
+        "roman": "Mado wa chiisai desu."
+      },
+      {
+        "pt": "Eu gosto da minha casa.",
+        "term": "私 は 自分 の 家 が 好き です 。",
+        "roman": "Watashi wa jibun no ie ga suki desu."
+      }
+    ],
+    "verbs_actions": [
+      {
+        "pt": "Eu quero comer.",
+        "term": "私 は 食べたい です 。",
+        "roman": "Watashi wa tabetai desu."
+      },
+      {
+        "pt": "Você gosta de ler?",
+        "term": "あなた は 読む の が 好き です か ？",
+        "roman": "Anata wa yomu no ga suki desu ka?"
+      },
+      {
+        "pt": "Nós vamos andar.",
+        "term": "私たち は 歩きます 。",
+        "roman": "Watashitachi wa arukimasu."
+      },
+      {
+        "pt": "Ele quer dormir.",
+        "term": "彼 は 寝たい です 。",
+        "roman": "Kare wa netai desu."
+      },
+      {
+        "pt": "Eu gosto de falar.",
+        "term": "私 は 話す の が 好き です 。",
+        "roman": "Watashi wa hanasu no ga suki desu."
+      },
+      {
+        "pt": "Eu vou comprar pão.",
+        "term": "私 は パン を 買います 。",
+        "roman": "Watashi wa pan o kaimasu."
+      }
+    ],
+    "body_health": [
+      {
+        "pt": "Eu tenho dor de cabeça.",
+        "term": "私 は 頭 が 痛い です 。",
+        "roman": "Watashi wa atama ga itai desu."
+      },
+      {
+        "pt": "O médico é bom.",
+        "term": "医者 は いい です 。",
+        "roman": "Isha wa ii desu."
+      },
+      {
+        "pt": "Eu tenho dois olhos.",
+        "term": "私 は 目 が 二 つ あります 。",
+        "roman": "Watashi wa me ga futatsu arimasu."
+      },
+      {
+        "pt": "As minhas mãos estão frias.",
+        "term": "私 の 手 は 冷たい です 。",
+        "roman": "Watashi no te wa tsumetai desu."
+      },
+      {
+        "pt": "O meu coração é grande.",
+        "term": "私 の 心 は 大きい です 。",
+        "roman": "Watashi no kokoro wa ookii desu."
+      },
+      {
+        "pt": "Eu quero saúde.",
+        "term": "私 は 健康 が 欲しい です 。",
+        "roman": "Watashi wa kenkou ga hoshii desu."
+      }
+    ],
+    "work_school": [
+      {
+        "pt": "Eu vou à escola.",
+        "term": "私 は 学校 に 行きます 。",
+        "roman": "Watashi wa gakkou ni ikimasu."
+      },
+      {
+        "pt": "O professor é bom.",
+        "term": "先生 は いい です 。",
+        "roman": "Sensei wa ii desu."
+      },
+      {
+        "pt": "Eu leio um livro.",
+        "term": "私 は 本 を 読みます 。",
+        "roman": "Watashi wa hon o yomimasu."
+      },
+      {
+        "pt": "Eu gosto da escola.",
+        "term": "私 は 学校 が 好き です 。",
+        "roman": "Watashi wa gakkou ga suki desu."
+      },
+      {
+        "pt": "Tenho uma caneta nova.",
+        "term": "私 は 新しい ペン を 持って います 。",
+        "roman": "Watashi wa atarashii pen o motte imasu."
+      },
+      {
+        "pt": "Eu escrevo no papel.",
+        "term": "私 は 紙 に 書きます 。",
+        "roman": "Watashi wa kami ni kakimasu."
+      }
+    ],
+    "time_weather": [
+      {
+        "pt": "Hoje está frio.",
+        "term": "今日 は 寒い です 。",
+        "roman": "Kyou wa samui desu."
+      },
+      {
+        "pt": "Hoje tem chuva.",
+        "term": "今日 は 雨 です 。",
+        "roman": "Kyou wa ame desu."
+      },
+      {
+        "pt": "O dia está bonito.",
+        "term": "いい 天気 です 。",
+        "roman": "Ii tenki desu."
+      },
+      {
+        "pt": "A manhã está fria.",
+        "term": "朝 は 寒い です 。",
+        "roman": "Asa wa samui desu."
+      },
+      {
+        "pt": "Gosto da noite.",
+        "term": "私 は 夜 が 好き です 。",
+        "roman": "Watashi wa yoru ga suki desu."
+      },
+      {
+        "pt": "O céu é azul.",
+        "term": "空 は 青い です 。",
+        "roman": "Sora wa aoi desu."
+      }
+    ],
+    "travel": [
+      {
+        "pt": "Onde fica o hotel?",
+        "term": "ホテル は どこ です か ？",
+        "roman": "Hoteru wa doko desu ka?"
+      },
+      {
+        "pt": "Eu vou de carro.",
+        "term": "私 は 車 で 行きます 。",
+        "roman": "Watashi wa kuruma de ikimasu."
+      },
+      {
+        "pt": "A praia é bonita.",
+        "term": "ビーチ は きれい です 。",
+        "roman": "Biichi wa kirei desu."
+      },
+      {
+        "pt": "Quero um bilhete, por favor.",
+        "term": "切符 を 一 枚 お願い します 。",
+        "roman": "Kippu o ichi mai onegai shimasu."
+      },
+      {
+        "pt": "O trem é grande.",
+        "term": "電車 は 大きい です 。",
+        "roman": "Densha wa ookii desu."
+      },
+      {
+        "pt": "A cidade é bonita.",
+        "term": "町 は きれい です 。",
+        "roman": "Machi wa kirei desu."
+      }
+    ],
+    "conversation": [
+      {
+        "pt": "Eu estou feliz hoje.",
+        "term": "私 は 今日 嬉しい です 。",
+        "roman": "Watashi wa kyou ureshii desu."
+      },
+      {
+        "pt": "Amanhã eu vou.",
+        "term": "私 は 明日 行きます 。",
+        "roman": "Watashi wa ashita ikimasu."
+      },
+      {
+        "pt": "Eu gosto muito de você.",
+        "term": "私 は あなた が 大好き です 。",
+        "roman": "Watashi wa anata ga daisuki desu."
+      },
+      {
+        "pt": "Hoje é um bom dia.",
+        "term": "今日 は いい 日 です 。",
+        "roman": "Kyou wa ii hi desu."
+      },
+      {
+        "pt": "Eu estou aqui agora.",
+        "term": "私 は 今 ここ に います 。",
+        "roman": "Watashi wa ima koko ni imasu."
+      },
+      {
+        "pt": "Você é muito bonito.",
+        "term": "あなた は とても かっこいい です 。",
+        "roman": "Anata wa totemo kakkoii desu."
+      }
+    ]
+  }
+}

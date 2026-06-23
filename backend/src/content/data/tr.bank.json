@@ -1,0 +1,1111 @@
+{
+  "code": "tr",
+  "themes": {
+    "greetings": [
+      {
+        "pt": "olá",
+        "term": "merhaba"
+      },
+      {
+        "pt": "tchau",
+        "term": "hoşça kal"
+      },
+      {
+        "pt": "obrigado(a)",
+        "term": "teşekkürler"
+      },
+      {
+        "pt": "por favor",
+        "term": "lütfen"
+      },
+      {
+        "pt": "sim",
+        "term": "evet"
+      },
+      {
+        "pt": "não",
+        "term": "hayır"
+      },
+      {
+        "pt": "bom dia",
+        "term": "günaydın"
+      },
+      {
+        "pt": "boa noite",
+        "term": "iyi geceler"
+      },
+      {
+        "pt": "desculpe",
+        "term": "özür dilerim"
+      },
+      {
+        "pt": "com licença",
+        "term": "pardon"
+      },
+      {
+        "pt": "boa tarde",
+        "term": "iyi günler"
+      },
+      {
+        "pt": "prazer em conhecer",
+        "term": "tanıştığımıza memnun oldum"
+      },
+      {
+        "pt": "tudo bem?",
+        "term": "nasılsın"
+      },
+      {
+        "pt": "até logo",
+        "term": "görüşürüz"
+      },
+      {
+        "pt": "de nada",
+        "term": "rica ederim"
+      },
+      {
+        "pt": "com certeza",
+        "term": "kesinlikle"
+      }
+    ],
+    "numbers_colors": [
+      {
+        "pt": "um",
+        "term": "bir"
+      },
+      {
+        "pt": "dois",
+        "term": "iki"
+      },
+      {
+        "pt": "três",
+        "term": "üç"
+      },
+      {
+        "pt": "quatro",
+        "term": "dört"
+      },
+      {
+        "pt": "cinco",
+        "term": "beş"
+      },
+      {
+        "pt": "vermelho",
+        "term": "kırmızı"
+      },
+      {
+        "pt": "azul",
+        "term": "mavi"
+      },
+      {
+        "pt": "verde",
+        "term": "yeşil"
+      },
+      {
+        "pt": "amarelo",
+        "term": "sarı"
+      },
+      {
+        "pt": "preto",
+        "term": "siyah"
+      },
+      {
+        "pt": "seis",
+        "term": "altı"
+      },
+      {
+        "pt": "sete",
+        "term": "yedi"
+      },
+      {
+        "pt": "oito",
+        "term": "sekiz"
+      },
+      {
+        "pt": "nove",
+        "term": "dokuz"
+      },
+      {
+        "pt": "dez",
+        "term": "on"
+      },
+      {
+        "pt": "branco",
+        "term": "beyaz"
+      }
+    ],
+    "family": [
+      {
+        "pt": "mãe",
+        "term": "anne"
+      },
+      {
+        "pt": "pai",
+        "term": "baba"
+      },
+      {
+        "pt": "irmão",
+        "term": "erkek kardeş"
+      },
+      {
+        "pt": "irmã",
+        "term": "kız kardeş"
+      },
+      {
+        "pt": "avó",
+        "term": "büyükanne"
+      },
+      {
+        "pt": "avô",
+        "term": "büyükbaba"
+      },
+      {
+        "pt": "filho",
+        "term": "oğul"
+      },
+      {
+        "pt": "filha",
+        "term": "kız"
+      },
+      {
+        "pt": "amigo",
+        "term": "arkadaş"
+      },
+      {
+        "pt": "família",
+        "term": "aile"
+      },
+      {
+        "pt": "marido",
+        "term": "koca"
+      },
+      {
+        "pt": "esposa",
+        "term": "eş"
+      },
+      {
+        "pt": "tio",
+        "term": "amca"
+      },
+      {
+        "pt": "tia",
+        "term": "teyze"
+      },
+      {
+        "pt": "primo",
+        "term": "kuzen"
+      },
+      {
+        "pt": "bebê",
+        "term": "bebek"
+      }
+    ],
+    "food": [
+      {
+        "pt": "água",
+        "term": "su"
+      },
+      {
+        "pt": "pão",
+        "term": "ekmek"
+      },
+      {
+        "pt": "maçã",
+        "term": "elma"
+      },
+      {
+        "pt": "leite",
+        "term": "süt"
+      },
+      {
+        "pt": "café",
+        "term": "kahve"
+      },
+      {
+        "pt": "arroz",
+        "term": "pirinç"
+      },
+      {
+        "pt": "queijo",
+        "term": "peynir"
+      },
+      {
+        "pt": "ovo",
+        "term": "yumurta"
+      },
+      {
+        "pt": "fruta",
+        "term": "meyve"
+      },
+      {
+        "pt": "carne",
+        "term": "et"
+      },
+      {
+        "pt": "sopa",
+        "term": "çorba"
+      },
+      {
+        "pt": "salada",
+        "term": "salata"
+      },
+      {
+        "pt": "açúcar",
+        "term": "şeker"
+      },
+      {
+        "pt": "sal",
+        "term": "tuz"
+      },
+      {
+        "pt": "suco",
+        "term": "meyve suyu"
+      },
+      {
+        "pt": "bolo",
+        "term": "kek"
+      }
+    ],
+    "animals_nature": [
+      {
+        "pt": "cachorro",
+        "term": "köpek"
+      },
+      {
+        "pt": "gato",
+        "term": "kedi"
+      },
+      {
+        "pt": "pássaro",
+        "term": "kuş"
+      },
+      {
+        "pt": "peixe",
+        "term": "balık"
+      },
+      {
+        "pt": "cavalo",
+        "term": "at"
+      },
+      {
+        "pt": "árvore",
+        "term": "ağaç"
+      },
+      {
+        "pt": "sol",
+        "term": "güneş"
+      },
+      {
+        "pt": "lua",
+        "term": "ay"
+      },
+      {
+        "pt": "flor",
+        "term": "çiçek"
+      },
+      {
+        "pt": "rio",
+        "term": "nehir"
+      },
+      {
+        "pt": "vaca",
+        "term": "inek"
+      },
+      {
+        "pt": "galinha",
+        "term": "tavuk"
+      },
+      {
+        "pt": "coelho",
+        "term": "tavşan"
+      },
+      {
+        "pt": "montanha",
+        "term": "dağ"
+      },
+      {
+        "pt": "mar",
+        "term": "deniz"
+      },
+      {
+        "pt": "estrela",
+        "term": "yıldız"
+      }
+    ],
+    "home_daily": [
+      {
+        "pt": "casa",
+        "term": "ev"
+      },
+      {
+        "pt": "porta",
+        "term": "kapı"
+      },
+      {
+        "pt": "mesa",
+        "term": "masa"
+      },
+      {
+        "pt": "cama",
+        "term": "yatak"
+      },
+      {
+        "pt": "cadeira",
+        "term": "sandalye"
+      },
+      {
+        "pt": "janela",
+        "term": "pencere"
+      },
+      {
+        "pt": "cozinha",
+        "term": "mutfak"
+      },
+      {
+        "pt": "banheiro",
+        "term": "banyo"
+      },
+      {
+        "pt": "chave",
+        "term": "anahtar"
+      },
+      {
+        "pt": "relógio",
+        "term": "saat"
+      },
+      {
+        "pt": "sofá",
+        "term": "kanepe"
+      },
+      {
+        "pt": "espelho",
+        "term": "ayna"
+      },
+      {
+        "pt": "prato",
+        "term": "tabak"
+      },
+      {
+        "pt": "copo",
+        "term": "bardak"
+      },
+      {
+        "pt": "sabonete",
+        "term": "sabun"
+      },
+      {
+        "pt": "toalha",
+        "term": "havlu"
+      }
+    ],
+    "verbs_actions": [
+      {
+        "pt": "ser",
+        "term": "olmak"
+      },
+      {
+        "pt": "ter",
+        "term": "sahip olmak"
+      },
+      {
+        "pt": "ir",
+        "term": "gitmek"
+      },
+      {
+        "pt": "comer",
+        "term": "yemek"
+      },
+      {
+        "pt": "beber",
+        "term": "içmek"
+      },
+      {
+        "pt": "falar",
+        "term": "konuşmak"
+      },
+      {
+        "pt": "ver",
+        "term": "görmek"
+      },
+      {
+        "pt": "ouvir",
+        "term": "duymak"
+      },
+      {
+        "pt": "ler",
+        "term": "okumak"
+      },
+      {
+        "pt": "escrever",
+        "term": "yazmak"
+      },
+      {
+        "pt": "querer",
+        "term": "istemek"
+      },
+      {
+        "pt": "fazer",
+        "term": "yapmak"
+      },
+      {
+        "pt": "dormir",
+        "term": "uyumak"
+      },
+      {
+        "pt": "andar",
+        "term": "yürümek"
+      },
+      {
+        "pt": "comprar",
+        "term": "satın almak"
+      },
+      {
+        "pt": "gostar",
+        "term": "hoşlanmak"
+      }
+    ],
+    "body_health": [
+      {
+        "pt": "cabeça",
+        "term": "baş"
+      },
+      {
+        "pt": "cabelo",
+        "term": "saç"
+      },
+      {
+        "pt": "olho",
+        "term": "göz"
+      },
+      {
+        "pt": "nariz",
+        "term": "burun"
+      },
+      {
+        "pt": "boca",
+        "term": "ağız"
+      },
+      {
+        "pt": "dente",
+        "term": "diş"
+      },
+      {
+        "pt": "orelha",
+        "term": "kulak"
+      },
+      {
+        "pt": "mão",
+        "term": "el"
+      },
+      {
+        "pt": "braço",
+        "term": "kol"
+      },
+      {
+        "pt": "perna",
+        "term": "bacak"
+      },
+      {
+        "pt": "pé",
+        "term": "ayak"
+      },
+      {
+        "pt": "coração",
+        "term": "kalp"
+      },
+      {
+        "pt": "médico",
+        "term": "doktor"
+      },
+      {
+        "pt": "remédio",
+        "term": "ilaç"
+      },
+      {
+        "pt": "dor",
+        "term": "ağrı"
+      },
+      {
+        "pt": "saúde",
+        "term": "sağlık"
+      }
+    ],
+    "work_school": [
+      {
+        "pt": "escola",
+        "term": "okul"
+      },
+      {
+        "pt": "professor",
+        "term": "öğretmen"
+      },
+      {
+        "pt": "aluno",
+        "term": "öğrenci"
+      },
+      {
+        "pt": "livro",
+        "term": "kitap"
+      },
+      {
+        "pt": "caneta",
+        "term": "kalem"
+      },
+      {
+        "pt": "papel",
+        "term": "kağıt"
+      },
+      {
+        "pt": "lápis",
+        "term": "kurşun kalem"
+      },
+      {
+        "pt": "computador",
+        "term": "bilgisayar"
+      },
+      {
+        "pt": "trabalho",
+        "term": "iş"
+      },
+      {
+        "pt": "dinheiro",
+        "term": "para"
+      },
+      {
+        "pt": "emprego",
+        "term": "iş"
+      },
+      {
+        "pt": "aula",
+        "term": "ders"
+      },
+      {
+        "pt": "prova",
+        "term": "sınav"
+      },
+      {
+        "pt": "escritório",
+        "term": "ofis"
+      },
+      {
+        "pt": "reunião",
+        "term": "toplantı"
+      },
+      {
+        "pt": "ideia",
+        "term": "fikir"
+      }
+    ],
+    "time_weather": [
+      {
+        "pt": "dia",
+        "term": "gün"
+      },
+      {
+        "pt": "noite",
+        "term": "gece"
+      },
+      {
+        "pt": "manhã",
+        "term": "sabah"
+      },
+      {
+        "pt": "tarde",
+        "term": "öğleden sonra"
+      },
+      {
+        "pt": "semana",
+        "term": "hafta"
+      },
+      {
+        "pt": "mês",
+        "term": "ay"
+      },
+      {
+        "pt": "ano",
+        "term": "yıl"
+      },
+      {
+        "pt": "hora",
+        "term": "saat"
+      },
+      {
+        "pt": "minuto",
+        "term": "dakika"
+      },
+      {
+        "pt": "chuva",
+        "term": "yağmur"
+      },
+      {
+        "pt": "neve",
+        "term": "kar"
+      },
+      {
+        "pt": "vento",
+        "term": "rüzgâr"
+      },
+      {
+        "pt": "calor",
+        "term": "sıcak"
+      },
+      {
+        "pt": "frio",
+        "term": "soğuk"
+      },
+      {
+        "pt": "nuvem",
+        "term": "bulut"
+      },
+      {
+        "pt": "céu",
+        "term": "gökyüzü"
+      }
+    ],
+    "travel": [
+      {
+        "pt": "cidade",
+        "term": "şehir"
+      },
+      {
+        "pt": "rua",
+        "term": "sokak"
+      },
+      {
+        "pt": "carro",
+        "term": "araba"
+      },
+      {
+        "pt": "ônibus",
+        "term": "otobüs"
+      },
+      {
+        "pt": "hotel",
+        "term": "otel"
+      },
+      {
+        "pt": "mapa",
+        "term": "harita"
+      },
+      {
+        "pt": "praia",
+        "term": "plaj"
+      },
+      {
+        "pt": "aeroporto",
+        "term": "havalimanı"
+      },
+      {
+        "pt": "trem",
+        "term": "tren"
+      },
+      {
+        "pt": "bilhete",
+        "term": "bilet"
+      },
+      {
+        "pt": "avião",
+        "term": "uçak"
+      },
+      {
+        "pt": "barco",
+        "term": "tekne"
+      },
+      {
+        "pt": "estação",
+        "term": "istasyon"
+      },
+      {
+        "pt": "passaporte",
+        "term": "pasaport"
+      },
+      {
+        "pt": "mala",
+        "term": "valiz"
+      },
+      {
+        "pt": "táxi",
+        "term": "taksi"
+      }
+    ],
+    "conversation": [
+      {
+        "pt": "amor",
+        "term": "aşk"
+      },
+      {
+        "pt": "feliz",
+        "term": "mutlu"
+      },
+      {
+        "pt": "triste",
+        "term": "üzgün"
+      },
+      {
+        "pt": "hoje",
+        "term": "bugün"
+      },
+      {
+        "pt": "amanhã",
+        "term": "yarın"
+      },
+      {
+        "pt": "bonito",
+        "term": "güzel"
+      },
+      {
+        "pt": "grande",
+        "term": "büyük"
+      },
+      {
+        "pt": "pequeno",
+        "term": "küçük"
+      },
+      {
+        "pt": "novo",
+        "term": "yeni"
+      },
+      {
+        "pt": "bem",
+        "term": "iyi"
+      },
+      {
+        "pt": "ontem",
+        "term": "dün"
+      },
+      {
+        "pt": "agora",
+        "term": "şimdi"
+      },
+      {
+        "pt": "aqui",
+        "term": "burada"
+      },
+      {
+        "pt": "muito",
+        "term": "çok"
+      },
+      {
+        "pt": "pouco",
+        "term": "az"
+      },
+      {
+        "pt": "também",
+        "term": "de"
+      }
+    ]
+  },
+  "sentences": {
+    "greetings": [
+      {
+        "pt": "Olá, tudo bem?",
+        "term": "Merhaba , nasılsın ?"
+      },
+      {
+        "pt": "Bom dia!",
+        "term": "Günaydın !"
+      },
+      {
+        "pt": "Muito obrigado.",
+        "term": "Çok teşekkür ederim ."
+      },
+      {
+        "pt": "Boa noite, mãe.",
+        "term": "İyi geceler , anne ."
+      },
+      {
+        "pt": "Até logo, amigo!",
+        "term": "Görüşürüz , arkadaşım !"
+      },
+      {
+        "pt": "Sim, por favor.",
+        "term": "Evet , lütfen ."
+      }
+    ],
+    "numbers_colors": [
+      {
+        "pt": "Eu tenho dois gatos.",
+        "term": "İki kedim var ."
+      },
+      {
+        "pt": "A casa é azul.",
+        "term": "Ev mavi ."
+      },
+      {
+        "pt": "Eu vejo três flores.",
+        "term": "Üç çiçek görüyorum ."
+      },
+      {
+        "pt": "O carro é vermelho.",
+        "term": "Araba kırmızı ."
+      },
+      {
+        "pt": "Tenho cinco amigos.",
+        "term": "Beş arkadaşım var ."
+      },
+      {
+        "pt": "A porta é branca.",
+        "term": "Kapı beyaz ."
+      }
+    ],
+    "family": [
+      {
+        "pt": "Esta é a minha mãe.",
+        "term": "Bu benim annem ."
+      },
+      {
+        "pt": "Eu amo a minha família.",
+        "term": "Ailemi seviyorum ."
+      },
+      {
+        "pt": "O meu pai é grande.",
+        "term": "Babam büyük ."
+      },
+      {
+        "pt": "Tenho um irmão e uma irmã.",
+        "term": "Bir erkek kardeşim ve bir kız kardeşim var ."
+      },
+      {
+        "pt": "A minha avó é bonita.",
+        "term": "Büyükannem güzel ."
+      },
+      {
+        "pt": "O bebê dorme agora.",
+        "term": "Bebek şimdi uyuyor ."
+      }
+    ],
+    "food": [
+      {
+        "pt": "Eu bebo água.",
+        "term": "Su içiyorum ."
+      },
+      {
+        "pt": "Eu como pão.",
+        "term": "Ekmek yiyorum ."
+      },
+      {
+        "pt": "Eu gosto de café.",
+        "term": "Kahveyi seviyorum ."
+      },
+      {
+        "pt": "Quero uma maçã.",
+        "term": "Bir elma istiyorum ."
+      },
+      {
+        "pt": "A sopa é boa.",
+        "term": "Çorba güzel ."
+      },
+      {
+        "pt": "Você quer suco?",
+        "term": "Meyve suyu ister misin ?"
+      }
+    ],
+    "animals_nature": [
+      {
+        "pt": "O cachorro é grande.",
+        "term": "Köpek büyük ."
+      },
+      {
+        "pt": "Eu vejo um pássaro.",
+        "term": "Bir kuş görüyorum ."
+      },
+      {
+        "pt": "O gato dorme na cama.",
+        "term": "Kedi yatakta uyuyor ."
+      },
+      {
+        "pt": "O sol é amarelo.",
+        "term": "Güneş sarı ."
+      },
+      {
+        "pt": "A árvore é grande.",
+        "term": "Ağaç büyük ."
+      },
+      {
+        "pt": "O peixe está no rio.",
+        "term": "Balık nehirde ."
+      }
+    ],
+    "home_daily": [
+      {
+        "pt": "A chave está na mesa.",
+        "term": "Anahtar masada ."
+      },
+      {
+        "pt": "A cama é grande.",
+        "term": "Yatak büyük ."
+      },
+      {
+        "pt": "Eu como na cozinha.",
+        "term": "Mutfakta yemek yiyorum ."
+      },
+      {
+        "pt": "O copo está na mesa.",
+        "term": "Bardak masada ."
+      },
+      {
+        "pt": "A janela é pequena.",
+        "term": "Pencere küçük ."
+      },
+      {
+        "pt": "Eu gosto da minha casa.",
+        "term": "Evimi seviyorum ."
+      }
+    ],
+    "verbs_actions": [
+      {
+        "pt": "Eu quero comer.",
+        "term": "Yemek istiyorum ."
+      },
+      {
+        "pt": "Você gosta de ler?",
+        "term": "Okumayı sever misin ?"
+      },
+      {
+        "pt": "Nós vamos andar.",
+        "term": "Yürüyeceğiz ."
+      },
+      {
+        "pt": "Ele quer dormir.",
+        "term": "O uyumak istiyor ."
+      },
+      {
+        "pt": "Eu gosto de falar.",
+        "term": "Konuşmayı seviyorum ."
+      },
+      {
+        "pt": "Eu vou comprar pão.",
+        "term": "Ekmek alacağım ."
+      }
+    ],
+    "body_health": [
+      {
+        "pt": "Eu tenho dor de cabeça.",
+        "term": "Başım ağrıyor ."
+      },
+      {
+        "pt": "O médico é bom.",
+        "term": "Doktor iyi ."
+      },
+      {
+        "pt": "Eu tenho dois olhos.",
+        "term": "İki gözüm var ."
+      },
+      {
+        "pt": "As minhas mãos estão frias.",
+        "term": "Ellerim soğuk ."
+      },
+      {
+        "pt": "O meu coração é grande.",
+        "term": "Kalbim büyük ."
+      },
+      {
+        "pt": "Eu quero saúde.",
+        "term": "Sağlık istiyorum ."
+      }
+    ],
+    "work_school": [
+      {
+        "pt": "Eu vou à escola.",
+        "term": "Okula gidiyorum ."
+      },
+      {
+        "pt": "O professor é bom.",
+        "term": "Öğretmen iyi ."
+      },
+      {
+        "pt": "Eu leio um livro.",
+        "term": "Bir kitap okuyorum ."
+      },
+      {
+        "pt": "Eu gosto da escola.",
+        "term": "Okulu seviyorum ."
+      },
+      {
+        "pt": "Tenho uma caneta nova.",
+        "term": "Yeni bir kalemim var ."
+      },
+      {
+        "pt": "Eu escrevo no papel.",
+        "term": "Kâğıda yazıyorum ."
+      }
+    ],
+    "time_weather": [
+      {
+        "pt": "Hoje está frio.",
+        "term": "Bugün hava soğuk ."
+      },
+      {
+        "pt": "Hoje tem chuva.",
+        "term": "Bugün yağmur var ."
+      },
+      {
+        "pt": "O dia está bonito.",
+        "term": "Gün güzel ."
+      },
+      {
+        "pt": "A manhã está fria.",
+        "term": "Sabah soğuk ."
+      },
+      {
+        "pt": "Gosto da noite.",
+        "term": "Geceyi seviyorum ."
+      },
+      {
+        "pt": "O céu é azul.",
+        "term": "Gökyüzü mavi ."
+      }
+    ],
+    "travel": [
+      {
+        "pt": "Onde fica o hotel?",
+        "term": "Otel nerede ?"
+      },
+      {
+        "pt": "Eu vou de carro.",
+        "term": "Arabayla gidiyorum ."
+      },
+      {
+        "pt": "A praia é bonita.",
+        "term": "Plaj güzel ."
+      },
+      {
+        "pt": "Quero um bilhete, por favor.",
+        "term": "Bir bilet istiyorum , lütfen ."
+      },
+      {
+        "pt": "O trem é grande.",
+        "term": "Tren büyük ."
+      },
+      {
+        "pt": "A cidade é bonita.",
+        "term": "Şehir güzel ."
+      }
+    ],
+    "conversation": [
+      {
+        "pt": "Eu estou feliz hoje.",
+        "term": "Bugün mutluyum ."
+      },
+      {
+        "pt": "Amanhã eu vou.",
+        "term": "Yarın gideceğim ."
+      },
+      {
+        "pt": "Eu gosto muito de você.",
+        "term": "Seni çok seviyorum ."
+      },
+      {
+        "pt": "Hoje é um bom dia.",
+        "term": "Bugün güzel bir gün ."
+      },
+      {
+        "pt": "Eu estou aqui agora.",
+        "term": "Şimdi buradayım ."
+      },
+      {
+        "pt": "Você é muito bonito.",
+        "term": "Sen çok güzelsin ."
+      }
+    ]
+  }
+}

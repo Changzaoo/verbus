@@ -1,0 +1,1111 @@
+{
+  "code": "it",
+  "themes": {
+    "greetings": [
+      {
+        "pt": "olá",
+        "term": "ciao"
+      },
+      {
+        "pt": "tchau",
+        "term": "arrivederci"
+      },
+      {
+        "pt": "obrigado(a)",
+        "term": "grazie"
+      },
+      {
+        "pt": "por favor",
+        "term": "per favore"
+      },
+      {
+        "pt": "sim",
+        "term": "sì"
+      },
+      {
+        "pt": "não",
+        "term": "no"
+      },
+      {
+        "pt": "bom dia",
+        "term": "buongiorno"
+      },
+      {
+        "pt": "boa noite",
+        "term": "buonanotte"
+      },
+      {
+        "pt": "desculpe",
+        "term": "scusa"
+      },
+      {
+        "pt": "com licença",
+        "term": "permesso"
+      },
+      {
+        "pt": "boa tarde",
+        "term": "buon pomeriggio"
+      },
+      {
+        "pt": "prazer em conhecer",
+        "term": "piacere di conoscerti"
+      },
+      {
+        "pt": "tudo bem?",
+        "term": "tutto bene?"
+      },
+      {
+        "pt": "até logo",
+        "term": "a presto"
+      },
+      {
+        "pt": "de nada",
+        "term": "prego"
+      },
+      {
+        "pt": "com certeza",
+        "term": "certamente"
+      }
+    ],
+    "numbers_colors": [
+      {
+        "pt": "um",
+        "term": "uno"
+      },
+      {
+        "pt": "dois",
+        "term": "due"
+      },
+      {
+        "pt": "três",
+        "term": "tre"
+      },
+      {
+        "pt": "quatro",
+        "term": "quattro"
+      },
+      {
+        "pt": "cinco",
+        "term": "cinque"
+      },
+      {
+        "pt": "vermelho",
+        "term": "rosso"
+      },
+      {
+        "pt": "azul",
+        "term": "blu"
+      },
+      {
+        "pt": "verde",
+        "term": "verde"
+      },
+      {
+        "pt": "amarelo",
+        "term": "giallo"
+      },
+      {
+        "pt": "preto",
+        "term": "nero"
+      },
+      {
+        "pt": "seis",
+        "term": "sei"
+      },
+      {
+        "pt": "sete",
+        "term": "sette"
+      },
+      {
+        "pt": "oito",
+        "term": "otto"
+      },
+      {
+        "pt": "nove",
+        "term": "nove"
+      },
+      {
+        "pt": "dez",
+        "term": "dieci"
+      },
+      {
+        "pt": "branco",
+        "term": "bianco"
+      }
+    ],
+    "family": [
+      {
+        "pt": "mãe",
+        "term": "mamma"
+      },
+      {
+        "pt": "pai",
+        "term": "papà"
+      },
+      {
+        "pt": "irmão",
+        "term": "fratello"
+      },
+      {
+        "pt": "irmã",
+        "term": "sorella"
+      },
+      {
+        "pt": "avó",
+        "term": "nonna"
+      },
+      {
+        "pt": "avô",
+        "term": "nonno"
+      },
+      {
+        "pt": "filho",
+        "term": "figlio"
+      },
+      {
+        "pt": "filha",
+        "term": "figlia"
+      },
+      {
+        "pt": "amigo",
+        "term": "amico"
+      },
+      {
+        "pt": "família",
+        "term": "famiglia"
+      },
+      {
+        "pt": "marido",
+        "term": "marito"
+      },
+      {
+        "pt": "esposa",
+        "term": "moglie"
+      },
+      {
+        "pt": "tio",
+        "term": "zio"
+      },
+      {
+        "pt": "tia",
+        "term": "zia"
+      },
+      {
+        "pt": "primo",
+        "term": "cugino"
+      },
+      {
+        "pt": "bebê",
+        "term": "neonato"
+      }
+    ],
+    "food": [
+      {
+        "pt": "água",
+        "term": "acqua"
+      },
+      {
+        "pt": "pão",
+        "term": "pane"
+      },
+      {
+        "pt": "maçã",
+        "term": "mela"
+      },
+      {
+        "pt": "leite",
+        "term": "latte"
+      },
+      {
+        "pt": "café",
+        "term": "caffè"
+      },
+      {
+        "pt": "arroz",
+        "term": "riso"
+      },
+      {
+        "pt": "queijo",
+        "term": "formaggio"
+      },
+      {
+        "pt": "ovo",
+        "term": "uovo"
+      },
+      {
+        "pt": "fruta",
+        "term": "frutta"
+      },
+      {
+        "pt": "carne",
+        "term": "carne"
+      },
+      {
+        "pt": "sopa",
+        "term": "zuppa"
+      },
+      {
+        "pt": "salada",
+        "term": "insalata"
+      },
+      {
+        "pt": "açúcar",
+        "term": "zucchero"
+      },
+      {
+        "pt": "sal",
+        "term": "sale"
+      },
+      {
+        "pt": "suco",
+        "term": "succo"
+      },
+      {
+        "pt": "bolo",
+        "term": "torta"
+      }
+    ],
+    "animals_nature": [
+      {
+        "pt": "cachorro",
+        "term": "cane"
+      },
+      {
+        "pt": "gato",
+        "term": "gatto"
+      },
+      {
+        "pt": "pássaro",
+        "term": "uccello"
+      },
+      {
+        "pt": "peixe",
+        "term": "pesce"
+      },
+      {
+        "pt": "cavalo",
+        "term": "cavallo"
+      },
+      {
+        "pt": "árvore",
+        "term": "albero"
+      },
+      {
+        "pt": "sol",
+        "term": "sole"
+      },
+      {
+        "pt": "lua",
+        "term": "luna"
+      },
+      {
+        "pt": "flor",
+        "term": "fiore"
+      },
+      {
+        "pt": "rio",
+        "term": "fiume"
+      },
+      {
+        "pt": "vaca",
+        "term": "mucca"
+      },
+      {
+        "pt": "galinha",
+        "term": "gallina"
+      },
+      {
+        "pt": "coelho",
+        "term": "coniglio"
+      },
+      {
+        "pt": "montanha",
+        "term": "montagna"
+      },
+      {
+        "pt": "mar",
+        "term": "mare"
+      },
+      {
+        "pt": "estrela",
+        "term": "stella"
+      }
+    ],
+    "home_daily": [
+      {
+        "pt": "casa",
+        "term": "casa"
+      },
+      {
+        "pt": "porta",
+        "term": "porta"
+      },
+      {
+        "pt": "mesa",
+        "term": "tavolo"
+      },
+      {
+        "pt": "cama",
+        "term": "letto"
+      },
+      {
+        "pt": "cadeira",
+        "term": "sedia"
+      },
+      {
+        "pt": "janela",
+        "term": "finestra"
+      },
+      {
+        "pt": "cozinha",
+        "term": "cucina"
+      },
+      {
+        "pt": "banheiro",
+        "term": "bagno"
+      },
+      {
+        "pt": "chave",
+        "term": "chiave"
+      },
+      {
+        "pt": "relógio",
+        "term": "orologio"
+      },
+      {
+        "pt": "sofá",
+        "term": "divano"
+      },
+      {
+        "pt": "espelho",
+        "term": "specchio"
+      },
+      {
+        "pt": "prato",
+        "term": "piatto"
+      },
+      {
+        "pt": "copo",
+        "term": "bicchiere"
+      },
+      {
+        "pt": "sabonete",
+        "term": "sapone"
+      },
+      {
+        "pt": "toalha",
+        "term": "asciugamano"
+      }
+    ],
+    "verbs_actions": [
+      {
+        "pt": "ser",
+        "term": "essere"
+      },
+      {
+        "pt": "ter",
+        "term": "avere"
+      },
+      {
+        "pt": "ir",
+        "term": "andare"
+      },
+      {
+        "pt": "comer",
+        "term": "mangiare"
+      },
+      {
+        "pt": "beber",
+        "term": "bere"
+      },
+      {
+        "pt": "falar",
+        "term": "parlare"
+      },
+      {
+        "pt": "ver",
+        "term": "vedere"
+      },
+      {
+        "pt": "ouvir",
+        "term": "sentire"
+      },
+      {
+        "pt": "ler",
+        "term": "leggere"
+      },
+      {
+        "pt": "escrever",
+        "term": "scrivere"
+      },
+      {
+        "pt": "querer",
+        "term": "volere"
+      },
+      {
+        "pt": "fazer",
+        "term": "fare"
+      },
+      {
+        "pt": "dormir",
+        "term": "dormire"
+      },
+      {
+        "pt": "andar",
+        "term": "camminare"
+      },
+      {
+        "pt": "comprar",
+        "term": "comprare"
+      },
+      {
+        "pt": "gostar",
+        "term": "piacere"
+      }
+    ],
+    "body_health": [
+      {
+        "pt": "cabeça",
+        "term": "testa"
+      },
+      {
+        "pt": "cabelo",
+        "term": "capelli"
+      },
+      {
+        "pt": "olho",
+        "term": "occhio"
+      },
+      {
+        "pt": "nariz",
+        "term": "naso"
+      },
+      {
+        "pt": "boca",
+        "term": "bocca"
+      },
+      {
+        "pt": "dente",
+        "term": "dente"
+      },
+      {
+        "pt": "orelha",
+        "term": "orecchio"
+      },
+      {
+        "pt": "mão",
+        "term": "mano"
+      },
+      {
+        "pt": "braço",
+        "term": "braccio"
+      },
+      {
+        "pt": "perna",
+        "term": "gamba"
+      },
+      {
+        "pt": "pé",
+        "term": "piede"
+      },
+      {
+        "pt": "coração",
+        "term": "cuore"
+      },
+      {
+        "pt": "médico",
+        "term": "medico"
+      },
+      {
+        "pt": "remédio",
+        "term": "medicina"
+      },
+      {
+        "pt": "dor",
+        "term": "dolore"
+      },
+      {
+        "pt": "saúde",
+        "term": "salute"
+      }
+    ],
+    "work_school": [
+      {
+        "pt": "escola",
+        "term": "scuola"
+      },
+      {
+        "pt": "professor",
+        "term": "insegnante"
+      },
+      {
+        "pt": "aluno",
+        "term": "studente"
+      },
+      {
+        "pt": "livro",
+        "term": "libro"
+      },
+      {
+        "pt": "caneta",
+        "term": "penna"
+      },
+      {
+        "pt": "papel",
+        "term": "carta"
+      },
+      {
+        "pt": "lápis",
+        "term": "matita"
+      },
+      {
+        "pt": "computador",
+        "term": "computer"
+      },
+      {
+        "pt": "trabalho",
+        "term": "lavoro"
+      },
+      {
+        "pt": "dinheiro",
+        "term": "denaro"
+      },
+      {
+        "pt": "emprego",
+        "term": "impiego"
+      },
+      {
+        "pt": "aula",
+        "term": "lezione"
+      },
+      {
+        "pt": "prova",
+        "term": "esame"
+      },
+      {
+        "pt": "escritório",
+        "term": "ufficio"
+      },
+      {
+        "pt": "reunião",
+        "term": "riunione"
+      },
+      {
+        "pt": "ideia",
+        "term": "idea"
+      }
+    ],
+    "time_weather": [
+      {
+        "pt": "dia",
+        "term": "giorno"
+      },
+      {
+        "pt": "noite",
+        "term": "notte"
+      },
+      {
+        "pt": "manhã",
+        "term": "mattina"
+      },
+      {
+        "pt": "tarde",
+        "term": "pomeriggio"
+      },
+      {
+        "pt": "semana",
+        "term": "settimana"
+      },
+      {
+        "pt": "mês",
+        "term": "mese"
+      },
+      {
+        "pt": "ano",
+        "term": "anno"
+      },
+      {
+        "pt": "hora",
+        "term": "ora"
+      },
+      {
+        "pt": "minuto",
+        "term": "minuto"
+      },
+      {
+        "pt": "chuva",
+        "term": "pioggia"
+      },
+      {
+        "pt": "neve",
+        "term": "neve"
+      },
+      {
+        "pt": "vento",
+        "term": "vento"
+      },
+      {
+        "pt": "calor",
+        "term": "caldo"
+      },
+      {
+        "pt": "frio",
+        "term": "freddo"
+      },
+      {
+        "pt": "nuvem",
+        "term": "nuvola"
+      },
+      {
+        "pt": "céu",
+        "term": "cielo"
+      }
+    ],
+    "travel": [
+      {
+        "pt": "cidade",
+        "term": "città"
+      },
+      {
+        "pt": "rua",
+        "term": "strada"
+      },
+      {
+        "pt": "carro",
+        "term": "macchina"
+      },
+      {
+        "pt": "ônibus",
+        "term": "autobus"
+      },
+      {
+        "pt": "hotel",
+        "term": "albergo"
+      },
+      {
+        "pt": "mapa",
+        "term": "mappa"
+      },
+      {
+        "pt": "praia",
+        "term": "spiaggia"
+      },
+      {
+        "pt": "aeroporto",
+        "term": "aeroporto"
+      },
+      {
+        "pt": "trem",
+        "term": "treno"
+      },
+      {
+        "pt": "bilhete",
+        "term": "biglietto"
+      },
+      {
+        "pt": "avião",
+        "term": "aereo"
+      },
+      {
+        "pt": "barco",
+        "term": "barca"
+      },
+      {
+        "pt": "estação",
+        "term": "stazione"
+      },
+      {
+        "pt": "passaporte",
+        "term": "passaporto"
+      },
+      {
+        "pt": "mala",
+        "term": "valigia"
+      },
+      {
+        "pt": "táxi",
+        "term": "taxi"
+      }
+    ],
+    "conversation": [
+      {
+        "pt": "amor",
+        "term": "amore"
+      },
+      {
+        "pt": "feliz",
+        "term": "felice"
+      },
+      {
+        "pt": "triste",
+        "term": "triste"
+      },
+      {
+        "pt": "hoje",
+        "term": "oggi"
+      },
+      {
+        "pt": "amanhã",
+        "term": "domani"
+      },
+      {
+        "pt": "bonito",
+        "term": "bello"
+      },
+      {
+        "pt": "grande",
+        "term": "grande"
+      },
+      {
+        "pt": "pequeno",
+        "term": "piccolo"
+      },
+      {
+        "pt": "novo",
+        "term": "nuovo"
+      },
+      {
+        "pt": "bem",
+        "term": "bene"
+      },
+      {
+        "pt": "ontem",
+        "term": "ieri"
+      },
+      {
+        "pt": "agora",
+        "term": "adesso"
+      },
+      {
+        "pt": "aqui",
+        "term": "qui"
+      },
+      {
+        "pt": "muito",
+        "term": "molto"
+      },
+      {
+        "pt": "pouco",
+        "term": "poco"
+      },
+      {
+        "pt": "também",
+        "term": "anche"
+      }
+    ]
+  },
+  "sentences": {
+    "greetings": [
+      {
+        "pt": "Olá, tudo bem?",
+        "term": "Ciao , tutto bene ?"
+      },
+      {
+        "pt": "Bom dia!",
+        "term": "Buongiorno !"
+      },
+      {
+        "pt": "Muito obrigado.",
+        "term": "Grazie mille ."
+      },
+      {
+        "pt": "Boa noite, mãe.",
+        "term": "Buonanotte , mamma ."
+      },
+      {
+        "pt": "Até logo, amigo!",
+        "term": "A presto , amico !"
+      },
+      {
+        "pt": "Sim, por favor.",
+        "term": "Sì , per favore ."
+      }
+    ],
+    "numbers_colors": [
+      {
+        "pt": "Eu tenho dois gatos.",
+        "term": "Ho due gatti ."
+      },
+      {
+        "pt": "A casa é azul.",
+        "term": "La casa è blu ."
+      },
+      {
+        "pt": "Eu vejo três flores.",
+        "term": "Vedo tre fiori ."
+      },
+      {
+        "pt": "O carro é vermelho.",
+        "term": "La macchina è rossa ."
+      },
+      {
+        "pt": "Tenho cinco amigos.",
+        "term": "Ho cinque amici ."
+      },
+      {
+        "pt": "A porta é branca.",
+        "term": "La porta è bianca ."
+      }
+    ],
+    "family": [
+      {
+        "pt": "Esta é a minha mãe.",
+        "term": "Questa è mia madre ."
+      },
+      {
+        "pt": "Eu amo a minha família.",
+        "term": "Amo la mia famiglia ."
+      },
+      {
+        "pt": "O meu pai é grande.",
+        "term": "Mio padre è grande ."
+      },
+      {
+        "pt": "Tenho um irmão e uma irmã.",
+        "term": "Ho un fratello e una sorella ."
+      },
+      {
+        "pt": "A minha avó é bonita.",
+        "term": "Mia nonna è bella ."
+      },
+      {
+        "pt": "O bebê dorme agora.",
+        "term": "Il bambino dorme adesso ."
+      }
+    ],
+    "food": [
+      {
+        "pt": "Eu bebo água.",
+        "term": "Bevo acqua ."
+      },
+      {
+        "pt": "Eu como pão.",
+        "term": "Mangio pane ."
+      },
+      {
+        "pt": "Eu gosto de café.",
+        "term": "Mi piace il caffè ."
+      },
+      {
+        "pt": "Quero uma maçã.",
+        "term": "Voglio una mela ."
+      },
+      {
+        "pt": "A sopa é boa.",
+        "term": "La zuppa è buona ."
+      },
+      {
+        "pt": "Você quer suco?",
+        "term": "Vuoi del succo ?"
+      }
+    ],
+    "animals_nature": [
+      {
+        "pt": "O cachorro é grande.",
+        "term": "Il cane è grande ."
+      },
+      {
+        "pt": "Eu vejo um pássaro.",
+        "term": "Vedo un uccello ."
+      },
+      {
+        "pt": "O gato dorme na cama.",
+        "term": "Il gatto dorme sul letto ."
+      },
+      {
+        "pt": "O sol é amarelo.",
+        "term": "Il sole è giallo ."
+      },
+      {
+        "pt": "A árvore é grande.",
+        "term": "L' albero è grande ."
+      },
+      {
+        "pt": "O peixe está no rio.",
+        "term": "Il pesce è nel fiume ."
+      }
+    ],
+    "home_daily": [
+      {
+        "pt": "A chave está na mesa.",
+        "term": "La chiave è sul tavolo ."
+      },
+      {
+        "pt": "A cama é grande.",
+        "term": "Il letto è grande ."
+      },
+      {
+        "pt": "Eu como na cozinha.",
+        "term": "Mangio in cucina ."
+      },
+      {
+        "pt": "O copo está na mesa.",
+        "term": "Il bicchiere è sul tavolo ."
+      },
+      {
+        "pt": "A janela é pequena.",
+        "term": "La finestra è piccola ."
+      },
+      {
+        "pt": "Eu gosto da minha casa.",
+        "term": "Mi piace la mia casa ."
+      }
+    ],
+    "verbs_actions": [
+      {
+        "pt": "Eu quero comer.",
+        "term": "Voglio mangiare ."
+      },
+      {
+        "pt": "Você gosta de ler?",
+        "term": "Ti piace leggere ?"
+      },
+      {
+        "pt": "Nós vamos andar.",
+        "term": "Andiamo a camminare ."
+      },
+      {
+        "pt": "Ele quer dormir.",
+        "term": "Lui vuole dormire ."
+      },
+      {
+        "pt": "Eu gosto de falar.",
+        "term": "Mi piace parlare ."
+      },
+      {
+        "pt": "Eu vou comprar pão.",
+        "term": "Vado a comprare il pane ."
+      }
+    ],
+    "body_health": [
+      {
+        "pt": "Eu tenho dor de cabeça.",
+        "term": "Ho mal di testa ."
+      },
+      {
+        "pt": "O médico é bom.",
+        "term": "Il medico è bravo ."
+      },
+      {
+        "pt": "Eu tenho dois olhos.",
+        "term": "Ho due occhi ."
+      },
+      {
+        "pt": "As minhas mãos estão frias.",
+        "term": "Le mie mani sono fredde ."
+      },
+      {
+        "pt": "O meu coração é grande.",
+        "term": "Il mio cuore è grande ."
+      },
+      {
+        "pt": "Eu quero saúde.",
+        "term": "Voglio la salute ."
+      }
+    ],
+    "work_school": [
+      {
+        "pt": "Eu vou à escola.",
+        "term": "Vado a scuola ."
+      },
+      {
+        "pt": "O professor é bom.",
+        "term": "Il professore è bravo ."
+      },
+      {
+        "pt": "Eu leio um livro.",
+        "term": "Leggo un libro ."
+      },
+      {
+        "pt": "Eu gosto da escola.",
+        "term": "Mi piace la scuola ."
+      },
+      {
+        "pt": "Tenho uma caneta nova.",
+        "term": "Ho una penna nuova ."
+      },
+      {
+        "pt": "Eu escrevo no papel.",
+        "term": "Scrivo sul foglio ."
+      }
+    ],
+    "time_weather": [
+      {
+        "pt": "Hoje está frio.",
+        "term": "Oggi fa freddo ."
+      },
+      {
+        "pt": "Hoje tem chuva.",
+        "term": "Oggi piove ."
+      },
+      {
+        "pt": "O dia está bonito.",
+        "term": "La giornata è bella ."
+      },
+      {
+        "pt": "A manhã está fria.",
+        "term": "La mattina è fredda ."
+      },
+      {
+        "pt": "Gosto da noite.",
+        "term": "Mi piace la notte ."
+      },
+      {
+        "pt": "O céu é azul.",
+        "term": "Il cielo è blu ."
+      }
+    ],
+    "travel": [
+      {
+        "pt": "Onde fica o hotel?",
+        "term": "Dov' è l' hotel ?"
+      },
+      {
+        "pt": "Eu vou de carro.",
+        "term": "Vado in macchina ."
+      },
+      {
+        "pt": "A praia é bonita.",
+        "term": "La spiaggia è bella ."
+      },
+      {
+        "pt": "Quero um bilhete, por favor.",
+        "term": "Voglio un biglietto , per favore ."
+      },
+      {
+        "pt": "O trem é grande.",
+        "term": "Il treno è grande ."
+      },
+      {
+        "pt": "A cidade é bonita.",
+        "term": "La città è bella ."
+      }
+    ],
+    "conversation": [
+      {
+        "pt": "Eu estou feliz hoje.",
+        "term": "Sono felice oggi ."
+      },
+      {
+        "pt": "Amanhã eu vou.",
+        "term": "Domani vado ."
+      },
+      {
+        "pt": "Eu gosto muito de você.",
+        "term": "Mi piaci molto ."
+      },
+      {
+        "pt": "Hoje é um bom dia.",
+        "term": "Oggi è una bella giornata ."
+      },
+      {
+        "pt": "Eu estou aqui agora.",
+        "term": "Sono qui adesso ."
+      },
+      {
+        "pt": "Você é muito bonito.",
+        "term": "Sei molto bello ."
+      }
+    ]
+  }
+}

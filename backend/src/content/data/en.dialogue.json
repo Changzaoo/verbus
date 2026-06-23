@@ -1,0 +1,101 @@
+{
+  "code": "en",
+  "lines": {
+    "greetings": [
+      { "term": "Hello ! Good morning !" },
+      { "term": "Good morning ! How are you ?" },
+      { "term": "I'm fine , thank you ! And you ?" },
+      { "term": "I'm well ! Nice to see you ." },
+      { "term": "See you later , friend !" },
+      { "term": "Bye ! See you later !" }
+    ],
+    "numbers_colors": [
+      { "term": "How many cats do you have ?" },
+      { "term": "I have two cats ." },
+      { "term": "What color is your house ?" },
+      { "term": "My house is blue ." },
+      { "term": "I see three red flowers ." },
+      { "term": "How beautiful !" }
+    ],
+    "family": [
+      { "term": "Is this your family ?" },
+      { "term": "Yes , this is my mother ." },
+      { "term": "And who is he ?" },
+      { "term": "He is my father . I have a brother too ." },
+      { "term": "Your family is big !" },
+      { "term": "I love my family ." }
+    ],
+    "food": [
+      { "term": "Do you want to eat ?" },
+      { "term": "Yes , I eat bread and cheese ." },
+      { "term": "Do you want to drink water ?" },
+      { "term": "No , I like coffee ." },
+      { "term": "The soup is ready !" },
+      { "term": "Thank you , the soup is good ." }
+    ],
+    "animals_nature": [
+      { "term": "Look , I see a bird !" },
+      { "term": "The bird is in the tree ." },
+      { "term": "Is your dog big ?" },
+      { "term": "Yes , and the cat sleeps on the bed ." },
+      { "term": "The sun is beautiful today ." },
+      { "term": "I like the river and the flowers ." }
+    ],
+    "home_daily": [
+      { "term": "Where is the key ?" },
+      { "term": "The key is on the table ." },
+      { "term": "Is your house big ?" },
+      { "term": "The house is small , but I like it ." },
+      { "term": "Where do you eat ?" },
+      { "term": "I eat in the kitchen ." }
+    ],
+    "verbs_actions": [
+      { "term": "What do you want to do today ?" },
+      { "term": "I want to eat and sleep ." },
+      { "term": "Do you like to read ?" },
+      { "term": "Yes , I like to read and write ." },
+      { "term": "Shall we walk in the city ?" },
+      { "term": "Yes , let's go !" }
+    ],
+    "body_health": [
+      { "term": "Are you okay ?" },
+      { "term": "No , I have a headache ." },
+      { "term": "Do you need a doctor ?" },
+      { "term": "Yes , I want some medicine ." },
+      { "term": "Take care of your health !" },
+      { "term": "Thank you , now I am better ." }
+    ],
+    "work_school": [
+      { "term": "Are you going to school today ?" },
+      { "term": "Yes , I have a test ." },
+      { "term": "Is the teacher good ?" },
+      { "term": "Yes , I like school ." },
+      { "term": "I am reading a new book ." },
+      { "term": "I write in my notebook ." }
+    ],
+    "time_weather": [
+      { "term": "How is the weather today ?" },
+      { "term": "Today it is cold and there is rain ." },
+      { "term": "And tomorrow ?" },
+      { "term": "Tomorrow the day will be beautiful ." },
+      { "term": "I like the morning ." },
+      { "term": "The sky is blue now ." }
+    ],
+    "travel": [
+      { "term": "Where are you going to travel ?" },
+      { "term": "I am going to the city by train ." },
+      { "term": "Where is the hotel ?" },
+      { "term": "The hotel is near the beach ." },
+      { "term": "Do you have the ticket ?" },
+      { "term": "Yes , and my passport too ." }
+    ],
+    "conversation": [
+      { "term": "How are you today ?" },
+      { "term": "I am very happy !" },
+      { "term": "Why ?" },
+      { "term": "Because today is a good day ." },
+      { "term": "I like you very much ." },
+      { "term": "You are a good friend ." }
+    ]
+  }
+}
