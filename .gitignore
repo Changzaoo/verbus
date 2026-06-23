@@ -8,3 +8,8 @@ backend/data/backups/
 .env
 .env.local
 .vercel/
+
+# Artefatos do tsc -b (composite)
+frontend/vite.config.js
+frontend/vite.config.d.ts
+*.tsbuildinfo
