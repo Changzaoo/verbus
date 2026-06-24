@@ -28,7 +28,28 @@ import settingsRoutes from './routes/settings.js';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const PORT = Number(process.env.PORT ?? 3333);
-const JWT_SECRET = process.env.JWT_SECRET ?? 'verbus-dev-secret-change-in-prod';
+const IS_PROD = process.env.NODE_ENV === 'production';
+
+const DEV_JWT_SECRET = 'verbus-dev-secret-change-in-prod';
+const JWT_SECRET = process.env.JWT_SECRET ?? DEV_JWT_SECRET;
+// Fail-safe: nunca subir em produção com o segredo de desenvolvimento ou fraco.
+if (IS_PROD && (JWT_SECRET === DEV_JWT_SECRET || JWT_SECRET.length < 32)) {
+  throw new Error(
+    '[verbus] JWT_SECRET ausente ou fraco em produção. Defina um valor aleatório com >= 32 chars (ex.: openssl rand -hex 32).',
+  );
+}
+
+// Whitelist de origens para CORS. Em produção, defina CORS_ORIGINS como lista
+// separada por vírgula. Em dev, libera o Vite local.
+const CORS_ORIGINS = (
+  process.env.CORS_ORIGINS ??
+  (IS_PROD
+    ? 'https://verbus.nexusholding.xyz'
+    : 'http://localhost:5173,http://localhost:5174,http://127.0.0.1:5173')
+)
+  .split(',')
+  .map((o) => o.trim())
+  .filter(Boolean);
 
 async function bootstrap() {
   // Garante o seed na primeira execução.
@@ -39,12 +60,43 @@ async function bootstrap() {
 
   const app = Fastify({ logger: { level: process.env.LOG_LEVEL ?? 'info' } });
 
-  await app.register(cors, { origin: true, credentials: true });
+  // CORS restrito à whitelist (substitui o antigo `origin: true`, que refletia
+  // qualquer origem junto de `credentials: true`).
+  await app.register(cors, {
+    origin: (origin, cb) => {
+      // Requisições sem Origin (curl, same-origin, health checks) são permitidas.
+      if (!origin || CORS_ORIGINS.includes(origin)) {
+        cb(null, true);
+        return;
+      }
+      cb(null, false);
+    },
+    credentials: true,
+  });
   await app.register(jwt, { secret: JWT_SECRET });
   await app.register(rateLimit, {
     max: 300,
     timeWindow: '1 minute',
     allowList: ['127.0.0.1'],
+    // Expõe os headers padronizados RateLimit-* e Retry-After ao exceder o limite.
+    enableDraftSpec: true,
+  });
+
+  // Headers de segurança em todas as respostas da API (defesa em profundidade,
+  // sem dependência nova). A API não serve HTML, então a CSP é mínima.
+  app.addHook('onSend', async (req, reply) => {
+    reply.header('X-Content-Type-Options', 'nosniff');
+    reply.header('X-Frame-Options', 'DENY');
+    reply.header('Referrer-Policy', 'no-referrer');
+    reply.header('Content-Security-Policy', "default-src 'none'; frame-ancestors 'none'");
+    reply.header('Cross-Origin-Opener-Policy', 'same-origin');
+    reply.header('Cross-Origin-Resource-Policy', 'same-origin');
+    reply.header('Permissions-Policy', 'geolocation=(), microphone=(), camera=()');
+    if (IS_PROD) {
+      reply.header('Strict-Transport-Security', 'max-age=31536000; includeSubDomains');
+    }
+    // Remove fingerprint do framework.
+    reply.removeHeader('x-powered-by');
   });
 
   app.get('/api/health', async () => ({ status: 'ok', db: DB_PATH }));
